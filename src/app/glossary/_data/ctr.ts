@@ -16,11 +16,11 @@ const data: GlossaryPageData = {
   ],
   example: "An online furniture store runs video ads on Meta with a 1.1% CTR — right at the industry average. They test three CTA changes: replacing 'Shop Now' with 'See It in Your Room' (AR preview feature), adding a mid-video text overlay saying 'Free delivery + free returns,' and ending with a specific product shot instead of a logo. The combination lifts CTR to 2.3% — a 109% improvement. Their CPM drops from $12.40 to $8.80, and CPA decreases from $67 to $41, all from optimizing the click-through moment.",
   product: {
-    intro: "members.mom helps you optimize CTR by making CTA testing fast and cheap:",
+    intro: "ReUGC helps you optimize CTR by making CTA testing fast and cheap:",
     points: [
       "Test CTAs systematically — Generate the same video with 5 different closing CTAs to find which language drives the most clicks. 'Learn more,' 'See pricing,' 'Watch the demo' — test them all and let the data decide.",
       "Mid-video CTA variations — Place your call-to-action at different points in the video to test whether your audience responds better to early, mid, or late CTAs. Generate each variation in minutes.",
-      "Pair CTA testing with hook testing — Use members.mom to test hooks and CTAs independently, then combine the winners for maximum performance. Plans start at $49/mo for 10 videos.",
+      "Pair CTA testing with hook testing — Use ReUGC to test hooks and CTAs independently, then combine the winners for maximum performance. Plans start at $49/mo for 10 videos.",
     ],
   },
   related: [

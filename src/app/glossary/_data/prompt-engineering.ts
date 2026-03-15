@@ -15,9 +15,9 @@ const data: GlossaryPageData = {
   ],
   example: "A supplement brand generates two videos with different prompt quality. Prompt A: 'Make a video about our protein powder.' Result: generic, unfocused, no clear hook or CTA — unusable. Prompt B: '28-second UGC testimonial. Female presenter, 30s, athletic but approachable. Opens with: I was skeptical about another protein powder. Casual, phone-filmed feel. Mentions taste (chocolate), mixability, and 30g protein. Ends with: Try the starter pack — link in bio. Upbeat but not over-the-top.' Result: focused, authentic-feeling, ready to run as an ad with minor tweaks. Same tool, same cost — the prompt made the difference.",
   product: {
-    intro: "members.mom is designed to make prompt engineering intuitive, even for beginners:",
+    intro: "ReUGC is designed to make prompt engineering intuitive, even for beginners:",
     points: [
-      "Guided script input — Rather than a blank prompt field, members.mom guides you through the key decisions: avatar selection, voice choice, script input, and format settings. The interface structures your input for optimal output.",
+      "Guided script input — Rather than a blank prompt field, ReUGC guides you through the key decisions: avatar selection, voice choice, script input, and format settings. The interface structures your input for optimal output.",
       "Visual preview before rendering — See how your script will look with your chosen avatar before committing a video credit. Adjust and refine before you render, reducing wasted iterations.",
       "Learn what works through testing — Generate multiple variations and compare results. Over time, you'll develop an intuition for which script styles, hooks, and structures produce the best output. Plans from $49/mo.",
     ],

@@ -16,11 +16,11 @@ const data: GlossaryPageData = {
   ],
   example: "A subscription box brand tests 4 CTAs on the same video ad. CTA A: 'Subscribe now' — 0.9% CTR. CTA B: 'Get your first box for $9.99' — 1.4% CTR. CTA C: 'See what's in this month's box' — 2.1% CTR. CTA D: 'Take the 60-second quiz to get your perfect box' — 1.8% CTR. CTA C wins because it creates curiosity without asking for a commitment. The viewer clicks to satisfy their curiosity, and the landing page converts them. CTA A fails because 'Subscribe now' feels like a big commitment from a cold audience.",
   product: {
-    intro: "members.mom makes CTA testing as easy as hook testing:",
+    intro: "ReUGC makes CTA testing as easy as hook testing:",
     points: [
       "Swap CTAs without reshooting — Generate the same video with 5 different closing CTAs. Test which language drives the most clicks and conversions without producing 5 separate videos from scratch.",
       "Test CTA placement — Create versions with the CTA at the midpoint, at the end, or repeated at both. Find the optimal placement for your audience and video length.",
-      "Pair CTA testing with hook testing — Use members.mom to independently optimize both ends of your video. Combine the winning hook with the winning CTA for maximum performance. Plans from $49/mo.",
+      "Pair CTA testing with hook testing — Use ReUGC to independently optimize both ends of your video. Combine the winning hook with the winning CTA for maximum performance. Plans from $49/mo.",
     ],
   },
   related: [

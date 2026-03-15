@@ -12,7 +12,7 @@ const data: AlternativePageData = {
   verdict: "Fiverr UGC works for one-off projects where you find a great creator. For consistent, scalable ad creative, AI tools eliminate the quality variance and deliver 50x faster at a fraction of the cost.",
   criteria: SHARED_CRITERIA, pick: SHARED_PICK,
   alternatives: [MAKEUGC, CREATIFY, HEYGEN, SYNTHESIA],
-  table: { headers: SHARED_TABLE_HEADERS, rows: [["Fiverr UGC", "$50–$300/video", "Varies", "$50–$300", "Real humans", "Varies", true, false, "N/A"], ["members.mom", "$49", "10", "$4.90", "50+", "29", true, true, "Native"], ["MakeUGC", "$49", "15", "$3.27", "~20", "1", true, false, "Basic"], ["Creatify", "$39", "10", "$3.90", "~25", "8", true, false, "Basic"], ["HeyGen", "$29", "3", "$9.67", "150+", "40+", false, false, "Strong"]] },
+  table: { headers: SHARED_TABLE_HEADERS, rows: [["Fiverr UGC", "$50–$300/video", "Varies", "$50–$300", "Real humans", "Varies", true, false, "N/A"], ["ReUGC", "$49", "10", "$4.90", "50+", "29", true, true, "Native"], ["MakeUGC", "$49", "15", "$3.27", "~20", "1", true, false, "Basic"], ["Creatify", "$39", "10", "$3.90", "~25", "8", true, false, "Basic"], ["HeyGen", "$29", "3", "$9.67", "150+", "40+", false, false, "Strong"]] },
   methodology: SHARED_METHODOLOGY,
   faq: [
     { q: "Is Fiverr good for UGC?", a: "Fiverr can deliver good UGC if you find the right creator. But quality varies wildly, turnaround is 3–7 days, and revisions cost extra. For consistent output at scale, AI is more reliable." },

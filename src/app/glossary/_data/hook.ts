@@ -16,10 +16,10 @@ const data: GlossaryPageData = {
   ],
   example: "A pet supplement brand writes one 25-second product video and tests 5 hooks: (1) 'My vet recommended this for my dog' — 24% thumb-stop. (2) 'I was spending $200/month at the vet' — 31% thumb-stop. (3) 'Watch my dog's energy change in 2 weeks' — 38% thumb-stop. (4) 'The ingredient most dog foods are missing' — 29% thumb-stop. (5) 'I almost put my dog down before I found this' — 46% thumb-stop. Hook #5 wins dramatically because it combines emotional stakes with a curiosity gap. They scale it and achieve their lowest CPA ever — $11 versus their $22 average.",
   product: {
-    intro: "members.mom is the fastest way to test hooks and build your hook library:",
+    intro: "ReUGC is the fastest way to test hooks and build your hook library:",
     points: [
-      "Generate hook variations in minutes — Write 5 different opening lines, and members.mom produces 5 complete videos with different hooks but identical body content. Launch all 5 and let the data pick the winner.",
-      "Visual hook testing — Beyond verbal hooks, test different visual openings: different avatars, different opening actions, different text overlay styles. members.mom makes visual hook testing as easy as text hook testing.",
+      "Generate hook variations in minutes — Write 5 different opening lines, and ReUGC produces 5 complete videos with different hooks but identical body content. Launch all 5 and let the data pick the winner.",
+      "Visual hook testing — Beyond verbal hooks, test different visual openings: different avatars, different opening actions, different text overlay styles. ReUGC makes visual hook testing as easy as text hook testing.",
       "Build a winning hook library — Track which hooks perform best across campaigns and reuse proven formulas with new scripts. Over time, your hook library becomes your most valuable creative asset. Plans from $49/mo.",
     ],
   },

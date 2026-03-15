@@ -15,7 +15,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "members.mom — AI UGC Video Maker | 50x Cheaper, 10x More Conversions",
+  title: "ReUGC — AI UGC Video Maker | 50x Cheaper, 10x More Conversions",
   description:
     "Create UGC videos with AI actors that convert 10x more — at 50x less cost. No creators, no studios, no waiting.",
   icons: {

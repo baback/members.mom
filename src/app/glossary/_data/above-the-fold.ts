@@ -16,10 +16,10 @@ const data: GlossaryPageData = {
   ],
   example: "A DTC supplement brand drives TikTok ad traffic to a landing page. The original above-the-fold design features a large brand logo, a generic 'Premium Supplements' headline, and a product grid. Bounce rate: 72%. They redesign: the headline now reads 'The Protein Powder That Actually Tastes Good' (matching their top-performing ad hook), a 4.8-star rating with '12,000+ reviews' sits below it, and a 'Try Your First Bag — $29' CTA button is prominently placed. Bounce rate drops to 41%, and conversion rate doubles from 2.1% to 4.3%.",
   product: {
-    intro: "members.mom helps ensure your ad creative and landing page work together:",
+    intro: "ReUGC helps ensure your ad creative and landing page work together:",
     points: [
       "Message-matched video ads — Generate video ads with specific hooks and claims that you can mirror on your landing page. When the ad and the page tell the same story, conversion rates climb.",
-      "Test value propositions in video first — Use members.mom to test which product claims resonate most in video ads, then use the winning message as your above-the-fold headline. Let ad data inform landing page design.",
+      "Test value propositions in video first — Use ReUGC to test which product claims resonate most in video ads, then use the winning message as your above-the-fold headline. Let ad data inform landing page design.",
       "Video for above the fold — Embed AI-generated product videos above the fold on your landing page. Video increases time on page by 88% and conversion rate by up to 80%. Plans from $49/mo.",
     ],
   },

@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "A new DTC skincare brand allocates 20% of their $20,000/month ad budget to awareness campaigns on TikTok and Instagram Reels. They run short, entertaining UGC-style videos that showcase their brand personality without hard-selling. After 3 months, brand search volume increases 340%, direct website traffic grows 180%, and their conversion campaign CPAs drop from $38 to $24 — because more of the audience now recognizes the brand when they see a conversion ad. The awareness investment paid for itself through improved performance marketing efficiency.",
   product: {
-    intro: "members.mom helps you produce the video content that builds brand awareness efficiently:",
+    intro: "ReUGC helps you produce the video content that builds brand awareness efficiently:",
     points: [
       "Awareness content at scale — Generate entertaining, brand-building video content that introduces your brand to new audiences. Not every video needs a hard CTA — some just need to be memorable.",
       "Consistent brand presence — Use the same AI avatars across awareness and conversion content to build visual brand recognition. When viewers see your conversion ad, they'll recognize the presenter from your awareness content.",
-      "Affordable awareness investment — Brand awareness requires consistent content over months. members.mom's plans ($49–$199/mo) make sustained awareness campaigns financially viable for brands of all sizes.",
+      "Affordable awareness investment — Brand awareness requires consistent content over months. ReUGC's plans ($49–$199/mo) make sustained awareness campaigns financially viable for brands of all sizes.",
     ],
   },
   related: [

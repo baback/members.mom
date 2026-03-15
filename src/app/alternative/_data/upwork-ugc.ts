@@ -12,7 +12,7 @@ const data: AlternativePageData = {
   verdict: "Upwork is great for finding long-term creative partners. For rapid creative testing where you need 10–20 variations per week, AI UGC tools are 50x faster and cheaper.",
   criteria: SHARED_CRITERIA, pick: SHARED_PICK,
   alternatives: [MAKEUGC, CREATIFY, HEYGEN, SYNTHESIA],
-  table: { headers: SHARED_TABLE_HEADERS, rows: [["Upwork UGC", "$75–$500/video", "Varies", "$75–$500", "Real humans", "Varies", true, false, "N/A"], ["members.mom", "$49", "10", "$4.90", "50+", "29", true, true, "Native"], ["MakeUGC", "$49", "15", "$3.27", "~20", "1", true, false, "Basic"], ["Creatify", "$39", "10", "$3.90", "~25", "8", true, false, "Basic"], ["HeyGen", "$29", "3", "$9.67", "150+", "40+", false, false, "Strong"]] },
+  table: { headers: SHARED_TABLE_HEADERS, rows: [["Upwork UGC", "$75–$500/video", "Varies", "$75–$500", "Real humans", "Varies", true, false, "N/A"], ["ReUGC", "$49", "10", "$4.90", "50+", "29", true, true, "Native"], ["MakeUGC", "$49", "15", "$3.27", "~20", "1", true, false, "Basic"], ["Creatify", "$39", "10", "$3.90", "~25", "8", true, false, "Basic"], ["HeyGen", "$29", "3", "$9.67", "150+", "40+", false, false, "Strong"]] },
   methodology: SHARED_METHODOLOGY,
   faq: [
     { q: "Is Upwork good for UGC?", a: "Upwork has talented creators but the hiring process is slow and quality varies. For consistent, scalable UGC, AI tools are more efficient." },

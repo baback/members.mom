@@ -1,4 +1,4 @@
-# members.mom — 1,000 Blog Article Keywords
+# ReUGC — 1,000 Blog Article Keywords
 
 ## How to Use This List
 

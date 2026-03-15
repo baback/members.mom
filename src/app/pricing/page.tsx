@@ -61,19 +61,19 @@ const plans = [
 
 const faqCategories = [
   {
-    title: "About members.mom",
+    title: "About ReUGC",
     questions: [
       {
-        q: "What is members.mom?",
-        a: "members.mom is an AI video maker that lets you create UGC-style videos using lifelike AI actors. Write a script (or let our AI write one), pick an actor, and get a polished video in under 2 minutes.",
+        q: "What is ReUGC?",
+        a: "ReUGC is an AI video maker that lets you create UGC-style videos using lifelike AI actors. Write a script (or let our AI write one), pick an actor, and get a polished video in under 2 minutes.",
       },
       {
         q: "How is this different from other AI video tools?",
         a: "Most AI video tools produce robotic, obviously-fake content. Our actors have natural expressions, gestures, and lip-sync that audiences actually engage with. The result is content that converts — not just content that exists.",
       },
       {
-        q: "Who is members.mom built for?",
-        a: "Any brand that needs video content at scale — e-commerce, SaaS, beauty, fitness, real estate, finance, and agencies. If you're spending money on creators or struggling to produce enough content, members.mom is for you.",
+        q: "Who is ReUGC built for?",
+        a: "Any brand that needs video content at scale — e-commerce, SaaS, beauty, fitness, real estate, finance, and agencies. If you're spending money on creators or struggling to produce enough content, ReUGC is for you.",
       },
       {
         q: "Is the video quality good enough for paid ads?",
@@ -223,16 +223,16 @@ export default function PricingPage() {
                   ))}
                 </ul>
 
-                <button
-                  type="button"
-                  className={`mt-7 w-full rounded-full py-2.5 text-sm font-medium transition cursor-pointer ${
+                <a
+                  href="https://studio.reugc.com"
+                  className={`mt-7 w-full rounded-full py-2.5 text-sm font-medium transition cursor-pointer block text-center ${
                     plan.featured
                       ? "bg-background text-foreground hover:bg-background/90"
                       : "bg-foreground text-background hover:bg-foreground/85"
                   }`}
                 >
                   {plan.cta}
-                </button>
+                </a>
               </div>
             ))}
           </div>

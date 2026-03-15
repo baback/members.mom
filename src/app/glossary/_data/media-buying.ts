@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "A media buyer manages $50,000/month across Meta and TikTok for a DTC brand. They allocate $35,000 to Meta (70%) and $15,000 to TikTok (30%). On Meta, they run Advantage+ campaigns with 15 creative variations, refreshing 5 per week. On TikTok, they run Spark Ads and standard in-feed ads with 10 creative variations. After 3 months of systematic testing and optimization, blended ROAS improves from 3.2x to 4.8x — not through targeting changes (both platforms use broad/automated targeting) but through creative optimization: finding winning hooks, scaling top performers, and replacing fatigued ads before they drag down performance.",
   product: {
-    intro: "members.mom gives media buyers the creative ammunition they need:",
+    intro: "ReUGC gives media buyers the creative ammunition they need:",
     points: [
-      "Feed the media buying machine — Media buyers need fresh creative weekly. members.mom generates the video variations that keep campaigns performing, so buyers spend time optimizing instead of waiting for content.",
+      "Feed the media buying machine — Media buyers need fresh creative weekly. ReUGC generates the video variations that keep campaigns performing, so buyers spend time optimizing instead of waiting for content.",
       "Test across platforms efficiently — Generate platform-optimized content for Meta and TikTok from the same scripts. Different platforms may need different hooks — test them all affordably.",
-      "Creative refresh on demand — When a media buyer spots a fatiguing creative, they need a replacement immediately. members.mom delivers fresh content in minutes, not the days or weeks of traditional production. Plans from $49/mo.",
+      "Creative refresh on demand — When a media buyer spots a fatiguing creative, they need a replacement immediately. ReUGC delivers fresh content in minutes, not the days or weeks of traditional production. Plans from $49/mo.",
     ],
   },
   related: [

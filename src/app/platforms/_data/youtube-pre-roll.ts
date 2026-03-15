@@ -76,7 +76,7 @@ const data: PlatformPageData = {
       name: "The 6-Second Bumper",
       bestFor: "Brand recall, retargeting, frequency campaigns",
       duration: "6 seconds exactly",
-      script: `[0-2s]\n[TEXT ON SCREEN: "Still paying $300 for one UGC video?"]\n[Quick cut]\n\n[2-4s]\n[TEXT ON SCREEN: "Try $4.90"]\n[Show product/interface briefly]\n\n[4-6s]\n[TEXT ON SCREEN: "members.mom"]\n[Logo + "Get Started"]`,
+      script: `[0-2s]\n[TEXT ON SCREEN: "Still paying $300 for one UGC video?"]\n[Quick cut]\n\n[2-4s]\n[TEXT ON SCREEN: "Try $4.90"]\n[Show product/interface briefly]\n\n[4-6s]\n[TEXT ON SCREEN: "ReUGC"]\n[Logo + "Get Started"]`,
       why: "6 seconds. One comparison. One price anchor. One brand name. Bumper ads aren't for conversion — they're for planting a seed that your longer ads can harvest.",
       customization: "Pick your single strongest selling point. Price comparison, speed comparison, or result comparison. One message only.",
     },

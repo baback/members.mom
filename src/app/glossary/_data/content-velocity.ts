@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "Two competing supplement brands spend the same $30,000/month on Meta ads. Brand A produces 6 new creatives per month (traditional UGC creator workflow). Brand B produces 40 new creatives per month (AI-generated + creator hybrid). After 6 months: Brand A has found 8 winning creatives total, with an average CPA of $28. Brand B has found 48 winning creatives, with an average CPA of $19. Brand B's higher content velocity gave them 6x more chances to find winners, resulting in a 32% lower CPA — not because their individual creatives were better, but because they tested more and found more outliers.",
   product: {
-    intro: "members.mom is the content velocity multiplier for video advertising:",
+    intro: "ReUGC is the content velocity multiplier for video advertising:",
     points: [
       "10–60 videos per month — Choose the plan that matches your content velocity needs: Starter ($49/mo, 10 videos) for emerging brands, Pro ($99/mo, 25 videos) for scaling brands, Pro Plus ($199/mo, 60 videos) for aggressive testers.",
       "Minutes per video, not days — Each video is generated in minutes from your script. This speed means you can produce a week's worth of creative in a single afternoon, maintaining high velocity without a large production team.",
-      "Sustainable velocity — Unlike hiring more creators (which increases management overhead), members.mom scales content velocity without scaling complexity. More videos, same simple workflow.",
+      "Sustainable velocity — Unlike hiring more creators (which increases management overhead), ReUGC scales content velocity without scaling complexity. More videos, same simple workflow.",
     ],
   },
   related: [

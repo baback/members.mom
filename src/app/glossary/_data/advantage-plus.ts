@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "A DTC apparel brand switches from 8 manually targeted ad sets to a single Advantage+ Shopping Campaign. They upload 18 video creatives (a mix of UGC testimonials, product showcases, and lifestyle content). Within 2 weeks, the algorithm identifies that UGC testimonials perform best with 25–34 year old women, product showcases work best with 35–44 year old men, and lifestyle content resonates with 18–24 year olds. CPA drops from $34 to $27, and the brand saves 5 hours per week on campaign management. The key: having 18 creative variations gave the algorithm enough material to optimize effectively.",
   product: {
-    intro: "members.mom provides the creative volume that Advantage+ campaigns need to perform:",
+    intro: "ReUGC provides the creative volume that Advantage+ campaigns need to perform:",
     points: [
-      "Feed the algorithm — Meta recommends 10–20 creatives per Advantage+ campaign. members.mom makes this achievable with plans that generate 10–60 videos per month, giving the algorithm the variety it needs to optimize.",
+      "Feed the algorithm — Meta recommends 10–20 creatives per Advantage+ campaign. ReUGC makes this achievable with plans that generate 10–60 videos per month, giving the algorithm the variety it needs to optimize.",
       "Diverse creative for diverse segments — Advantage+ works best when it can match different creative to different audience segments. Generate videos with different hooks, presenters, and angles so the algorithm has meaningful variety to test.",
-      "Continuous creative refresh — Advantage+ performance degrades as creative fatigues. members.mom lets you add fresh variations weekly, keeping the algorithm's optimization engine running at peak efficiency. Plans from $49/mo.",
+      "Continuous creative refresh — Advantage+ performance degrades as creative fatigues. ReUGC lets you add fresh variations weekly, keeping the algorithm's optimization engine running at peak efficiency. Plans from $49/mo.",
     ],
   },
   related: [

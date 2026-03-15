@@ -16,10 +16,10 @@ const data: GlossaryPageData = {
   ],
   example: "A skincare brand posts 12 organic videos per week on TikTok and Instagram Reels. Most get 500–2,000 views. But one video — a 'dermatologist reacts' style clip — gets 45,000 organic views and 800 saves. They immediately turn it into a paid ad, and it delivers a $12 CPA (their best ever) because the content was already validated by the organic audience. They then produce 5 variations of the same format using AI-generated presenters and test them as paid ads. Three of the five outperform their previous best creative.",
   product: {
-    intro: "members.mom helps you maintain a consistent organic presence while fueling your paid pipeline:",
+    intro: "ReUGC helps you maintain a consistent organic presence while fueling your paid pipeline:",
     points: [
-      "Content volume for consistent posting — Generate enough video content to post daily across multiple platforms. Organic social rewards consistency, and members.mom makes it sustainable without a full-time content team.",
-      "Test concepts organically first — Use members.mom to quickly produce video concepts, post them organically, and see what resonates before committing paid budget. Validate before you spend.",
+      "Content volume for consistent posting — Generate enough video content to post daily across multiple platforms. Organic social rewards consistency, and ReUGC makes it sustainable without a full-time content team.",
+      "Test concepts organically first — Use ReUGC to quickly produce video concepts, post them organically, and see what resonates before committing paid budget. Validate before you spend.",
       "Repurpose winners into paid ads — When an organic concept performs well, generate multiple paid-optimized variations with different hooks and CTAs. Go from organic insight to scaled paid campaign in hours. Plans from $49/mo.",
     ],
   },

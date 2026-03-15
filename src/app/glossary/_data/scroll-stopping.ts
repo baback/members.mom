@@ -16,11 +16,11 @@ const data: GlossaryPageData = {
   ],
   example: "A coffee brand tests 4 opening frames for the same product video. Frame A: product on a table (static, expected) — 16% thumb-stop. Frame B: close-up of coffee being poured in slow motion (movement, sensory) — 29% thumb-stop. Frame C: person making a disgusted face with text 'I tried 47 coffees' (face + curiosity) — 41% thumb-stop. Frame D: split screen of cheap vs. premium coffee with text 'Can you taste the difference?' (contrast + challenge) — 38% thumb-stop. Frame C wins because it combines the most powerful visual trigger (a human face with emotion) with the strongest psychological trigger (curiosity about the outcome).",
   product: {
-    intro: "members.mom helps you create scroll-stopping content through rapid visual and hook testing:",
+    intro: "ReUGC helps you create scroll-stopping content through rapid visual and hook testing:",
     points: [
       "Test opening frames systematically — Generate multiple versions of your video with different opening visuals and hooks. Measure thumb-stop rates and scale the winners. The data tells you exactly what stops your audience's scroll.",
       "Faces that capture attention — AI avatars provide the human face element that's proven to stop scrolls. Test different presenters, expressions, and framing to find the visual that resonates with your audience.",
-      "Iterate faster than competitors — While other brands spend weeks producing one creative, you can test 10 scroll-stopping concepts in a day with members.mom. Speed of iteration is the competitive advantage. Plans from $49/mo.",
+      "Iterate faster than competitors — While other brands spend weeks producing one creative, you can test 10 scroll-stopping concepts in a day with ReUGC. Speed of iteration is the competitive advantage. Plans from $49/mo.",
     ],
   },
   related: [

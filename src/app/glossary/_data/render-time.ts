@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "A media buyer spots that a competitor just launched a major sale. They want to run counter-messaging ads immediately. Using AI video generation with a 3-minute render time, they write a script ('Before you buy from [competitor], watch this'), generate the video, review it, make one script adjustment, re-render, and have a finished ad uploaded to Meta Ads Manager in 22 minutes total. The ad is live within an hour of spotting the competitor's campaign. With traditional production, this response would take 3–5 days — by which time the competitor's sale would be over.",
   product: {
-    intro: "members.mom is optimized for fast render times that keep pace with your creative needs:",
+    intro: "ReUGC is optimized for fast render times that keep pace with your creative needs:",
     points: [
-      "Minutes, not hours — members.mom renders videos quickly, letting you go from script to finished video in minutes. Iterate on scripts, test different avatars, and produce variations without long wait times.",
+      "Minutes, not hours — ReUGC renders videos quickly, letting you go from script to finished video in minutes. Iterate on scripts, test different avatars, and produce variations without long wait times.",
       "Batch rendering — Generate multiple videos simultaneously rather than one at a time. When you need 10 variations for a creative test, queue them all and have the full batch ready quickly.",
-      "No rendering expertise needed — You don't need to understand encoding settings, GPU allocation, or render queues. Submit your script, and members.mom handles the technical pipeline automatically. Plans from $49/mo.",
+      "No rendering expertise needed — You don't need to understand encoding settings, GPU allocation, or render queues. Submit your script, and ReUGC handles the technical pipeline automatically. Plans from $49/mo.",
     ],
   },
   related: [

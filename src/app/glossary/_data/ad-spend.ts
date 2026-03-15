@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "A DTC brand allocates their $25,000/month ad spend: $5,000 (20%) for creative testing — launching 15 new video variations per week with $50/day per variation for 48-hour tests. $16,000 (64%) for scaling — the top 3–4 performers from testing get scaled to $200–$500/day. $4,000 (16%) for retargeting — dedicated budget for website visitors and cart abandoners. This structure consistently delivers 4.2x blended ROAS because the testing budget continuously feeds new winners into the scaling budget, while retargeting captures warm leads efficiently.",
   product: {
-    intro: "members.mom helps you get more from every dollar of ad spend:",
+    intro: "ReUGC helps you get more from every dollar of ad spend:",
     points: [
-      "Maximize your testing budget — When creative production is cheap ($49–$199/mo), more of your budget goes to actual ad spend rather than production costs. A brand spending $3,000/month on creators can redirect $2,800 to ad spend by switching to members.mom.",
-      "Better creative = better ad spend efficiency — Higher-quality creative earns lower CPMs and higher CTRs, making every dollar of ad spend work harder. members.mom produces the native-looking content that platforms reward with better delivery.",
-      "Scale confidently with creative reserves — The biggest risk when scaling ad spend is running out of fresh creative. members.mom ensures you always have new variations ready to deploy as you increase budgets.",
+      "Maximize your testing budget — When creative production is cheap ($49–$199/mo), more of your budget goes to actual ad spend rather than production costs. A brand spending $3,000/month on creators can redirect $2,800 to ad spend by switching to ReUGC.",
+      "Better creative = better ad spend efficiency — Higher-quality creative earns lower CPMs and higher CTRs, making every dollar of ad spend work harder. ReUGC produces the native-looking content that platforms reward with better delivery.",
+      "Scale confidently with creative reserves — The biggest risk when scaling ad spend is running out of fresh creative. ReUGC ensures you always have new variations ready to deploy as you increase budgets.",
     ],
   },
   related: [

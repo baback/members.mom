@@ -7,7 +7,7 @@ These are bottom-of-funnel pages targeting people actively searching for alterna
 ## Tone & Voice
 
 - Write like a knowledgeable friend who's tested all these tools, not a marketer
-- Be opinionated. Say what's good AND what's bad about each tool, including members.mom
+- Be opinionated. Say what's good AND what's bad about each tool, including ReUGC
 - Use "you" and "your" — speak directly to the reader
 - No hype words (revolutionary, game-changing, incredible). State facts and let the reader decide
 - Conversational but efficient. No filler paragraphs
@@ -34,7 +34,7 @@ These are bottom-of-funnel pages targeting people actively searching for alterna
 
 ### 3. Quick Verdict Box (50–80 words)
 - A highlighted/bordered box at the top for skimmers
-- Format: "**TL;DR:** If you're leaving [Competitor] because of [main reason], [Tool A] is the best pick for [use case]. If you need [other thing], go with [Tool B]. For the best price-to-quality ratio, members.mom gives you [specific benefit]."
+- Format: "**TL;DR:** If you're leaving [Competitor] because of [main reason], [Tool A] is the best pick for [use case]. If you need [other thing], go with [Tool B]. For the best price-to-quality ratio, ReUGC gives you [specific benefit]."
 - This box should be genuinely helpful, not just "pick us"
 
 ### 4. What to Look For in a [Competitor] Alternative (150–200 words)
@@ -43,7 +43,7 @@ These are bottom-of-funnel pages targeting people actively searching for alterna
 - Example: "**AI Actor Variety** — If you're running ads across demographics, you need diverse actors. Some tools have 5, others have 100+."
 - This section builds trust — shows you have a methodology, not just opinions
 
-### 5. #1 Pick: members.mom (300–400 words)
+### 5. #1 Pick: ReUGC (300–400 words)
 - Hero-style card with clear visual hierarchy
 - **What it is** (1 sentence)
 - **Why it's #1** (3–4 bullet points with specifics — pricing numbers, feature counts, concrete benefits)
@@ -67,7 +67,7 @@ These are bottom-of-funnel pages targeting people actively searching for alterna
 - Full-width table, scannable
 - Columns: Tool Name | Price/mo | Videos/mo | AI Actors | Languages | UGC Style | Batch Creation | API
 - Use checkmarks (✓), crosses (✗), and specific numbers — never "Yes/No" when you can be specific
-- members.mom row should be highlighted but not obnoxiously
+- ReUGC row should be highlighted but not obnoxiously
 - Include the competitor being replaced as the first row so readers can compare directly
 
 ### 8. How We Evaluated (100–150 words)

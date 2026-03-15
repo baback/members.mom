@@ -16,10 +16,10 @@ const data: GlossaryPageData = {
   ],
   example: "An online furniture store segments their retargeting into three tiers. Tier 1 (site visitors, no product views): UGC-style video showing the brand story and best sellers — 4.2% CTR. Tier 2 (product viewers, no cart): testimonial video from a customer who bought the same product category — 6.8% CTR. Tier 3 (cart abandoners): specific product reminder with 'free delivery this week' overlay — 9.1% CTR. Each tier uses different creative that matches the visitor's level of intent, resulting in a blended retargeting CPA of $18 versus $52 for cold prospecting.",
   product: {
-    intro: "members.mom helps you create dedicated retargeting creative that moves prospects through the funnel:",
+    intro: "ReUGC helps you create dedicated retargeting creative that moves prospects through the funnel:",
     points: [
       "Funnel-specific video content — Generate different videos for each retargeting tier: brand story for site visitors, testimonials for product viewers, urgency-driven content for cart abandoners. Each audience gets the right message.",
-      "Fresh retargeting creative prevents fatigue — Retargeting audiences are small and fatigue fast. Refresh your retargeting videos every 1–2 weeks with members.mom to keep engagement high and frequency manageable.",
+      "Fresh retargeting creative prevents fatigue — Retargeting audiences are small and fatigue fast. Refresh your retargeting videos every 1–2 weeks with ReUGC to keep engagement high and frequency manageable.",
       "Objection-handling videos — Create videos that address the top reasons people don't buy: price concerns, quality doubts, shipping questions. AI presenters deliver these messages naturally and authentically. Plans from $49/mo.",
     ],
   },

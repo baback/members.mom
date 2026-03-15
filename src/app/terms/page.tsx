@@ -14,12 +14,12 @@ export default function TermsPage() {
           <div className="space-y-8 text-sm text-muted leading-relaxed">
             <section>
               <h2 className="text-base font-semibold text-foreground mb-2">1. Acceptance of Terms</h2>
-              <p>By accessing or using members.mom, you agree to be bound by these Terms of Service. If you do not agree, do not use our platform.</p>
+              <p>By accessing or using ReUGC, you agree to be bound by these Terms of Service. If you do not agree, do not use our platform.</p>
             </section>
 
             <section>
               <h2 className="text-base font-semibold text-foreground mb-2">2. Description of Service</h2>
-              <p>members.mom provides AI-powered video generation tools that allow users to create UGC-style video content using AI actors. Our service includes script generation, AI actor selection, video rendering, and export capabilities.</p>
+              <p>ReUGC provides AI-powered video generation tools that allow users to create UGC-style video content using AI actors. Our service includes script generation, AI actor selection, video rendering, and export capabilities.</p>
             </section>
 
             <section>
@@ -44,7 +44,7 @@ export default function TermsPage() {
 
             <section>
               <h2 className="text-base font-semibold text-foreground mb-2">7. Limitation of Liability</h2>
-              <p>members.mom is provided &quot;as is&quot; without warranties of any kind. We are not liable for any indirect, incidental, or consequential damages arising from your use of our service.</p>
+              <p>ReUGC is provided &quot;as is&quot; without warranties of any kind. We are not liable for any indirect, incidental, or consequential damages arising from your use of our service.</p>
             </section>
 
             <section>
@@ -54,7 +54,7 @@ export default function TermsPage() {
 
             <section>
               <h2 className="text-base font-semibold text-foreground mb-2">9. Contact</h2>
-              <p>Questions about these terms? Contact us at legal@members.mom.</p>
+              <p>Questions about these terms? Contact us at legal@ReUGC.</p>
             </section>
           </div>
         </div>

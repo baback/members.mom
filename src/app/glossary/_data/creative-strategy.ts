@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "A DTC pet food brand builds a creative strategy. Research reveals 3 primary customer motivations: health concerns (ingredient quality), convenience (delivery), and cost (vs. premium store brands). They develop 3 messaging angles and produce 4 video variations per angle (12 total). Testing reveals that health-focused content with a 'vet-recommended' hook outperforms everything else by 2.5x. They double down: 8 new variations of the health angle with different sub-hooks (specific ingredients, breed-specific benefits, age-specific nutrition). CPA drops from $32 to $18 over 8 weeks of systematic creative strategy execution.",
   product: {
-    intro: "members.mom is the production engine that brings your creative strategy to life:",
+    intro: "ReUGC is the production engine that brings your creative strategy to life:",
     points: [
-      "Execute strategy at speed — When your creative strategy calls for 12 video variations testing 3 angles, members.mom produces them in hours, not weeks. Strategy is only as good as your ability to execute it.",
-      "Test angles affordably — Creative strategy requires testing multiple messaging angles to find winners. At $49–$199/mo, members.mom makes it financially viable to test 5–10 angles per month instead of committing to just 1–2.",
-      "Apply learnings immediately — When testing reveals a winning angle, produce 5 more variations of that angle the same day. members.mom's speed lets you capitalize on insights before they go stale.",
+      "Execute strategy at speed — When your creative strategy calls for 12 video variations testing 3 angles, ReUGC produces them in hours, not weeks. Strategy is only as good as your ability to execute it.",
+      "Test angles affordably — Creative strategy requires testing multiple messaging angles to find winners. At $49–$199/mo, ReUGC makes it financially viable to test 5–10 angles per month instead of committing to just 1–2.",
+      "Apply learnings immediately — When testing reveals a winning angle, produce 5 more variations of that angle the same day. ReUGC's speed lets you capitalize on insights before they go stale.",
     ],
   },
   related: [

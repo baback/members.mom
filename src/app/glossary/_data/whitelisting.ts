@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "A supplement brand partners with a fitness creator (85,000 Instagram followers) for a whitelisting campaign. They run the same testimonial video as both a brand-account ad and a whitelisted ad through the creator's account. Brand-account ad: $28 CPA, 1.1% CTR. Whitelisted ad: $17 CPA, 1.9% CTR. The whitelisted version outperforms by 39% on CPA because the creator's profile picture and name create instant credibility. The brand scales the whitelisted ad to $500/day while the creator earns a monthly licensing fee.",
   product: {
-    intro: "members.mom complements whitelisting strategies by providing the creative volume that creator partnerships can't:",
+    intro: "ReUGC complements whitelisting strategies by providing the creative volume that creator partnerships can't:",
     points: [
-      "Fill the gaps between creator content — Creators produce 2–4 videos per month. members.mom fills the remaining creative needs with AI-generated UGC that maintains the authentic style your whitelisted campaigns establish.",
-      "Test scripts before sending to creators — Use members.mom to test hook and script concepts with AI avatars before commissioning expensive creator content. Only send proven scripts to creators for whitelisting.",
-      "Scale beyond creator capacity — When a whitelisted creative fatigues, you need fresh content fast. members.mom generates replacement creative in minutes while you wait for the next creator deliverable. Plans from $49/mo.",
+      "Fill the gaps between creator content — Creators produce 2–4 videos per month. ReUGC fills the remaining creative needs with AI-generated UGC that maintains the authentic style your whitelisted campaigns establish.",
+      "Test scripts before sending to creators — Use ReUGC to test hook and script concepts with AI avatars before commissioning expensive creator content. Only send proven scripts to creators for whitelisting.",
+      "Scale beyond creator capacity — When a whitelisted creative fatigues, you need fresh content fast. ReUGC generates replacement creative in minutes while you wait for the next creator deliverable. Plans from $49/mo.",
     ],
   },
   related: [

@@ -10,7 +10,7 @@ Arcads was one of the first AI UGC platforms to gain traction, but the cracks ar
 
 ---
 
-> **TL;DR:** If you're leaving Arcads because of pricing, members.mom gives you more videos at a fraction of the cost ($49/month for 10 videos vs Arcads' $250 for 50). If avatar diversity is your issue, HeyGen has the largest library. For pure UGC-style output that looks native to TikTok, members.mom and MakeUGC are the strongest options.
+> **TL;DR:** If you're leaving Arcads because of pricing, ReUGC gives you more videos at a fraction of the cost ($49/month for 10 videos vs Arcads' $250 for 50). If avatar diversity is your issue, HeyGen has the largest library. For pure UGC-style output that looks native to TikTok, ReUGC and MakeUGC are the strongest options.
 
 ---
 
@@ -26,7 +26,7 @@ Before comparing tools, here's what actually matters when switching:
 
 ---
 
-## #1 Pick: members.mom
+## #1 Pick: ReUGC
 
 **AI UGC video maker built for performance marketers who need volume and quality without the agency price tag.**
 
@@ -67,7 +67,7 @@ Teams that need maximum avatar variety and don't mind a more polished (less UGC)
 
 ### Cons
 - **Output looks corporate, not UGC** — the avatars feel like presenters, not creators. Fine for training videos, less effective for TikTok ads
-- **Starts at $29/month for 3 videos** — the per-video cost is $9.67, nearly double members.mom
+- **Starts at $29/month for 3 videos** — the per-video cost is $9.67, nearly double ReUGC
 - **No batch generation** — each video is created individually, which slows down creative testing
 
 ### Pricing
@@ -88,13 +88,13 @@ Shopify and e-commerce brands that want to turn product URLs into video ads auto
 ### Pros
 - **URL-to-video feature** — paste a product page URL and it generates a video ad. Genuinely useful for e-commerce
 - **Built-in ad script generator** — writes the script for you based on the product page
-- **Decent UGC-style output** — closer to native than HeyGen, though not quite as natural as members.mom
+- **Decent UGC-style output** — closer to native than HeyGen, though not quite as natural as ReUGC
 - **TikTok and Meta ad format presets** — exports in the right specs automatically
 
 ### Cons
 - **Limited actor library** — around 25 avatars, less diverse than competitors
 - **$39/month for 10 videos** on the Starter plan, but the quality on lower tiers is noticeably worse
-- **Multilingual support is limited** — 8 languages vs members.mom's 29
+- **Multilingual support is limited** — 8 languages vs ReUGC's 29
 - **URL-to-video works best for simple products** — complex or service-based products need manual scripting anyway
 
 ### Pricing
@@ -128,7 +128,7 @@ Brands that want the most authentic-looking AI UGC output and don't need multili
 Starter: $49/month (15 videos). Pro: $99/month (40 videos).
 
 ### Verdict
-Pick MakeUGC if you only need English-language UGC ads and want the most authentic-looking output. The lack of multilingual support and batch generation limits its scalability compared to members.mom.
+Pick MakeUGC if you only need English-language UGC ads and want the most authentic-looking output. The lack of multilingual support and batch generation limits its scalability compared to ReUGC.
 
 ---
 
@@ -161,7 +161,7 @@ Pick Synthesia if your primary use case is corporate training or internal commun
 
 ## Feature Comparison Table
 
-| Feature | Arcads | members.mom | HeyGen | Creatify | MakeUGC | Synthesia |
+| Feature | Arcads | ReUGC | HeyGen | Creatify | MakeUGC | Synthesia |
 |---------|--------|-------------|--------|----------|---------|-----------|
 | **Price/mo** | $250 | $49 | $29 | $39 | $49 | $99 |
 | **Videos/mo** | 50 | 10 | 3 | 10 | 15 | Limited |
@@ -190,7 +190,7 @@ We signed up for paid plans on all 6 tools and created the same test: a 25-secon
 It depends on your volume. At $250/month for 50 videos, Arcads is reasonable if you're using all 50 videos and the avatar library meets your needs. But if you need fewer videos, the entry price is steep compared to alternatives starting at $49. The limited language support and avatar diversity are also becoming harder to justify as competitors improve.
 
 ### What's the cheapest Arcads alternative?
-On a per-video basis, MakeUGC ($3.27/video) and Creatify ($3.90/video) are the cheapest. But cheap per-video doesn't mean best value — MakeUGC is English-only and Creatify's quality drops on lower tiers. members.mom at $4.90/video offers the best balance of price, quality, and features.
+On a per-video basis, MakeUGC ($3.27/video) and Creatify ($3.90/video) are the cheapest. But cheap per-video doesn't mean best value — MakeUGC is English-only and Creatify's quality drops on lower tiers. ReUGC at $4.90/video offers the best balance of price, quality, and features.
 
 ### Can AI UGC really replace human creators?
 For performance ad creative, yes — increasingly so. AI UGC won't replace a creator's personal brand or authentic audience relationship. But for the specific job of "create 20 testimonial-style video ads to test on TikTok," AI is faster, cheaper, and more scalable. Most brands using AI UGC still use human creators for hero content and AI for volume testing.

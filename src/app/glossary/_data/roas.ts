@@ -16,11 +16,11 @@ const data: GlossaryPageData = {
   ],
   example: "A DTC coffee brand runs three ad creatives on Meta. Creative A (studio product shot): 2.1x ROAS. Creative B (UGC testimonial): 4.3x ROAS. Creative C (AI-generated UGC with hook testing): 5.1x ROAS. Creative C wins not because the product or offer changed, but because the AI-generated approach allowed them to test 8 hook variations and find the one that attracted the highest-AOV customers. The winning hook ('I cancelled my coffee subscription after trying this') attracted customers who were already spending $40+/month on coffee — resulting in higher AOV and better ROAS.",
   product: {
-    intro: "members.mom improves ROAS by reducing creative costs and increasing the odds of finding high-performing ads:",
+    intro: "ReUGC improves ROAS by reducing creative costs and increasing the odds of finding high-performing ads:",
     points: [
-      "Lower creative costs improve the ROAS equation — Every dollar saved on production is a dollar that can go into ad spend. members.mom's plans ($49–$199/mo) replace thousands in monthly creator fees, directly improving your blended ROAS.",
+      "Lower creative costs improve the ROAS equation — Every dollar saved on production is a dollar that can go into ad spend. ReUGC's plans ($49–$199/mo) replace thousands in monthly creator fees, directly improving your blended ROAS.",
       "Find high-ROAS creatives faster — More variations tested means more chances to find the creative that attracts high-value customers. Generate and test 10+ variations per week to find your ROAS outliers.",
-      "Sustain winning ROAS longer — When a high-ROAS creative starts fatiguing, have fresh variations ready to deploy immediately. members.mom ensures you're never stuck watching your best performer decline without a replacement.",
+      "Sustain winning ROAS longer — When a high-ROAS creative starts fatiguing, have fresh variations ready to deploy immediately. ReUGC ensures you're never stuck watching your best performer decline without a replacement.",
     ],
   },
   related: [

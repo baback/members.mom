@@ -80,7 +80,7 @@ These are mid-funnel inspiration pages for people searching "[niche] UGC ad exam
 - **This section is what separates a good showcase page from a generic gallery.** The analysis is the value.
 
 ### 6. Create Your Own (100–150 words)
-- Brief section connecting the examples to members.mom
+- Brief section connecting the examples to ReUGC
 - "Want to create ads like these? Here's how:"
 - 3 steps:
   1. "Pick a format from the examples above (testimonial and problem-solution have the highest conversion rates)"

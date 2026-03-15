@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "A fashion brand runs 15 dark post ad variations targeting different audience segments. Five variations test different hooks for cold audiences, five test different product angles for retargeting, and five test different offers for cart abandoners. None of these appear on the brand's Instagram profile, which maintains a carefully curated aesthetic of 3 posts per week. The dark posts generate $45,000 in revenue while the organic profile builds brand equity — two separate strategies running in parallel without interfering with each other.",
   product: {
-    intro: "members.mom generates the volume of creative that dark posting strategies demand:",
+    intro: "ReUGC generates the volume of creative that dark posting strategies demand:",
     points: [
-      "Unlimited test variations — Dark posting removes the constraint of profile clutter, but you still need the creative to fill those dark post slots. members.mom generates the video variations your testing strategy requires.",
+      "Unlimited test variations — Dark posting removes the constraint of profile clutter, but you still need the creative to fill those dark post slots. ReUGC generates the video variations your testing strategy requires.",
       "Segment-specific content — Create different videos for different audience segments, each running as a dark post to its target group. Personalized messaging at scale without brand confusion.",
-      "Rapid creative rotation — Dark posts fatigue just like any other ad. members.mom ensures you always have fresh creative ready to replace declining performers. Plans from $49/mo.",
+      "Rapid creative rotation — Dark posts fatigue just like any other ad. ReUGC ensures you always have fresh creative ready to replace declining performers. Plans from $49/mo.",
     ],
   },
   related: [

@@ -15,9 +15,9 @@ const data: GlossaryPageData = {
   ],
   example: "A beauty brand needs scripts for 8 video ads promoting a new serum. Their copywriter provides the AI with product details, target audience (women 25–45 concerned about aging), and the instruction to create testimonial-style scripts. The AI generates 8 unique scripts in 3 minutes, each with a different hook angle: ingredient-focused, before/after, dermatologist mention, price comparison, routine integration, gift idea, seasonal relevance, and skeptic-to-believer. The copywriter spends 20 minutes editing the top 4 for brand voice. Total scripting time: 25 minutes for 4 polished scripts versus the 3–4 hours it would take to write them from scratch.",
   product: {
-    intro: "members.mom streamlines the script-to-video pipeline:",
+    intro: "ReUGC streamlines the script-to-video pipeline:",
     points: [
-      "Script to video in one workflow — Write or paste your script directly into members.mom and generate a finished video. No separate scripting tool, no file transfers, no workflow friction.",
+      "Script to video in one workflow — Write or paste your script directly into ReUGC and generate a finished video. No separate scripting tool, no file transfers, no workflow friction.",
       "Test script variations visually — Generate the same script with different hooks or CTAs and see how they look and sound as actual videos. Evaluate scripts as finished content, not just text on a page.",
       "Iterate scripts in real time — Don't like how a line sounds? Edit the script and re-render in minutes. The fast feedback loop between script and video makes refinement effortless. Plans from $49/mo.",
     ],

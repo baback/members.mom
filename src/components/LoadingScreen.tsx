@@ -25,7 +25,7 @@ export default function LoadingScreen() {
     >
       <img
         src="/logo/svg/logo-sqr-dark.svg"
-        alt="members.mom"
+        alt="ReUGC"
         className="size-16 animate-loader-logo"
       />
     </div>

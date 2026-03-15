@@ -15,10 +15,10 @@ const data: GlossaryPageData = {
   ],
   example: "A beverage brand partners with a TikTok creator who posts a genuine review of their product. The post gets 8,000 organic views, 1,200 likes, and 85 comments in 48 hours — strong organic signals. The brand requests a Spark Ad authorization code and boosts the post with a $2,000 budget targeting a broad audience. The Spark Ad delivers a $9 CPA (versus their $16 average for standard ads) because the organic engagement and authentic creator content create immediate trust. Total reach: 450,000 views with the social proof of 1,200+ likes visible to every viewer.",
   product: {
-    intro: "members.mom complements Spark Ads by providing the volume of content that organic-first strategies demand:",
+    intro: "ReUGC complements Spark Ads by providing the volume of content that organic-first strategies demand:",
     points: [
-      "Fuel your organic pipeline — Use members.mom to generate UGC-style content for your brand's TikTok profile. Posts that perform well organically become Spark Ad candidates, giving you a data-driven approach to paid promotion.",
-      "Test concepts before boosting — Generate multiple video concepts with members.mom, post them organically, and boost the winners as Spark Ads. This organic-to-paid pipeline maximizes your ad spend efficiency.",
+      "Fuel your organic pipeline — Use ReUGC to generate UGC-style content for your brand's TikTok profile. Posts that perform well organically become Spark Ad candidates, giving you a data-driven approach to paid promotion.",
+      "Test concepts before boosting — Generate multiple video concepts with ReUGC, post them organically, and boost the winners as Spark Ads. This organic-to-paid pipeline maximizes your ad spend efficiency.",
       "Scale beyond creator availability — Creators can only produce so many posts. Supplement creator content with AI-generated videos to maintain posting frequency and keep your Spark Ad pipeline full. Plans from $49/mo.",
     ],
   },

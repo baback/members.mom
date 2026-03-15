@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "A DTC apparel brand tracks contribution margin by ad creative type. Studio brand ads: $72 AOV, $28 CPA, $22 COGS, $6 shipping, $2 processing = $14 contribution margin (19.4%). UGC testimonial ads: $68 AOV, $19 CPA, $21 COGS, $6 shipping, $2 processing = $20 contribution margin (29.4%). AI-generated UGC ads: $65 AOV, $17 CPA, $20 COGS, $6 shipping, $2 processing = $20 contribution margin (30.8%). The AI-generated UGC has the lowest AOV but the highest contribution margin because the CPA is lowest. They shift budget accordingly — optimizing for contribution margin, not ROAS or AOV alone.",
   product: {
-    intro: "members.mom improves contribution margin by reducing both creative costs and CPA:",
+    intro: "ReUGC improves contribution margin by reducing both creative costs and CPA:",
     points: [
       "Lower creative costs improve margins directly — Creative production is a variable cost that affects contribution margin. Replacing $300 creator videos with $5–$10 AI-generated videos improves margin on every sale.",
       "Better creative lowers CPA — AI-generated UGC that performs well on social platforms earns lower CPMs and higher CTRs, reducing the CPA component of your contribution margin calculation.",
-      "Track the impact clearly — The contribution margin improvement from members.mom is directly measurable: lower production costs + lower CPA = higher contribution per sale. Plans from $49/mo.",
+      "Track the impact clearly — The contribution margin improvement from ReUGC is directly measurable: lower production costs + lower CPA = higher contribution per sale. Plans from $49/mo.",
     ],
   },
   related: [

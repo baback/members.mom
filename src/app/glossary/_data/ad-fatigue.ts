@@ -16,11 +16,11 @@ const data: GlossaryPageData = {
   ],
   example: "A DTC brand notices their Meta campaign CPA has risen from $22 to $35 over 3 weeks. They diagnose: frequency is 4.2 (too high), CTR has dropped from 1.6% to 0.9%, but conversion rate is stable at 3.1%. This pattern indicates creative fatigue — the landing page still converts, but the ad isn't generating quality clicks anymore. They launch 6 new video variations using AI-generated content. Within 4 days, the top 2 performers bring CPA back to $24. They set a calendar reminder to refresh creative every 2 weeks proactively, rather than waiting for fatigue to set in.",
   product: {
-    intro: "members.mom is the antidote to ad fatigue — fresh creative on demand:",
+    intro: "ReUGC is the antidote to ad fatigue — fresh creative on demand:",
     points: [
       "Proactive creative refreshes — Don't wait for fatigue to tank your performance. Generate fresh video variations every 1–2 weeks and rotate them into your campaigns before the old ones decline.",
       "Volume that outpaces fatigue — With 10–60 videos per month ($49–$199/mo), you always have fresh creative in the pipeline. When one ad fatigues, the next one is already ready to deploy.",
-      "New angles, not just new creative — Combat offer fatigue by generating videos with entirely different angles, scripts, and value propositions. members.mom makes it easy to explore new messaging directions without the cost of traditional production.",
+      "New angles, not just new creative — Combat offer fatigue by generating videos with entirely different angles, scripts, and value propositions. ReUGC makes it easy to explore new messaging directions without the cost of traditional production.",
     ],
   },
   related: [

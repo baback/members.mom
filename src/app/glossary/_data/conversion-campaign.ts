@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "A DTC supplement brand structures their conversion campaigns in three layers. Layer 1 (prospecting): broad targeting with UGC testimonial ads, $200/day budget, $26 CPA. Layer 2 (retargeting): website visitors and video viewers with social proof and urgency content, $80/day budget, $14 CPA. Layer 3 (retention): past customers with new flavor announcements and subscription offers, $40/day budget, $8 CPA. Blended CPA across all layers: $19. The layered approach ensures they're acquiring new customers while efficiently converting warm audiences and retaining existing ones.",
   product: {
-    intro: "members.mom provides the creative for every layer of your conversion campaign stack:",
+    intro: "ReUGC provides the creative for every layer of your conversion campaign stack:",
     points: [
       "Prospecting creative — Generate attention-grabbing UGC-style videos that introduce your brand to cold audiences. Strong hooks and authentic delivery convert strangers into customers.",
       "Retargeting creative — Create dedicated retargeting videos that address objections, showcase social proof, and add urgency. Different messaging for different funnel stages, all from one platform.",
-      "Creative volume for the full stack — Running 3 campaign layers means 3x the creative need. members.mom's plans ($49–$199/mo) provide the volume to keep every layer fresh and performing.",
+      "Creative volume for the full stack — Running 3 campaign layers means 3x the creative need. ReUGC's plans ($49–$199/mo) provide the volume to keep every layer fresh and performing.",
     ],
   },
   related: [

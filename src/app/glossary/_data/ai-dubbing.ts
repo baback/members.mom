@@ -15,7 +15,7 @@ const data: GlossaryPageData = {
   ],
   example: "A fitness app has a library of 25 English-language tutorial videos featuring their lead trainer. They want to expand into Spanish, Portuguese, and French markets. Traditional dubbing would cost $37,500–$150,000 (25 videos × 3 languages × $500–$2,000 each) and take 2–3 months. Using AI dubbing, they process all 75 localizations in a single week for under $5,000. The AI preserves the trainer's energetic, motivational tone across all three languages. They launch localized ad campaigns in all three markets simultaneously, generating $120,000 in new subscriptions in the first quarter.",
   product: {
-    intro: "members.mom integrates dubbing capabilities into the video generation workflow:",
+    intro: "ReUGC integrates dubbing capabilities into the video generation workflow:",
     points: [
       "Generate in any language from the start — Rather than dubbing after the fact, generate your video in the target language from the beginning. Write your script in Spanish, French, or German and produce a native-language video directly.",
       "Same avatar, multiple languages — Use the same AI presenter across all language versions for visual consistency. The lip-sync engine ensures natural mouth movements regardless of language.",

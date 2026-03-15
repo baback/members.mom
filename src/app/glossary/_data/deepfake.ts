@@ -16,11 +16,11 @@ const data: GlossaryPageData = {
   ],
   example: "A brand considers using AI-generated video for their Meta ads. They choose a platform that uses consented AI avatars (real people who've authorized their likeness) and adds the 'AI-generated' label that Meta requires. Their ads perform well because the content looks authentic and the transparency label doesn't hurt performance — in fact, Meta's data shows that labeled AI content performs comparably to unlabeled content in most ad categories. The brand avoids legal risk while getting the speed and cost benefits of AI production.",
   product: {
-    intro: "members.mom takes an ethical, transparent approach to AI video generation:",
+    intro: "ReUGC takes an ethical, transparent approach to AI video generation:",
     points: [
-      "Consented avatars only — Every AI avatar in the members.mom library is based on individuals who have explicitly consented to the use of their likeness. No unauthorized face generation, no ethical gray areas.",
-      "Platform-compliant output — Videos generated with members.mom include metadata that supports AI content labeling requirements on Meta, TikTok, and YouTube. Stay compliant without extra steps.",
-      "Legitimate commercial use — members.mom is designed for advertising and marketing content, not deception. The tool produces authentic-looking UGC-style ads that are clearly commercial in nature. Plans from $49/mo.",
+      "Consented avatars only — Every AI avatar in the ReUGC library is based on individuals who have explicitly consented to the use of their likeness. No unauthorized face generation, no ethical gray areas.",
+      "Platform-compliant output — Videos generated with ReUGC include metadata that supports AI content labeling requirements on Meta, TikTok, and YouTube. Stay compliant without extra steps.",
+      "Legitimate commercial use — ReUGC is designed for advertising and marketing content, not deception. The tool produces authentic-looking UGC-style ads that are clearly commercial in nature. Plans from $49/mo.",
     ],
   },
   related: [

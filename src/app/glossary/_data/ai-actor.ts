@@ -16,11 +16,11 @@ const data: GlossaryPageData = {
   ],
   example: "A global CPG brand needs testimonial-style ads for 8 different markets. Each market needs a presenter who looks like the local demographic and speaks the local language. Casting 8 human actors across 8 countries would cost $40,000+ and take 6 weeks. Using AI actors, they generate 8 market-specific videos in 2 days for under $800. When the campaign messaging changes quarterly, they re-render all 8 videos in an afternoon.",
   product: {
-    intro: "members.mom provides AI actors purpose-built for performance advertising:",
+    intro: "ReUGC provides AI actors purpose-built for performance advertising:",
     points: [
       "Diverse performer library — Access AI actors spanning different ages, ethnicities, and presentation styles. Match your performer to your target audience for every campaign without casting calls or talent fees.",
-      "Full commercial rights included — Every video you generate with members.mom is yours to use across any platform, any market, for any duration. No usage rights negotiations, no exclusivity conflicts. Plans from $49/mo.",
-      "Performance-tested delivery — members.mom AI actors are optimized for the casual, authentic delivery style that converts on social platforms. They don't look like corporate spokespeople — they look like real people sharing genuine opinions.",
+      "Full commercial rights included — Every video you generate with ReUGC is yours to use across any platform, any market, for any duration. No usage rights negotiations, no exclusivity conflicts. Plans from $49/mo.",
+      "Performance-tested delivery — ReUGC AI actors are optimized for the casual, authentic delivery style that converts on social platforms. They don't look like corporate spokespeople — they look like real people sharing genuine opinions.",
     ],
   },
   related: [

@@ -58,7 +58,7 @@ export default async function GlossaryPage({ params }: { params: Promise<{ slug:
 
           {/* Product Tie-in */}
           <section className="mb-16">
-            <h2 className="text-2xl font-bold tracking-tight mb-4">How members.mom Helps With {page.term}</h2>
+            <h2 className="text-2xl font-bold tracking-tight mb-4">How ReUGC Helps With {page.term}</h2>
             <p className="text-sm text-muted leading-relaxed mb-4">{page.product.intro}</p>
             <div className="space-y-3">
               {page.product.points.map((p, i) => (
@@ -83,11 +83,11 @@ export default async function GlossaryPage({ params }: { params: Promise<{ slug:
 
           {/* CTA */}
           <div className="text-center mt-20">
-            <h2 className="text-2xl font-bold tracking-tight sm:text-3xl mb-4">See how members.mom helps you stay ahead of {page.term.toLowerCase()}.</h2>
-            <button type="button" className="inline-flex items-center gap-2 rounded-full bg-foreground px-7 py-3 text-sm font-medium text-background transition hover:bg-foreground/85 cursor-pointer">
+            <h2 className="text-2xl font-bold tracking-tight sm:text-3xl mb-4">See how ReUGC helps you stay ahead of {page.term.toLowerCase()}.</h2>
+            <a href="https://studio.reugc.com" className="inline-flex items-center gap-2 rounded-full bg-foreground px-7 py-3 text-sm font-medium text-background transition hover:bg-foreground/85 cursor-pointer">
               Get Started
               <svg className="size-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M5 12h14m-7-7 7 7-7 7" /></svg>
-            </button>
+            </a>
           </div>
         </div>
       </article>

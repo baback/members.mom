@@ -16,11 +16,11 @@ const data: GlossaryPageData = {
   ],
   example: "A luxury hotel chain creates a digital human concierge that appears on their website and in pre-stay email campaigns. The digital concierge delivers personalized welcome messages, explains amenities, and provides local recommendations — all generated from text templates that pull in the guest's name and booking details. Guest engagement with pre-stay emails increases 340% compared to text-only emails, and the hotel produces content for 12 properties in 8 languages using a single digital human.",
   product: {
-    intro: "members.mom makes digital human technology accessible for performance marketers:",
+    intro: "ReUGC makes digital human technology accessible for performance marketers:",
     points: [
-      "No 3D modeling required — Skip the expensive digital human creation process. members.mom provides a library of ready-to-use AI presenters that deliver your scripts with natural expression and movement.",
-      "Ad-optimized digital presenters — Unlike enterprise digital humans designed for customer service, members.mom's presenters are optimized for the casual, authentic delivery style that converts in social media ads.",
-      "Affordable entry point — Enterprise digital human platforms charge $10,000–$50,000+ for setup. members.mom gives you access to high-quality AI presenters starting at $49/mo with no setup fees or long-term contracts.",
+      "No 3D modeling required — Skip the expensive digital human creation process. ReUGC provides a library of ready-to-use AI presenters that deliver your scripts with natural expression and movement.",
+      "Ad-optimized digital presenters — Unlike enterprise digital humans designed for customer service, ReUGC's presenters are optimized for the casual, authentic delivery style that converts in social media ads.",
+      "Affordable entry point — Enterprise digital human platforms charge $10,000–$50,000+ for setup. ReUGC gives you access to high-quality AI presenters starting at $49/mo with no setup fees or long-term contracts.",
     ],
   },
   related: [

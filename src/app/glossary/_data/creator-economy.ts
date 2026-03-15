@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "A DTC wellness brand builds a creator economy strategy with three tiers. Tier 1: 2 macro-influencers ($5,000 each) for quarterly brand awareness campaigns. Tier 2: 10 micro-influencers ($500 each) for monthly product content and whitelisting. Tier 3: AI-generated UGC for daily ad creative volume. Total monthly investment: $2,500 (influencers) + $99 (AI tool) = $2,599. This hybrid approach gives them the authenticity of real creator partnerships, the reach of whitelisted ads, and the volume of AI-generated content — covering all three needs at a fraction of what an all-human strategy would cost.",
   product: {
-    intro: "members.mom operates at the intersection of the creator economy and AI technology:",
+    intro: "ReUGC operates at the intersection of the creator economy and AI technology:",
     points: [
       "Creator-quality content without creator costs — Generate UGC-style video content that matches the authentic, personality-driven aesthetic the creator economy has established, without the per-video costs of human creators.",
-      "Complement, don't replace — Use members.mom for volume (daily ad creative) while reserving creator partnerships for strategic moments (launches, brand campaigns). The hybrid approach maximizes both authenticity and efficiency.",
-      "Accessible to every brand size — The creator economy has historically favored brands with large influencer budgets. members.mom democratizes access to creator-style content starting at $49/mo, leveling the playing field.",
+      "Complement, don't replace — Use ReUGC for volume (daily ad creative) while reserving creator partnerships for strategic moments (launches, brand campaigns). The hybrid approach maximizes both authenticity and efficiency.",
+      "Accessible to every brand size — The creator economy has historically favored brands with large influencer budgets. ReUGC democratizes access to creator-style content starting at $49/mo, leveling the playing field.",
     ],
   },
   related: [

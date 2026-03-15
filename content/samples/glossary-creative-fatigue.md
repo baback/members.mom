@@ -44,7 +44,7 @@ You launch a testimonial video ad for a skincare product. Week 1: CPA is $18, CT
 
 ---
 
-## How members.mom Helps With Creative Fatigue
+## How ReUGC Helps With Creative Fatigue
 
 If creative fatigue is about running out of fresh content, the fix is producing more content, faster and cheaper:
 
@@ -62,6 +62,6 @@ Creative fatigue is closely related to ad fatigue — but they're not the same t
 
 ---
 
-## See how members.mom helps you stay ahead of creative fatigue.
+## See how ReUGC helps you stay ahead of creative fatigue.
 
 **[Get Started]**

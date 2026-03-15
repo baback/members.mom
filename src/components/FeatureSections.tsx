@@ -6,7 +6,7 @@ const sections = [
   {
     label: "50x Cheaper",
     title: <>Real creators cost thousands. Ours cost{" "}<em className="font-normal italic" style={{ fontFamily: "var(--font-serif)" }}>dollars</em></>,
-    desc: "A single UGC video from a creator runs $200–$1,000+. With members.mom, generate unlimited videos for a fraction of the cost. Same quality, no invoices.",
+    desc: "A single UGC video from a creator runs $200–$1,000+. With ReUGC, generate unlimited videos for a fraction of the cost. Same quality, no invoices.",
     reverse: false,
   },
   {
@@ -18,7 +18,7 @@ const sections = [
   {
     label: "10x Conversions",
     title: <>Test 50 variations while others test{" "}<em className="font-normal italic" style={{ fontFamily: "var(--font-serif)" }}>one</em></>,
-    desc: "More hooks, more angles, more formats — all in minutes. Find what converts, kill what doesn't. Brands using members.mom see up to 10x higher conversion rates.",
+    desc: "More hooks, more angles, more formats — all in minutes. Find what converts, kill what doesn't. Brands using ReUGC see up to 10x higher conversion rates.",
     reverse: false,
   },
   {

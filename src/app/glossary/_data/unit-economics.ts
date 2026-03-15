@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "A subscription box brand analyzes their unit economics. LTV: $180 (average customer stays 6 months at $30/month). CAC: $52 (blended across paid and organic). LTV:CAC ratio: 3.5:1 (healthy). Contribution margin per box: $8 after COGS, shipping, and processing. Payback period: 6.5 months (they recover CAC after the customer's 7th box, but average retention is only 6 months — meaning they barely break even). The fix: reduce CAC from $52 to $35 by switching from expensive creator content to AI-generated UGC. New payback period: 4.4 months. Now they're profitable by month 5, with 1+ month of pure contribution margin before the average customer churns.",
   product: {
-    intro: "members.mom improves unit economics by attacking the CAC component:",
+    intro: "ReUGC improves unit economics by attacking the CAC component:",
     points: [
-      "Direct CAC reduction — Replace $2,000–$5,000/month in creative production costs with members.mom at $49–$199/mo. This directly reduces CAC and improves the LTV:CAC ratio.",
+      "Direct CAC reduction — Replace $2,000–$5,000/month in creative production costs with ReUGC at $49–$199/mo. This directly reduces CAC and improves the LTV:CAC ratio.",
       "Better creative improves multiple metrics — Higher-performing video ads reduce CPA (lowering CAC), and authentic testimonial-style content can attract higher-LTV customers who stay longer and spend more.",
-      "Measurable unit economics impact — Track your LTV:CAC ratio and contribution margin before and after implementing members.mom. The improvement is directly attributable and easy to quantify.",
+      "Measurable unit economics impact — Track your LTV:CAC ratio and contribution margin before and after implementing ReUGC. The improvement is directly attributable and easy to quantify.",
     ],
   },
   related: [

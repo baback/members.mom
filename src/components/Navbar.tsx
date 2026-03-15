@@ -37,7 +37,7 @@ export default function Navbar() {
     <nav className="fixed inset-x-0 top-0 z-50 glass border-b border-border/60">
       <div className="relative mx-auto flex max-w-6xl items-center justify-between px-5 py-3 md:px-8">
         <a href="/" className="flex items-center">
-          <img src="/logo/svg/logo-full-dark.svg" alt="members.mom" className="h-4" />
+          <img src="/logo/svg/logo-full-dark.svg" alt="ReUGC" className="h-4" />
         </a>
 
         {/* Center nav — desktop */}
@@ -60,12 +60,12 @@ export default function Navbar() {
 
         {/* Right side */}
         <div className="flex items-center gap-2.5">
-          <button type="button" className="hidden text-[13px] text-muted transition-colors hover:text-foreground sm:inline-flex px-3 py-1.5">
+          <a href="https://studio.reugc.com/sign-in" className="hidden text-[13px] text-muted transition-colors hover:text-foreground sm:inline-flex px-3 py-1.5">
             Log in
-          </button>
-          <button type="button" className="rounded-full bg-foreground px-4 py-1.5 text-[13px] font-medium text-background transition-colors hover:bg-foreground/85 cursor-pointer">
+          </a>
+          <a href="https://studio.reugc.com" className="rounded-full bg-foreground px-4 py-1.5 text-[13px] font-medium text-background transition-colors hover:bg-foreground/85 cursor-pointer">
             Get Started
-          </button>
+          </a>
 
           {/* Mobile hamburger */}
           <button
@@ -145,7 +145,7 @@ export default function Navbar() {
             <a href="/use-cases" className="block text-sm text-foreground py-1.5" onClick={() => setMobileOpen(false)}>Use Cases</a>
             <a href="/blog" className="block text-sm text-foreground py-1.5" onClick={() => setMobileOpen(false)}>Blog</a>
             <div className="pt-2 border-t border-border/60">
-              <a href="/login" className="block text-sm text-muted py-1.5">Log in</a>
+              <a href="https://studio.reugc.com/sign-in" className="block text-sm text-muted py-1.5">Log in</a>
             </div>
           </div>
         </div>

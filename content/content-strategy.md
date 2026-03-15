@@ -1,4 +1,4 @@
-# members.mom — 250-Page SEO Content Plan (Excluding Showcase)
+# ReUGC — 250-Page SEO Content Plan (Excluding Showcase)
 
 ## Tracking
 

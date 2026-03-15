@@ -16,7 +16,7 @@ const data: GlossaryPageData = {
   ],
   example: "A DTC brand's founder has become the face and voice of their Instagram content. Customers recognize her voice instantly. But she can't record 30 ad variations per month. They clone her voice with her consent using a 5-minute audio sample. Now, the marketing team writes scripts and generates voiceovers in the founder's voice — maintaining brand consistency across 40+ monthly ad variations while the founder focuses on running the business.",
   product: {
-    intro: "members.mom pairs high-quality AI voices with realistic avatars for complete video generation:",
+    intro: "ReUGC pairs high-quality AI voices with realistic avatars for complete video generation:",
     points: [
       "Premium voice library — Access a diverse selection of natural-sounding AI voices optimized for ad delivery. Each voice is designed to sound conversational and authentic, not synthetic or robotic.",
       "Voice-avatar pairing — Match the right voice to the right avatar for maximum authenticity. The lip-sync engine ensures perfect synchronization regardless of which voice you select.",

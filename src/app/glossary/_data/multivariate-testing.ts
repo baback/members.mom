@@ -16,11 +16,11 @@ const data: GlossaryPageData = {
   ],
   example: "A beauty brand runs a multivariate test with 2 hooks × 3 avatars × 2 CTAs = 12 video combinations. They generate all 12 using AI in under an hour. After running for 5 days with $50/day per variation ($3,000 total test budget), the results reveal: Hook B + Avatar 2 + CTA A is the winning combination at $14 CPA. But the data also shows that Avatar 2 is the strongest individual variable — it outperforms the other avatars regardless of hook or CTA pairing. They scale the winning combination and use Avatar 2 as the default for all future creative.",
   product: {
-    intro: "members.mom makes multivariate testing practical for video ads for the first time:",
+    intro: "ReUGC makes multivariate testing practical for video ads for the first time:",
     points: [
-      "Generate all combinations instantly — Define your hooks, avatars, and CTAs, and members.mom can produce every combination in minutes. A 3×3×3 test (27 videos) that would cost $8,000+ with creators costs under $200 with members.mom.",
-      "True combinatorial testing — Swap individual elements while keeping others constant. members.mom's modular approach to video generation is perfectly suited for multivariate test design.",
-      "Affordable at scale — Even the most ambitious MVT designs (30+ variations) are financially viable with members.mom's pricing. Pro Plus at $199/mo gives you 60 videos — enough for multiple MVT rounds per month.",
+      "Generate all combinations instantly — Define your hooks, avatars, and CTAs, and ReUGC can produce every combination in minutes. A 3×3×3 test (27 videos) that would cost $8,000+ with creators costs under $200 with ReUGC.",
+      "True combinatorial testing — Swap individual elements while keeping others constant. ReUGC's modular approach to video generation is perfectly suited for multivariate test design.",
+      "Affordable at scale — Even the most ambitious MVT designs (30+ variations) are financially viable with ReUGC's pricing. Pro Plus at $199/mo gives you 60 videos — enough for multiple MVT rounds per month.",
     ],
   },
   related: [

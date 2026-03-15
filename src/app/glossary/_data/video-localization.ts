@@ -15,10 +15,10 @@ const data: GlossaryPageData = {
   ],
   example: "A DTC skincare brand has a winning UGC ad in English (US market, $18 CPA). They localize it for 4 additional markets: Spanish (Mexico), Portuguese (Brazil), French (France), and German (Germany). Using AI dubbing and lip sync, each localization costs $80 and takes 2 hours. Results after 30 days: Mexico $14 CPA, Brazil $16 CPA, France $22 CPA, Germany $19 CPA. Total localization investment: $320. Additional revenue from 4 new markets: $47,000 in the first month. The ROI on localization is over 100x.",
   product: {
-    intro: "members.mom simplifies video localization for global advertising:",
+    intro: "ReUGC simplifies video localization for global advertising:",
     points: [
       "Multi-language video generation — Generate videos in multiple languages from the same script. AI voices deliver your message with native-sounding pronunciation and natural pacing in each target language.",
-      "Lip sync that matches every language — members.mom's lip-sync engine remaps mouth movements to match the phonemes of each language, so your localized videos look as natural as the original.",
+      "Lip sync that matches every language — ReUGC's lip-sync engine remaps mouth movements to match the phonemes of each language, so your localized videos look as natural as the original.",
       "Affordable global expansion — Localize your best-performing ads for new markets at a fraction of traditional dubbing costs. Each localized version uses the same video credit as an original. Plans from $49/mo.",
     ],
   },

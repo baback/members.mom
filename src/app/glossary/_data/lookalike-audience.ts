@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "A skincare brand creates three lookalike audiences on Meta: LAL 1 (based on all purchasers, 1%) — $26 CPA. LAL 2 (based on repeat purchasers with 2+ orders, 1%) — $19 CPA. LAL 3 (based on top 25% by LTV, 1%) — $15 CPA. LAL 3 wins because the seed audience represents the brand's most valuable customers, giving the algorithm a clearer signal of who to find. They scale LAL 3 from $50/day to $500/day while maintaining sub-$18 CPA, generating 800+ new customers per month from a single audience.",
   product: {
-    intro: "members.mom helps you maximize lookalike audience performance with creative that converts cold traffic:",
+    intro: "ReUGC helps you maximize lookalike audience performance with creative that converts cold traffic:",
     points: [
-      "Cold-audience creative — Lookalike audiences are cold — they've never heard of you. members.mom generates the introductory, trust-building UGC content that converts strangers into customers. First impressions matter.",
+      "Cold-audience creative — Lookalike audiences are cold — they've never heard of you. ReUGC generates the introductory, trust-building UGC content that converts strangers into customers. First impressions matter.",
       "Test creative across lookalike segments — Different lookalike seeds attract different types of prospects. Generate unique video creative for each lookalike segment to maximize relevance and conversion rates.",
-      "Scale creative alongside audience — As you scale lookalike budgets, you need more creative to prevent fatigue. members.mom ensures your creative volume keeps pace with your audience expansion. Plans from $49/mo.",
+      "Scale creative alongside audience — As you scale lookalike budgets, you need more creative to prevent fatigue. ReUGC ensures your creative volume keeps pace with your audience expansion. Plans from $49/mo.",
     ],
   },
   related: [

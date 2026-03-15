@@ -16,10 +16,10 @@ const data: GlossaryPageData = {
   ],
   example: "A pet food brand tests 5 different hooks for the same product video: (1) 'My vet told me to switch,' (2) 'I was spending $200/month on dog food,' (3) 'Watch my dog's reaction,' (4) 'Stop feeding your dog this,' (5) 'The ingredient most dog foods hide.' Hook #4 generates a 38% thumb-stop rate versus 12–18% for the others. They then test 4 different CTAs with hook #4 and find that 'See what's actually in your dog's food' outperforms 'Shop now' by 2.8x on CTR. Total testing cost: $800 in ad spend. The winning combination runs for 3 weeks at a $14 CPA before needing a refresh.",
   product: {
-    intro: "members.mom makes creative testing economically viable by dramatically reducing the cost per variation:",
+    intro: "ReUGC makes creative testing economically viable by dramatically reducing the cost per variation:",
     points: [
       "Generate test variations in minutes — Create 5–10 versions of the same ad with different hooks, presenters, or CTAs. When each video costs a few dollars instead of hundreds, you can test everything instead of guessing.",
-      "Isolate variables cleanly — Swap just the hook while keeping the same avatar, script body, and CTA. Or test 5 different avatars with the identical script. members.mom makes single-variable testing effortless.",
+      "Isolate variables cleanly — Swap just the hook while keeping the same avatar, script body, and CTA. Or test 5 different avatars with the identical script. ReUGC makes single-variable testing effortless.",
       "Feed the testing machine continuously — With plans from $49/mo (10 videos) to $199/mo (60 videos), you can run weekly testing cycles without the budget constraints that force most brands to test monthly or quarterly.",
     ],
   },

@@ -16,7 +16,7 @@ const data: GlossaryPageData = {
   ],
   example: "An e-learning platform needs voiceovers for 200 short product tutorial videos. Hiring a voice actor would cost $15,000–$25,000 and take 3–4 weeks of recording sessions. Using TTS, they generate all 200 voiceovers in a single day for under $200. When they update their product UI, they simply edit the scripts and regenerate — no rebooking, no studio time, no re-recording.",
   product: {
-    intro: "members.mom integrates premium TTS directly into the video generation pipeline:",
+    intro: "ReUGC integrates premium TTS directly into the video generation pipeline:",
     points: [
       "Natural-sounding voices — Choose from a library of TTS voices that sound conversational, not robotic. Each voice is optimized for the casual, authentic delivery style that performs in social media ads.",
       "Seamless audio-visual sync — TTS output feeds directly into the lip-sync engine, ensuring perfect synchronization between voice and avatar mouth movements. No manual alignment needed.",

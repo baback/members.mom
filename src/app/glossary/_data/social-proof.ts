@@ -16,10 +16,10 @@ const data: GlossaryPageData = {
   ],
   example: "A mattress brand runs two versions of the same ad. Version A features product specs and a 20% discount offer. Version B features a couple describing how the mattress fixed their back pain, with a text overlay showing '47,000+ five-star reviews.' Version B outperforms on every metric: 2.3x higher CTR, 41% lower CPA, and 18% higher AOV (customers buy more accessories). The social proof elements — the testimonial and the review count — created trust that the discount couldn't match.",
   product: {
-    intro: "members.mom helps you scale social proof content without scaling creator costs:",
+    intro: "ReUGC helps you scale social proof content without scaling creator costs:",
     points: [
       "Testimonial-style videos at scale — Generate authentic-looking testimonial videos with AI presenters who deliver your social proof messaging naturally. Produce 10+ testimonial variations to find the most compelling angles.",
-      "Diverse voices build broader trust — Different audiences trust different presenters. Use members.mom's avatar library to create testimonials from presenters that match each target demographic, multiplying the social proof effect.",
+      "Diverse voices build broader trust — Different audiences trust different presenters. Use ReUGC's avatar library to create testimonials from presenters that match each target demographic, multiplying the social proof effect.",
       "Always-fresh social proof — Update your testimonial content monthly with new scripts, new presenters, and new proof points. Keep your social proof feeling current and relevant. Plans from $49/mo.",
     ],
   },

@@ -16,7 +16,7 @@ const data: GlossaryPageData = {
   ],
   example: "An e-commerce brand selling wireless earbuds wants to test 20 ad variations on TikTok. Using traditional UGC, they'd need 4–5 creators at $300 each ($1,500) and wait 2 weeks. With AI UGC, they write 4 scripts, generate each with 5 different avatars, and have all 20 videos rendered in under 2 hours for roughly $100 total. They launch all 20, kill the bottom 15 within 48 hours, and scale the top 5 — a testing velocity that would be financially impossible with human creators.",
   product: {
-    intro: "members.mom is purpose-built for AI UGC — turning scripts into scroll-stopping video ads without a single creator hire:",
+    intro: "ReUGC is purpose-built for AI UGC — turning scripts into scroll-stopping video ads without a single creator hire:",
     points: [
       "Realistic AI presenters — Choose from a growing library of diverse avatars with natural expressions, gestures, and delivery styles that pass the 'is this a real person?' test on social feeds.",
       "Script-to-video in minutes — Paste your script, select an avatar and voice, and render. No filming, no editing software, no back-and-forth with freelancers. Plans start at $49/mo for 10 videos.",

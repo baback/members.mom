@@ -66,7 +66,7 @@ These are mid-funnel pages targeting marketers in a specific industry who are se
 - Example: *"I spent $200 on serums last year and my skin looked the same..."* — Opens with relatable frustration. Works for problem-solution format. [Problem-Solution]
 - **These hooks should feel like they were written by a copywriter, not generated in bulk**
 
-### 7. How Brands in [Industry] Use members.mom (300–400 words)
+### 7. How Brands in [Industry] Use ReUGC (300–400 words)
 - 3 mini use-case stories (not case studies — hypothetical but realistic scenarios)
 - Each story: 80–120 words
 - Structure per story:

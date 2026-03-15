@@ -32,7 +32,7 @@ export default function Footer() {
         <div className="py-14 lg:flex lg:gap-16">
           <div className="lg:max-w-xs shrink-0">
             <a href="/">
-              <img src="/logo/svg/logo-full-white.svg" alt="members.mom" className="h-5" />
+              <img src="/logo/svg/logo-full-white.svg" alt="ReUGC" className="h-5" />
             </a>
             <p className="mt-3 text-sm text-background/50 leading-relaxed">
               AI video maker for brands.<br />50x cheaper. 10x better.
@@ -60,7 +60,7 @@ export default function Footer() {
         <div className="border-t border-background/10" />
 
         <div className="flex flex-col items-center justify-between gap-4 py-6 sm:flex-row">
-          <p className="text-xs text-background/40">&copy; {new Date().getFullYear()} members.mom</p>
+          <p className="text-xs text-background/40">&copy; {new Date().getFullYear()} ReUGC</p>
           <div className="flex gap-4 text-xs text-background/40">
             <a href="/privacy" className="hover:text-background/60 transition-colors">Privacy</a>
             <a href="/terms" className="hover:text-background/60 transition-colors">Terms</a>

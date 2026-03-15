@@ -16,9 +16,9 @@ const data: GlossaryPageData = {
   ],
   example: "A DTC brand creates an AI UGC ad in English with a 28-second script. The lip sync is tight — every syllable matches, the avatar smiles naturally during the positive product claims, and the pacing feels conversational. They then re-render the same video in French and Portuguese for their European campaigns. The lip-sync AI remaps the mouth movements to match the new audio, and the result looks like three separate videos filmed by three different people in three different languages. Total production time: 15 minutes.",
   product: {
-    intro: "members.mom uses state-of-the-art lip-sync AI to ensure every generated video looks and feels authentic:",
+    intro: "ReUGC uses state-of-the-art lip-sync AI to ensure every generated video looks and feels authentic:",
     points: [
-      "Frame-perfect synchronization — members.mom's lip-sync engine matches mouth movements to audio at the phoneme level, eliminating the robotic feel that plagues lower-quality AI video tools.",
+      "Frame-perfect synchronization — ReUGC's lip-sync engine matches mouth movements to audio at the phoneme level, eliminating the robotic feel that plagues lower-quality AI video tools.",
       "Emotional expression built in — Avatars don't just move their lips — they smile, furrow brows, and shift expression to match the emotional arc of your script. This makes the difference between a video that feels alive and one that feels like a puppet.",
       "Multi-language support — Generate the same video in multiple languages with lip sync that matches each language's unique phoneme set. Expand into new markets without re-filming. Plans start at $49/mo.",
     ],

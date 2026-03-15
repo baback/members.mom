@@ -15,10 +15,10 @@ const data: GlossaryPageData = {
   ],
   example: "A fitness app drives TikTok ad traffic to two landing pages. Page A is their homepage — navigation menu, blog links, feature overview, team page link, and a small 'Sign Up' button. Conversion rate: 1.4%. Page B is a dedicated landing page — headline matching the ad ('Get Fit in 15 Minutes a Day'), a demo video, 3 user testimonials, a feature comparison chart, and a large 'Start Your Plan' button with no other navigation. Conversion rate: 4.8%. Same traffic, same ad, same product — the focused landing page converts 3.4x better because it eliminates distractions and maintains message match.",
   product: {
-    intro: "members.mom helps you create video content that enhances landing page performance:",
+    intro: "ReUGC helps you create video content that enhances landing page performance:",
     points: [
       "Landing page video content — Generate product demo and testimonial videos to embed on your landing page. Pages with video convert up to 80% better than text-only pages.",
-      "Message-matched ad-to-page experience — Use members.mom to create ad videos and landing page videos with the same presenter and messaging, creating a seamless experience from ad click to conversion.",
+      "Message-matched ad-to-page experience — Use ReUGC to create ad videos and landing page videos with the same presenter and messaging, creating a seamless experience from ad click to conversion.",
       "Test landing page video variations — Generate different video styles (testimonial, demo, explainer) for your landing page and A/B test which format drives the highest conversion rate. Plans from $49/mo.",
     ],
   },

@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "A DTC cookware brand runs two campaigns simultaneously. Campaign A (brand): a beautifully shot 60-second brand film showing families cooking together. No CTA, no offer, no urgency. It generates 2 million impressions and unmeasurable 'brand lift.' Campaign B (direct response): a 30-second UGC-style video where someone demonstrates the non-stick coating, mentions the 30-day guarantee, and ends with 'Get 25% off your first set — this week only.' It generates 340 purchases at a $28 CPA. Campaign B pays for itself immediately. Campaign A might pay off eventually — but the brand needs revenue now.",
   product: {
-    intro: "members.mom is built for direct response — every feature is designed to help ads convert:",
+    intro: "ReUGC is built for direct response — every feature is designed to help ads convert:",
     points: [
       "Conversion-focused content — AI avatars deliver scripts with the authentic, persuasive energy that direct response demands. No corporate stiffness, no brand-film pacing — just compelling, action-driving content.",
       "Test offers and angles rapidly — Direct response success depends on finding the right offer-audience-creative combination. Generate 10+ variations to test different offers, angles, and CTAs simultaneously. Speed of testing is speed of learning.",
-      "Affordable enough for aggressive testing — Direct response requires constant creative testing. members.mom's plans ($49–$199/mo) make it financially viable to test 10–60 creative variations per month, finding winners faster.",
+      "Affordable enough for aggressive testing — Direct response requires constant creative testing. ReUGC's plans ($49–$199/mo) make it financially viable to test 10–60 creative variations per month, finding winners faster.",
     ],
   },
   related: [

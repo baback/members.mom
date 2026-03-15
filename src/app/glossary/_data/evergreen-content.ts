@@ -15,7 +15,7 @@ const data: GlossaryPageData = {
   ],
   example: "A SaaS company creates a library of 20 evergreen tutorial videos showing how to use their product's key features. Each video is 60–90 seconds, hosted on YouTube and embedded on their help center. Over 12 months, these videos generate 180,000 organic views, reduce support tickets by 35% (customers find answers in videos instead of contacting support), and drive 2,400 trial sign-ups from YouTube. The initial production investment of $2,000 generates ongoing value equivalent to $8,000/month in support cost savings and organic acquisition — a return that compounds every month the content remains live.",
   product: {
-    intro: "members.mom helps you build an evergreen content library efficiently:",
+    intro: "ReUGC helps you build an evergreen content library efficiently:",
     points: [
       "Tutorial and explainer videos — Generate product tutorials, how-to guides, and FAQ videos that remain relevant for months. Build a library of always-useful content that drives organic traffic and reduces support load.",
       "Easy updates when products change — When your product updates, re-generate the affected videos with updated scripts. No reshooting, no re-editing — just update the text and render a new version.",

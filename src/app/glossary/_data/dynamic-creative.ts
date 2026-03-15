@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "A home fitness brand uploads 4 UGC-style videos, 4 headlines, and 3 CTAs into a dynamic creative campaign. The algorithm tests 48 combinations and identifies the winner within 5 days: Video 2 (before/after transformation) + Headline 3 ('No gym membership needed') + CTA 2 ('Start your free plan'). This combination delivers a $16 CPA versus the $24 average across all combinations. The brand also discovers that Video 2 outperforms regardless of headline pairing — indicating the video itself is the strongest element. They create 5 more variations of the transformation format for the next round.",
   product: {
-    intro: "members.mom provides the creative components that dynamic creative campaigns need:",
+    intro: "ReUGC provides the creative components that dynamic creative campaigns need:",
     points: [
       "Multiple video assets for dynamic testing — Generate 5–10 video variations with different hooks, presenters, and angles. Upload them all to a dynamic creative campaign and let the algorithm find the winning combinations.",
-      "Consistent quality across variations — Every video from members.mom maintains consistent production quality, ensuring that dynamic creative results reflect genuine audience preferences rather than quality differences between assets.",
-      "Rapid component refresh — When dynamic creative identifies winning elements, generate more variations of those elements to keep the optimization engine running. members.mom makes it easy to produce 'more like this' content. Plans from $49/mo.",
+      "Consistent quality across variations — Every video from ReUGC maintains consistent production quality, ensuring that dynamic creative results reflect genuine audience preferences rather than quality differences between assets.",
+      "Rapid component refresh — When dynamic creative identifies winning elements, generate more variations of those elements to keep the optimization engine running. ReUGC makes it easy to produce 'more like this' content. Plans from $49/mo.",
     ],
   },
   related: [
@@ -30,6 +30,6 @@ const data: GlossaryPageData = {
     { term: "Ad Creative", slug: "ad-creative" },
     { term: "Batch Video Generation", slug: "batch-generation" },
   ],
-  relatedNote: "Dynamic creative is Meta's automated approach to multivariate testing, sitting within the broader Advantage+ ecosystem. It complements manual split testing and creative testing by handling combinatorial optimization automatically. Batch video generation from tools like members.mom provides the creative volume that dynamic creative campaigns require.",
+  relatedNote: "Dynamic creative is Meta's automated approach to multivariate testing, sitting within the broader Advantage+ ecosystem. It complements manual split testing and creative testing by handling combinatorial optimization automatically. Batch video generation from tools like ReUGC provides the creative volume that dynamic creative campaigns require.",
 };
 export default data;

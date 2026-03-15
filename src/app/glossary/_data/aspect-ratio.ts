@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "A fashion brand tests the same ad content in three aspect ratios on Meta. 16:9 (horizontal): 1.8% CTR, $32 CPA. 1:1 (square): 2.3% CTR, $26 CPA. 9:16 (vertical, Reels placement): 3.1% CTR, $18 CPA. The vertical version outperforms by 72% on CTR and 44% on CPA — same content, same targeting, same budget. The vertical format fills the screen, feels native to the platform, and earns better algorithmic treatment. They shift all creative production to vertical-first.",
   product: {
-    intro: "members.mom generates all content in the optimal aspect ratio for modern advertising:",
+    intro: "ReUGC generates all content in the optimal aspect ratio for modern advertising:",
     points: [
       "9:16 by default — Every video is generated in vertical format, optimized for TikTok, Reels, Shorts, and Stories. The format that fills mobile screens and drives the best performance.",
       "Proper framing for vertical — AI avatars are automatically positioned for vertical viewing: centered, chest-up, with space for text overlays and platform UI. No awkward cropping or wasted space.",
-      "Platform-ready without reformatting — Upload directly from members.mom to any ad platform. No aspect ratio conversion, no cropping, no quality loss. Plans from $49/mo.",
+      "Platform-ready without reformatting — Upload directly from ReUGC to any ad platform. No aspect ratio conversion, no cropping, no quality loss. Plans from $49/mo.",
     ],
   },
   related: [

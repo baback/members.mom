@@ -15,10 +15,10 @@ const data: GlossaryPageData = {
   ],
   example: "A brand exports their UGC ad at 3 Mbps to keep the file small. On their computer, it looks fine. On TikTok, after the platform's compression, the video looks noticeably blurry — especially during motion and in areas with fine detail (text overlays, product textures). They re-export at 10 Mbps. The file is 3x larger but still well within TikTok's 500MB limit. After platform compression, the 10 Mbps version looks crisp and professional. The higher-quality version achieves a 22% higher thumb-stop rate — viewers subconsciously associate visual quality with product quality.",
   product: {
-    intro: "members.mom exports all videos at optimal bitrate settings:",
+    intro: "ReUGC exports all videos at optimal bitrate settings:",
     points: [
       "Optimized quality settings — Every video is rendered at bitrates optimized for social media platforms, ensuring crisp visuals after platform compression without unnecessarily large file sizes.",
-      "No technical knowledge required — You don't need to understand bitrate, codec, or encoding settings. members.mom handles all technical parameters automatically, producing platform-ready output every time.",
+      "No technical knowledge required — You don't need to understand bitrate, codec, or encoding settings. ReUGC handles all technical parameters automatically, producing platform-ready output every time.",
       "Consistent quality across all videos — Whether you generate 1 video or 60, every output maintains the same high quality standards. No variation in technical quality between renders. Plans from $49/mo.",
     ],
   },

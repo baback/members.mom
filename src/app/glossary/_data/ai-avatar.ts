@@ -16,9 +16,9 @@ const data: GlossaryPageData = {
   ],
   example: "A fintech app needs to produce onboarding videos in 6 languages for different markets. Hiring actors for each language would cost $3,000–$5,000 per language ($18,000–$30,000 total). Instead, they use an AI avatar that speaks all 6 languages with native-sounding pronunciation. Total cost: under $500. The videos are produced in a single afternoon, and when the app updates its features, they simply re-render with updated scripts — no reshoots needed.",
   product: {
-    intro: "members.mom offers a curated library of AI avatars designed specifically for ad performance:",
+    intro: "ReUGC offers a curated library of AI avatars designed specifically for ad performance:",
     points: [
-      "Ad-optimized avatars — Every avatar in the members.mom library is designed to look natural in vertical video feeds. They gesture, make eye contact, and deliver lines with the casual energy that performs on TikTok and Instagram.",
+      "Ad-optimized avatars — Every avatar in the ReUGC library is designed to look natural in vertical video feeds. They gesture, make eye contact, and deliver lines with the casual energy that performs on TikTok and Instagram.",
       "Swap presenters instantly — Test the same script with 5 different avatars to see which face resonates with your audience. Different demographics respond to different presenters — now you can test that hypothesis for the cost of a coffee.",
       "New avatars added regularly — The library grows continuously, so your content never looks repetitive. Pair avatar variety with script variations to create dozens of unique-feeling ads from a single campaign brief. Starting at $49/mo.",
     ],

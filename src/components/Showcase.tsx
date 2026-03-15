@@ -14,7 +14,7 @@ export default function Showcase() {
           Built by AI. Performing like the real thing.
         </h2>
         <p className="mx-auto mt-3 max-w-lg text-base text-muted">
-          Product launches, brand promos, testimonials, social hooks — all made with members.mom.
+          Product launches, brand promos, testimonials, social hooks — all made with ReUGC.
         </p>
       </div>
 

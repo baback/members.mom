@@ -15,7 +15,7 @@ const data: GlossaryPageData = {
   ],
   example: "A premium mattress brand maps their funnel and discovers a gap: plenty of awareness traffic (100,000 monthly site visitors) but low conversion (1.2%). They create consideration content: a 3-minute 'how our mattress is made' video, a compilation of 5 customer testimonials addressing different concerns (back pain, hot sleeping, partner movement), and a comparison video against two popular competitors. They retarget site visitors with this content. Conversion rate increases to 2.8% within 6 weeks — the consideration content answered the questions that were preventing purchase.",
   product: {
-    intro: "members.mom helps you fill the consideration gap with educational, trust-building video content:",
+    intro: "ReUGC helps you fill the consideration gap with educational, trust-building video content:",
     points: [
       "Testimonial and explainer videos — Generate detailed product testimonials and how-it-works videos that address specific prospect concerns. AI presenters deliver educational content naturally and credibly.",
       "Objection-handling content — Create videos that directly address your top 5 purchase objections. 'Is it worth the price?' 'Does it actually work?' 'What if I don't like it?' Answer each one with a dedicated video.",

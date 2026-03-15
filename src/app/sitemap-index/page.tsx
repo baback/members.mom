@@ -10,14 +10,14 @@ import { pages as glossaryPages } from "@/app/glossary/_data";
 import { pages as templatePages } from "@/app/templates/_data";
 
 export const metadata: Metadata = {
-  title: "Sitemap — All Pages | members.mom",
-  description: "Browse all 250+ pages on members.mom — alternatives, industries, platforms, video types, glossary terms, and script templates.",
+  title: "Sitemap — All Pages | ReUGC",
+  description: "Browse all 250+ pages on ReUGC — alternatives, industries, platforms, video types, glossary terms, and script templates.",
 };
 
 const sections = [
   {
     title: "Alternative Pages",
-    description: "Compare members.mom to other AI video tools",
+    description: "Compare ReUGC to other AI video tools",
     route: "/alternative",
     count: Object.keys(alternativePages).length,
     pages: Object.entries(alternativePages).map(([slug, d]) => ({ slug, label: d.h1 })),
@@ -72,7 +72,7 @@ export default function SitemapIndexPage() {
             All Pages <span className="text-muted font-normal text-xl">({total})</span>
           </h1>
           <p className="mt-3 text-muted text-sm max-w-xl">
-            Every page on members.mom — browse by category or use Ctrl+F to find what you need.
+            Every page on ReUGC — browse by category or use Ctrl+F to find what you need.
           </p>
 
           <div className="mt-14 space-y-16">

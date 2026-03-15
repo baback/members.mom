@@ -16,10 +16,10 @@ const data: GlossaryPageData = {
   ],
   example: "A supplement brand tests 6 hook variations for the same product video. They keep the body and CTA identical, changing only the first 3 seconds. Results: 'I've tried every protein powder' (22% hook rate), 'My trainer recommended this' (28%), 'This tastes like a milkshake' (35%), 'I was skeptical but...' (31%), 'POV: you finally find a protein powder that doesn't taste like chalk' (44%), 'The ingredient that changed my workouts' (26%). The POV hook wins by a wide margin — the second-person framing and relatable pain point create immediate identification. They scale that hook and apply the POV format to their next 10 creatives.",
   product: {
-    intro: "members.mom lets you test hooks at a pace that traditional production can't match:",
+    intro: "ReUGC lets you test hooks at a pace that traditional production can't match:",
     points: [
       "Rapid hook iteration — Write 5 different opening lines, generate 5 videos with the same body content, and have all 5 ready to launch in under an hour. Find your winning hook before your competitors finish their first draft.",
-      "Data-driven hook libraries — As you test hooks across campaigns, you build a library of proven openers. members.mom makes it easy to remix winning hooks with new scripts and avatars for continuous improvement.",
+      "Data-driven hook libraries — As you test hooks across campaigns, you build a library of proven openers. ReUGC makes it easy to remix winning hooks with new scripts and avatars for continuous improvement.",
       "Affordable experimentation — At $49/mo for 10 videos, testing 5 hook variations costs less than a single freelance UGC video. Remove the financial barrier to creative experimentation.",
     ],
   },

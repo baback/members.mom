@@ -16,9 +16,9 @@ const data: GlossaryPageData = {
   ],
   example: "An apparel brand repurposes their horizontal product video (16:9) for TikTok by adding black bars top and bottom. It gets a 14% thumb-stop rate and $48 CPA. They then create a native vertical version — same product, same messaging, but filmed vertically with the model filling the screen and text overlays sized for mobile. The vertical version gets a 36% thumb-stop rate and $19 CPA. Same product, same message, same audience — the format made a 2.5x difference in performance.",
   product: {
-    intro: "members.mom generates all content in vertical-first format:",
+    intro: "ReUGC generates all content in vertical-first format:",
     points: [
-      "Native 9:16 output — Every video from members.mom is generated in vertical format by default. No cropping, no reformatting, no black bars. Upload directly to TikTok, Reels, or Shorts.",
+      "Native 9:16 output — Every video from ReUGC is generated in vertical format by default. No cropping, no reformatting, no black bars. Upload directly to TikTok, Reels, or Shorts.",
       "Optimized framing — AI avatars are automatically framed for vertical viewing — centered, chest-up, with space for text overlays and platform UI elements. The output looks like it was filmed on a phone.",
       "Platform-ready specs — Videos are exported with the resolution, bitrate, and codec settings that each platform recommends. No technical guesswork, no rejected uploads. Plans start at $49/mo.",
     ],

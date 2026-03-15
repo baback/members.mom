@@ -16,11 +16,11 @@ const data: GlossaryPageData = {
   ],
   example: "A DTC skincare brand is running Meta ads with a $42 CPA. Their target is $30. They diagnose the funnel: CPM is $11 (reasonable), CTR is 0.8% (below average), and landing page conversion rate is 4.2% (decent). The bottleneck is CTR. They produce 8 new UGC-style video ads with stronger hooks and clearer CTAs. The top 3 performers achieve 1.6% CTR, which drops CPA to $26 — below target. The product, pricing, and landing page didn't change. The creative did.",
   product: {
-    intro: "members.mom helps brands reduce CPA by increasing creative volume and testing velocity:",
+    intro: "ReUGC helps brands reduce CPA by increasing creative volume and testing velocity:",
     points: [
-      "More creatives = more chances to find low-CPA winners — The math is simple: if 1 in 5 creatives beats your CPA target, you need to test 20 to find 4 winners. members.mom makes producing those 20 variations affordable.",
-      "Faster iteration cycles — When a creative's CPA starts rising (a sign of fatigue), replace it immediately with a fresh variation. members.mom lets you generate replacements in minutes, not weeks.",
-      "Lower production costs improve unit economics — If you're spending $500/month on creator content, switching to members.mom at $49–$199/mo frees up budget that can go directly into ad spend, further reducing effective CPA.",
+      "More creatives = more chances to find low-CPA winners — The math is simple: if 1 in 5 creatives beats your CPA target, you need to test 20 to find 4 winners. ReUGC makes producing those 20 variations affordable.",
+      "Faster iteration cycles — When a creative's CPA starts rising (a sign of fatigue), replace it immediately with a fresh variation. ReUGC lets you generate replacements in minutes, not weeks.",
+      "Lower production costs improve unit economics — If you're spending $500/month on creator content, switching to ReUGC at $49–$199/mo frees up budget that can go directly into ad spend, further reducing effective CPA.",
     ],
   },
   related: [

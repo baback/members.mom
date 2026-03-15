@@ -78,10 +78,10 @@ export default async function TemplatePage({ params }: { params: Promise<{ slug:
           <div className="text-center mt-20">
             <h2 className="text-2xl font-bold tracking-tight sm:text-3xl mb-4">{page.ctaLine}</h2>
             <p className="text-base text-muted mb-8">50x cheaper than hiring creators. Realistic AI actors. Ready in minutes.</p>
-            <button type="button" className="inline-flex items-center gap-2 rounded-full bg-foreground px-7 py-3 text-sm font-medium text-background transition hover:bg-foreground/85 cursor-pointer">
+            <a href="https://studio.reugc.com" className="inline-flex items-center gap-2 rounded-full bg-foreground px-7 py-3 text-sm font-medium text-background transition hover:bg-foreground/85 cursor-pointer">
               Get Started
               <svg className="size-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M5 12h14m-7-7 7 7-7 7" /></svg>
-            </button>
+            </a>
           </div>
         </div>
       </article>

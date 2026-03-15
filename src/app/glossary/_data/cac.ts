@@ -16,9 +16,9 @@ const data: GlossaryPageData = {
   ],
   example: "A subscription snack box brand calculates their monthly CAC. Ad spend: $15,000. Creative production (UGC creators): $3,000. Agency management fee: $2,500. Marketing tools: $800. New customers acquired: 420. CAC = $21,300 ÷ 420 = $50.71. Their average first-order value is $35, but their 12-month LTV is $210 (customers stay an average of 6 months at $35/month). LTV:CAC ratio = 4.1:1 — healthy. But if they can reduce creative production costs from $3,000 to $500 using AI tools, CAC drops to $44.05, improving the ratio to 4.8:1.",
   product: {
-    intro: "members.mom directly reduces CAC by cutting one of its largest components — creative production cost:",
+    intro: "ReUGC directly reduces CAC by cutting one of its largest components — creative production cost:",
     points: [
-      "Slash creative production from your CAC — Replace $2,000–$5,000/month in creator fees with members.mom plans starting at $49/mo. This directly reduces your total marketing costs and improves CAC without changing anything else in your funnel.",
+      "Slash creative production from your CAC — Replace $2,000–$5,000/month in creator fees with ReUGC plans starting at $49/mo. This directly reduces your total marketing costs and improves CAC without changing anything else in your funnel.",
       "Better creative lowers ad costs too — AI-generated UGC that performs well on social platforms earns lower CPMs and higher CTRs, reducing the ad spend component of CAC alongside the production component.",
       "Track the impact clearly — When creative production costs drop by 80–90%, the effect on CAC is immediate and measurable. It's one of the clearest ROI calculations in your marketing stack.",
     ],

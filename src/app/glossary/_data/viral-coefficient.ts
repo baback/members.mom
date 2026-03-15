@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "A meal prep brand creates a UGC-style video showing a week of meals prepared in 2 hours. The video is genuinely useful — viewers share it with friends who also struggle with meal planning. The paid ad generates 50,000 views and 1,200 shares. Those shares generate an additional 35,000 organic views and 180 purchases — all at $0 acquisition cost. The viral coefficient of this specific creative is 0.15 (each paid viewer generates 0.15 additional organic viewers). While modest, this organic amplification reduces the effective CPA of the campaign by 13%. They identify 'utility content' as their most shareable format and produce more of it.",
   product: {
-    intro: "members.mom helps you create the shareable content that drives organic amplification:",
+    intro: "ReUGC helps you create the shareable content that drives organic amplification:",
     points: [
-      "Authentic content gets shared — UGC-style videos from members.mom look like personal recommendations, which are the most shared content type on social media. Authentic-feeling content earns organic distribution that polished brand ads don't.",
+      "Authentic content gets shared — UGC-style videos from ReUGC look like personal recommendations, which are the most shared content type on social media. Authentic-feeling content earns organic distribution that polished brand ads don't.",
       "Test shareability signals — Generate multiple video concepts and measure which ones earn the most shares. Shares are the strongest signal of viral potential — optimize for them alongside traditional metrics like CPA.",
-      "Volume increases viral chances — The more content you produce, the more chances you have to create something that resonates and spreads organically. members.mom's plans ($49–$199/mo) give you enough volume to find your viral formats.",
+      "Volume increases viral chances — The more content you produce, the more chances you have to create something that resonates and spreads organically. ReUGC's plans ($49–$199/mo) give you enough volume to find your viral formats.",
     ],
   },
   related: [

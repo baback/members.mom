@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "An e-commerce brand builds 5 custom audiences on Meta: (1) All site visitors, last 30 days — 45,000 people. (2) Product page viewers, last 14 days — 12,000 people. (3) Cart abandoners, last 7 days — 3,200 people. (4) Past purchasers, last 180 days — 8,500 people. (5) Email subscribers who haven't purchased — 22,000 people. Each audience gets tailored creative: audience 1 sees brand story content, audience 2 sees product testimonials, audience 3 sees cart reminder with free shipping, audience 4 sees new product launches, and audience 5 sees first-purchase incentives. Blended retargeting ROAS: 8.2x.",
   product: {
-    intro: "members.mom helps you create tailored video content for every custom audience segment:",
+    intro: "ReUGC helps you create tailored video content for every custom audience segment:",
     points: [
       "Segment-specific creative — Generate different videos for different audience segments. Cart abandoners get urgency messaging, email subscribers get introduction content, past customers get upsell videos. Each segment gets the right message.",
-      "Refresh at the speed of audience decay — Custom audiences are time-sensitive. members.mom lets you refresh creative weekly to match the recency of your audience data, keeping messaging relevant and engagement high.",
-      "Exclusion-friendly volume — When you exclude converters from retargeting, your audience shrinks and needs fresh creative more often. members.mom's affordable plans ($49–$199/mo) ensure you can keep up. ",
+      "Refresh at the speed of audience decay — Custom audiences are time-sensitive. ReUGC lets you refresh creative weekly to match the recency of your audience data, keeping messaging relevant and engagement high.",
+      "Exclusion-friendly volume — When you exclude converters from retargeting, your audience shrinks and needs fresh creative more often. ReUGC's affordable plans ($49–$199/mo) ensure you can keep up. ",
     ],
   },
   related: [

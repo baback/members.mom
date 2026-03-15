@@ -16,10 +16,10 @@ const data: GlossaryPageData = {
   ],
   example: "A beauty brand's overall AOV is $52. They segment by ad creative and discover: studio product ads attract $48 AOV, UGC 'routine' videos attract $67 AOV (customers buy the full routine, not just one product), and discount-focused ads attract $38 AOV. They shift 60% of their budget to 'routine' style UGC ads. Overall AOV increases to $59, and ROAS improves from 3.2x to 4.1x — without changing their product, pricing, or landing page.",
   product: {
-    intro: "members.mom helps you create the ad variations that attract higher-AOV customers:",
+    intro: "ReUGC helps you create the ad variations that attract higher-AOV customers:",
     points: [
       "Test value-focused messaging — Generate videos that highlight bundles, routines, and premium options rather than discounts. Test which framing attracts the highest-value buyers.",
-      "Segment creative by AOV impact — With enough video variations (10–60/month on members.mom plans), you can run dedicated creative for different AOV segments and optimize each independently.",
+      "Segment creative by AOV impact — With enough video variations (10–60/month on ReUGC plans), you can run dedicated creative for different AOV segments and optimize each independently.",
       "Bundle storytelling at scale — Create product bundle videos that show the complete experience, not just individual items. AI avatars can walk through a multi-product routine in 30 seconds, driving higher cart values. Plans from $49/mo.",
     ],
   },

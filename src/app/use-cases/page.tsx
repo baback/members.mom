@@ -32,7 +32,7 @@ export default function UseCasesPage() {
               </em>
             </h1>
             <p className="mt-4 text-base text-muted">
-              See how brands across industries use members.mom to create content that converts.
+              See how brands across industries use ReUGC to create content that converts.
             </p>
           </div>
 

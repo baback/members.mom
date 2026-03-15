@@ -15,9 +15,9 @@ const data: GlossaryPageData = {
   ],
   example: "A DTC jewelry brand has been running interest-targeted campaigns (jewelry, fashion, luxury) with a $32 CPA. Their media buyer tests broad targeting with the same budget and creative. Week 1: CPA is $38 (algorithm is learning). Week 2: CPA drops to $29 (algorithm found efficient segments). Week 3: CPA stabilizes at $26 — 19% lower than interest targeting. The algorithm discovered that their best customers aren't 'jewelry enthusiasts' but rather 'gift shoppers' and 'self-care buyers' — segments the team never would have targeted manually.",
   product: {
-    intro: "members.mom provides the creative quality that broad targeting demands:",
+    intro: "ReUGC provides the creative quality that broad targeting demands:",
     points: [
-      "Creative IS your targeting — In broad targeting, your video content determines who the algorithm shows it to. members.mom helps you create diverse, compelling content that attracts the right audience through relevance rather than restrictions.",
+      "Creative IS your targeting — In broad targeting, your video content determines who the algorithm shows it to. ReUGC helps you create diverse, compelling content that attracts the right audience through relevance rather than restrictions.",
       "Test creative angles as audience signals — Generate videos with different angles (gifting, self-care, luxury, value) and let broad targeting reveal which angle attracts the most profitable customers. Each angle is a targeting hypothesis.",
       "Volume for algorithm learning — Broad targeting needs creative variety to learn efficiently. Feed the algorithm 10–20 video variations so it can test different audience segments simultaneously. Plans from $49/mo.",
     ],

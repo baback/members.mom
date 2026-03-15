@@ -16,7 +16,7 @@ const data: GlossaryPageData = {
   ],
   example: "An online course creator runs TikTok ads driving to a sales page. CTR is strong at 1.8%, but conversion rate is only 0.9% — well below the 2.5% target. They analyze the disconnect: the ad promises 'learn to code in 30 days' but the landing page leads with pricing and curriculum details. They redesign the page to lead with student success stories and a 'day 1 vs. day 30' comparison — matching the transformation promise of the ad. Conversion rate jumps to 3.2%, and CPA drops from $89 to $25 without changing the ad creative at all.",
   product: {
-    intro: "members.mom helps improve conversion rates by ensuring your ad creative sets the right expectations:",
+    intro: "ReUGC helps improve conversion rates by ensuring your ad creative sets the right expectations:",
     points: [
       "Message-matched creative — Generate video ads that accurately represent your product and offer, so visitors who click through are pre-qualified and ready to convert. No bait-and-switch, no expectation mismatch.",
       "Test value propositions before scaling — Create 5 videos highlighting different benefits and see which one drives the highest conversion rate, not just the highest CTR. The creative that converts best is the one worth scaling.",

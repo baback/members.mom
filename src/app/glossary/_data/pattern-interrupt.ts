@@ -16,11 +16,11 @@ const data: GlossaryPageData = {
   ],
   example: "A teeth-whitening brand tests two opening approaches. Approach A (standard): a person smiling at the camera with text 'Get whiter teeth.' Thumb-stop rate: 19%. Approach B (pattern interrupt): the video starts with a close-up of someone's yellowed teeth with the text 'Don't smile until you see this' — then cuts to the same person with visibly whiter teeth 2 seconds later. Thumb-stop rate: 52%. The pattern interrupt (unexpected close-up of imperfect teeth) broke the feed's visual pattern of attractive, aspirational content, forcing viewers to stop and process what they were seeing.",
   product: {
-    intro: "members.mom makes it easy to test pattern interrupt techniques at scale:",
+    intro: "ReUGC makes it easy to test pattern interrupt techniques at scale:",
     points: [
       "Test interrupt styles rapidly — Generate 5 versions of your video with different opening pattern interrupts: bold statement, question, visual surprise, mid-action start, and controversy. Find which interrupt style works for your audience.",
       "Combine interrupts with avatar variety — Different faces create different visual interrupts in the feed. Test which presenter-interrupt combination generates the highest thumb-stop rate.",
-      "Build an interrupt playbook — As you test across campaigns, you'll discover which pattern interrupt techniques consistently work for your brand. members.mom makes this experimentation affordable at $49–$199/mo.",
+      "Build an interrupt playbook — As you test across campaigns, you'll discover which pattern interrupt techniques consistently work for your brand. ReUGC makes this experimentation affordable at $49–$199/mo.",
     ],
   },
   related: [

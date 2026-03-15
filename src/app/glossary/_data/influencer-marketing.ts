@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "A DTC skincare brand allocates $10,000/month to influencer marketing. They partner with 8 micro-influencers ($800–$1,500 each) rather than 1 macro-influencer ($10,000). Each micro-influencer creates 2 pieces of content (16 total). They repurpose the best 5 pieces as paid ads through whitelisting. Results: the organic influencer posts generate $8,000 in tracked revenue (0.8x ROI on organic alone). The whitelisted paid ads generate an additional $22,000 in revenue at a $16 CPA. Combined ROI: 3x. The content value (16 professional UGC videos) would have cost $4,000–$8,000 to produce independently.",
   product: {
-    intro: "members.mom complements influencer marketing by filling the content gaps between partnerships:",
+    intro: "ReUGC complements influencer marketing by filling the content gaps between partnerships:",
     points: [
-      "Bridge the content gap — Influencer partnerships produce 2–4 pieces of content per month. members.mom fills the remaining 20+ creative slots your ad account needs with AI-generated UGC that maintains the authentic style.",
-      "Test concepts before investing in influencers — Use members.mom to test hooks, scripts, and angles with AI avatars. Only send proven concepts to influencers, maximizing the ROI of expensive creator partnerships.",
-      "Scale influencer-style content affordably — Not every ad needs a real influencer. members.mom generates influencer-style testimonial content at a fraction of the cost, reserving your influencer budget for strategic partnerships. Plans from $49/mo.",
+      "Bridge the content gap — Influencer partnerships produce 2–4 pieces of content per month. ReUGC fills the remaining 20+ creative slots your ad account needs with AI-generated UGC that maintains the authentic style.",
+      "Test concepts before investing in influencers — Use ReUGC to test hooks, scripts, and angles with AI avatars. Only send proven concepts to influencers, maximizing the ROI of expensive creator partnerships.",
+      "Scale influencer-style content affordably — Not every ad needs a real influencer. ReUGC generates influencer-style testimonial content at a fraction of the cost, reserving your influencer budget for strategic partnerships. Plans from $49/mo.",
     ],
   },
   related: [

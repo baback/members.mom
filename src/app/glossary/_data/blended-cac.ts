@@ -13,13 +13,13 @@ const data: GlossaryPageData = {
     { heading: "Calculating Blended CAC", text: "Blended CAC = total marketing and sales costs ÷ total new customers acquired. Include everything: ad spend across all platforms, creative production costs, agency and freelancer fees, marketing team salaries (or proportional allocation), tool and software subscriptions, and any other marketing-related expenses. Divide by ALL new customers, including those from organic channels. Calculate monthly and track the trend." },
     { heading: "Optimizing Blended CAC", text: "Three levers to improve blended CAC: (1) Improve paid efficiency — better creative, better targeting, better landing pages reduce paid CAC. (2) Grow organic channels — investing in SEO, content marketing, and brand building increases the proportion of low-cost organic customers, pulling blended CAC down. (3) Reduce overhead — lower creative production costs, negotiate better agency rates, and consolidate tools. The most impactful lever is usually #1 (paid efficiency) in the short term and #2 (organic growth) in the long term." },
   ],
-  example: "A DTC brand calculates their monthly blended CAC. Total marketing costs: $18,000 ad spend + $2,500 creative production + $3,000 agency fee + $500 tools = $24,000. Total new customers: 600 (400 from paid, 200 from organic). Blended CAC = $24,000 ÷ 600 = $40. Their paid-only CAC is $18,000 ÷ 400 = $45. The organic customers pull blended CAC below paid CAC. They then switch creative production from creators ($2,500/mo) to members.mom ($99/mo), saving $2,401/month. New blended CAC: $21,599 ÷ 600 = $36 — a 10% improvement from one change.",
+  example: "A DTC brand calculates their monthly blended CAC. Total marketing costs: $18,000 ad spend + $2,500 creative production + $3,000 agency fee + $500 tools = $24,000. Total new customers: 600 (400 from paid, 200 from organic). Blended CAC = $24,000 ÷ 600 = $40. Their paid-only CAC is $18,000 ÷ 400 = $45. The organic customers pull blended CAC below paid CAC. They then switch creative production from creators ($2,500/mo) to ReUGC ($99/mo), saving $2,401/month. New blended CAC: $21,599 ÷ 600 = $36 — a 10% improvement from one change.",
   product: {
-    intro: "members.mom directly improves blended CAC by reducing the creative production component:",
+    intro: "ReUGC directly improves blended CAC by reducing the creative production component:",
     points: [
-      "Cut production costs by 90%+ — Replace $2,000–$5,000/month in creator and agency production fees with members.mom plans starting at $49/mo. This directly reduces the numerator in your blended CAC calculation.",
+      "Cut production costs by 90%+ — Replace $2,000–$5,000/month in creator and agency production fees with ReUGC plans starting at $49/mo. This directly reduces the numerator in your blended CAC calculation.",
       "Better creative improves paid efficiency — Higher-quality video ads earn lower CPMs and higher CTRs, reducing the ad spend needed per customer. This improves both paid CAC and blended CAC simultaneously.",
-      "Measurable impact on blended CAC — The savings from members.mom are easy to calculate and track. Compare your blended CAC before and after switching to see the direct impact on your acquisition economics.",
+      "Measurable impact on blended CAC — The savings from ReUGC are easy to calculate and track. Compare your blended CAC before and after switching to see the direct impact on your acquisition economics.",
     ],
   },
   related: [

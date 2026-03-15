@@ -16,10 +16,10 @@ const data: GlossaryPageData = {
   ],
   example: "A DTC pet food brand allocates $30,000/month to performance marketing across Meta ($18,000) and TikTok ($12,000). They produce 40 video creatives per month, launch them in structured test campaigns, and measure CPA after 72 hours. The top 8 performers (20%) get scaled with increased budgets. The bottom 32 get paused. Each month, they learn more about what messaging, hooks, and formats work — and their blended CPA decreases from $34 in month 1 to $21 by month 6. The creative testing velocity is what drives the improvement.",
   product: {
-    intro: "members.mom is the creative engine that performance marketing demands:",
+    intro: "ReUGC is the creative engine that performance marketing demands:",
     points: [
-      "Match the pace of performance marketing — The performance marketing loop requires constant creative production. members.mom generates video ads in minutes, keeping your testing pipeline full without production delays.",
-      "Affordable at any scale — Whether you're spending $1,000/month or $100,000/month on ads, members.mom's plans ($49–$199/mo) make creative production a negligible line item rather than a major expense.",
+      "Match the pace of performance marketing — The performance marketing loop requires constant creative production. ReUGC generates video ads in minutes, keeping your testing pipeline full without production delays.",
+      "Affordable at any scale — Whether you're spending $1,000/month or $100,000/month on ads, ReUGC's plans ($49–$199/mo) make creative production a negligible line item rather than a major expense.",
       "Built for the metrics that matter — Every video is designed for the vertical, native-looking format that drives the best CPA, CTR, and ROAS on Meta and TikTok. Performance-optimized from the start.",
     ],
   },

@@ -16,11 +16,11 @@ const data: GlossaryPageData = {
   ],
   example: "A B2B SaaS company runs both short-form and long-form video ads. Their 30-second TikTok ads drive awareness at a $2 CPM but only a 0.8% conversion rate on the landing page. Their 4-minute YouTube pre-roll ad costs more per view but converts at 3.2% — 4x higher. The YouTube viewers arrive at the landing page already understanding the product, having seen a demo, and having heard customer testimonials. The company uses short-form for top-of-funnel volume and long-form for mid-funnel conversion, with each format feeding the other.",
   product: {
-    intro: "members.mom helps you create both short-form and long-form video content:",
+    intro: "ReUGC helps you create both short-form and long-form video content:",
     points: [
-      "Start with short-form, scale to long-form — Use members.mom to generate short-form ad variations for testing, then combine winning segments into longer-form content for retargeting and YouTube.",
+      "Start with short-form, scale to long-form — Use ReUGC to generate short-form ad variations for testing, then combine winning segments into longer-form content for retargeting and YouTube.",
       "Consistent presenter across formats — Use the same AI avatar in your 30-second TikTok ad and your 3-minute YouTube explainer. Brand consistency across formats builds recognition and trust.",
-      "Affordable production for both formats — Whether you need a 20-second hook test or a 2-minute product walkthrough, members.mom generates it from your script at the same per-video cost. Plans from $49/mo.",
+      "Affordable production for both formats — Whether you need a 20-second hook test or a 2-minute product walkthrough, ReUGC generates it from your script at the same per-video cost. Plans from $49/mo.",
     ],
   },
   related: [

@@ -49,7 +49,7 @@ export default async function AlternativePage({ params }: { params: Promise<{ sl
 
           {/* #1 Pick */}
           <section className="mb-16">
-            <h2 className="text-2xl font-bold tracking-tight mb-6">#1 Pick: members.mom</h2>
+            <h2 className="text-2xl font-bold tracking-tight mb-6">#1 Pick: ReUGC</h2>
             <div className="rounded-xl border-2 border-foreground/15 bg-card p-6">
               <p className="text-sm font-medium mb-4">AI UGC video maker built for performance marketers who need volume and quality without the agency price tag.</p>
               <div className="space-y-2 mb-6">
@@ -117,7 +117,7 @@ export default async function AlternativePage({ params }: { params: Promise<{ sl
                 </thead>
                 <tbody>
                   {page.table.rows.map((row, i) => (
-                    <tr key={i} className={`border-b border-border last:border-0 ${row[0] === "members.mom" ? "bg-foreground/3" : ""}`}>
+                    <tr key={i} className={`border-b border-border last:border-0 ${row[0] === "ReUGC" ? "bg-foreground/3" : ""}`}>
                       {row.map((cell, j) => (
                         <td key={j} className={`px-4 py-3 ${j === 0 ? "font-medium" : "text-muted"}`}>
                           {typeof cell === "boolean" ? (cell ? <Check className="size-4 text-foreground" /> : <X className="size-4 text-muted/40" />) : cell}
@@ -146,10 +146,10 @@ export default async function AlternativePage({ params }: { params: Promise<{ sl
           <div className="text-center mt-20">
             <h2 className="text-2xl font-bold tracking-tight sm:text-3xl mb-4">{page.ctaLine}</h2>
             <p className="text-base text-muted mb-8">50x cheaper than hiring creators. 29 languages. Batch generation. Ready in minutes.</p>
-            <button type="button" className="inline-flex items-center gap-2 rounded-full bg-foreground px-7 py-3 text-sm font-medium text-background transition hover:bg-foreground/85 cursor-pointer">
+            <a href="https://studio.reugc.com" className="inline-flex items-center gap-2 rounded-full bg-foreground px-7 py-3 text-sm font-medium text-background transition hover:bg-foreground/85 cursor-pointer">
               Get Started
               <svg className="size-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}><path strokeLinecap="round" strokeLinejoin="round" d="M5 12h14m-7-7 7 7-7 7" /></svg>
-            </button>
+            </a>
           </div>
         </div>
       </article>

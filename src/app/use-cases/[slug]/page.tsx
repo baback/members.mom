@@ -221,12 +221,12 @@ export default async function UseCasePage({ params }: { params: Promise<{ slug: 
                 {page.headline}
               </h1>
               <p className="text-base text-muted leading-relaxed mb-8">{page.sub}</p>
-              <button type="button" className="inline-flex items-center gap-2 rounded-full bg-foreground px-7 py-3 text-sm font-medium text-background transition hover:bg-foreground/85 cursor-pointer">
+              <a href="https://studio.reugc.com" className="inline-flex items-center gap-2 rounded-full bg-foreground px-7 py-3 text-sm font-medium text-background transition hover:bg-foreground/85 cursor-pointer">
                 Start Creating
                 <svg className="size-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                   <path strokeLinecap="round" strokeLinejoin="round" d="M5 12h14m-7-7 7 7-7 7" />
                 </svg>
-              </button>
+            </a>
             </div>
             <div className="mx-auto flex w-full max-w-sm items-end justify-center gap-4 lg:mx-0 lg:max-w-none lg:gap-5">
               <div className="w-[46%]"><VideoCard /></div>
@@ -246,7 +246,7 @@ export default async function UseCasePage({ params }: { params: Promise<{ slug: 
 
           {/* Benefits */}
           <div className="mx-auto max-w-2xl">
-            <h2 className="text-2xl font-bold tracking-tight mb-8 text-center">Why brands choose members.mom for {page.name.toLowerCase()}</h2>
+            <h2 className="text-2xl font-bold tracking-tight mb-8 text-center">Why brands choose ReUGC for {page.name.toLowerCase()}</h2>
             <div className="space-y-4">
               {page.benefits.map((b, i) => (
                 <div key={i} className="flex gap-4 items-start rounded-xl border border-border bg-card p-5">
@@ -265,12 +265,12 @@ export default async function UseCasePage({ params }: { params: Promise<{ slug: 
               Ready to create {page.name.toLowerCase()} content?
             </h2>
             <p className="text-base text-muted mb-8">50x cheaper. 10x better results. Ready in minutes.</p>
-            <button type="button" className="inline-flex items-center gap-2 rounded-full bg-foreground px-7 py-3 text-sm font-medium text-background transition hover:bg-foreground/85 cursor-pointer">
+            <a href="https://studio.reugc.com" className="inline-flex items-center gap-2 rounded-full bg-foreground px-7 py-3 text-sm font-medium text-background transition hover:bg-foreground/85 cursor-pointer">
               Get Started
               <svg className="size-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="M5 12h14m-7-7 7 7-7 7" />
               </svg>
-            </button>
+            </a>
           </div>
         </div>
       </section>

@@ -16,11 +16,11 @@ const data: GlossaryPageData = {
   ],
   example: "A DTC supplement brand needs 30 ad variations for a Meta campaign. They hire 5 UGC creators at $250 each, spending $1,250 for 5 base videos. After editing hooks and CTAs, they get 15 usable variations. The top performer — a 22-second testimonial-style video — delivers a $14 CPA versus $31 from their studio ad. The UGC approach costs 60% less to produce and converts 2.2x better.",
   product: {
-    intro: "members.mom takes UGC production from weeks to minutes by generating AI-powered UGC videos that look and feel like real creator content:",
+    intro: "ReUGC takes UGC production from weeks to minutes by generating AI-powered UGC videos that look and feel like real creator content:",
     points: [
       "Skip the creator search — Choose from dozens of AI avatars that deliver lines naturally, complete with realistic lip sync and expressions. No briefs, no revisions, no ghosted creators.",
       "Generate variations at scale — Turn one script into 10+ video variations by swapping avatars, hooks, and CTAs. Feed your ad account the creative volume it needs starting at $49/mo for 10 videos.",
-      "Maintain the authentic feel — AI-generated UGC from members.mom is designed to look native to TikTok, Reels, and Shorts, so algorithms treat it like organic content rather than polished ads.",
+      "Maintain the authentic feel — AI-generated UGC from ReUGC is designed to look native to TikTok, Reels, and Shorts, so algorithms treat it like organic content rather than polished ads.",
     ],
   },
   related: [

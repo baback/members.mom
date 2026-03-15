@@ -39,7 +39,7 @@ export default function PrivacyPage() {
 
             <section>
               <h2 className="text-base font-semibold text-foreground mb-2">6. Your Rights</h2>
-              <p>You have the right to access, correct, or delete your personal data at any time. You can also request a copy of your data or ask us to stop processing it. Contact us at privacy@members.mom to exercise these rights.</p>
+              <p>You have the right to access, correct, or delete your personal data at any time. You can also request a copy of your data or ask us to stop processing it. Contact us at privacy@ReUGC to exercise these rights.</p>
             </section>
 
             <section>
@@ -49,7 +49,7 @@ export default function PrivacyPage() {
 
             <section>
               <h2 className="text-base font-semibold text-foreground mb-2">8. Contact</h2>
-              <p>If you have questions about this privacy policy, contact us at privacy@members.mom.</p>
+              <p>If you have questions about this privacy policy, contact us at privacy@ReUGC.</p>
             </section>
           </div>
         </div>

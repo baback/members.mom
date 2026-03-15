@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "A brand creates a single 16:9 product video and runs it across TikTok, Instagram Reels, and Facebook Feed. On TikTok, it appears with large black bars top and bottom, occupying only 56% of the screen — thumb-stop rate is 12%. On Reels, it's similarly letterboxed — 15% thumb-stop. On Facebook Feed, it looks acceptable but small — 18% thumb-stop. They then create platform-native versions: 9:16 for TikTok and Reels, 4:5 for Facebook Feed. Thumb-stop rates jump to 34%, 31%, and 26% respectively. The content is identical — only the specs changed.",
   product: {
-    intro: "members.mom handles video specs automatically so you never have to think about them:",
+    intro: "ReUGC handles video specs automatically so you never have to think about them:",
     points: [
       "Platform-ready output — Every video is generated in 9:16 vertical format at 1080×1920 resolution, meeting the recommended specs for TikTok, Instagram Reels, YouTube Shorts, and Facebook Reels out of the box.",
       "Correct codec and bitrate — Videos are exported with H.264 codec at optimal bitrate settings, ensuring high quality without excessive file sizes. No manual encoding or compression needed.",
-      "Upload and go — members.mom videos are ready to upload directly to any ad platform without reformatting, re-encoding, or spec adjustments. Save hours of technical production work. Plans from $49/mo.",
+      "Upload and go — ReUGC videos are ready to upload directly to any ad platform without reformatting, re-encoding, or spec adjustments. Save hours of technical production work. Plans from $49/mo.",
     ],
   },
   related: [

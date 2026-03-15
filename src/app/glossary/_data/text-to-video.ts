@@ -16,7 +16,7 @@ const data: GlossaryPageData = {
   ],
   example: "A subscription box brand needs to test 12 different value propositions for their Meta ads. Their copywriter writes 12 scripts in 2 hours, each highlighting a different benefit (convenience, variety, price, gifting, etc.). Using text-to-video AI, they generate all 12 videos in under an hour, each featuring a different AI presenter. They launch all 12 as ads, and within 72 hours, the data shows that the 'gifting' angle outperforms everything else by 3x. They double down on that angle with 5 more variations — all generated the same day.",
   product: {
-    intro: "members.mom is a text-to-video platform built specifically for performance marketers who need ad-ready content fast:",
+    intro: "ReUGC is a text-to-video platform built specifically for performance marketers who need ad-ready content fast:",
     points: [
       "Script in, video out — Paste your script, choose an avatar and voice, and generate a finished video in minutes. No editing software, no production knowledge required. The output is ready to upload directly to your ad platform.",
       "Optimized for ad formats — Every video is generated in vertical (9:16) format with platform-ready specs for TikTok, Meta, and YouTube Shorts. Captions, pacing, and delivery are tuned for scroll-stopping performance.",

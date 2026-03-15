@@ -15,11 +15,11 @@ const data: GlossaryPageData = {
   ],
   example: "A digital course creator uses a 12-minute VSL on their sales page. The VSL opens with a relatable struggle ('I was working 60 hours a week and barely making rent'), transitions to the discovery ('Then I learned this framework'), shows proof (student results and testimonials), presents the offer ($497 course with bonuses), and closes with urgency ('Enrollment closes Friday'). The VSL converts cold traffic at 2.8% — 4x higher than the previous text-based sales page. They then create a 3-minute 'mini-VSL' for retargeting that summarizes the key points, converting warm traffic at 7.2%.",
   product: {
-    intro: "members.mom helps you produce VSL content and the short-form ads that drive traffic to them:",
+    intro: "ReUGC helps you produce VSL content and the short-form ads that drive traffic to them:",
     points: [
       "Short-form ads that feed VSL funnels — Generate scroll-stopping short-form video ads that drive traffic to your VSL landing page. The short-form ad hooks attention; the VSL closes the sale.",
       "VSL presenter consistency — Use the same AI avatar in your short-form ads and your VSL for brand consistency. Viewers who recognize the presenter from the ad feel more comfortable watching the longer content.",
-      "Test VSL hooks affordably — The first 30 seconds of a VSL determine whether viewers watch the rest. Generate multiple VSL openings with members.mom to find the hook that maximizes watch time. Plans from $49/mo.",
+      "Test VSL hooks affordably — The first 30 seconds of a VSL determine whether viewers watch the rest. Generate multiple VSL openings with ReUGC to find the hook that maximizes watch time. Plans from $49/mo.",
     ],
   },
   related: [

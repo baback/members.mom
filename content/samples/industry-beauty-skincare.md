@@ -119,21 +119,21 @@ Controversy hook — challenges something the viewer might be doing. High thumb-
 
 ---
 
-## How Skincare Brands Use members.mom
+## How Skincare Brands Use ReUGC
 
 ### A DTC serum brand doing $30K/month
 **Challenge:** Spending $1,500/month on 5 UGC creators, but only 2 out of 5 videos performed well enough to scale. Couldn't test fast enough to find winners before creative fatigue set in.
-**What they did:** Switched to members.mom Pro plan ($99/month). Created 25 testimonial-style videos with 5 different hooks and 5 different AI actors matching their core demographics (women 25–45, diverse skin tones).
+**What they did:** Switched to ReUGC Pro plan ($99/month). Created 25 testimonial-style videos with 5 different hooks and 5 different AI actors matching their core demographics (women 25–45, diverse skin tones).
 **Result:** Found 3 winning creatives in the first 2 weeks. CPA dropped 38% by month 2. Total content spend went from $1,500/month to $99/month.
 
 ### A clean beauty brand expanding to Europe
 **Challenge:** Had strong US ad performance but needed to launch in France, Germany, and Spain. Translating and re-shooting videos with local creators would cost $3,000+ per market.
-**What they did:** Took their 5 best-performing English scripts and generated them in French, German, and Spanish using members.mom's multilingual lip sync. Same scripts, same structure, native-sounding delivery in each language.
+**What they did:** Took their 5 best-performing English scripts and generated them in French, German, and Spanish using ReUGC's multilingual lip sync. Same scripts, same structure, native-sounding delivery in each language.
 **Result:** Launched in 3 European markets in a single week. French market hit profitability in 18 days — faster than their original US launch.
 
 ### A Sephora-listed brand testing at scale
 **Challenge:** Needed 50+ fresh creatives per month to feed Meta and TikTok campaigns across 12 SKUs. Their agency charged $15,000/month for this volume and turnaround was 2 weeks.
-**What they did:** Moved to members.mom Pro Plus ($199/month for 60 videos). Built a library of scripts per SKU and generated variations weekly — different hooks, different actors, different formats.
+**What they did:** Moved to ReUGC Pro Plus ($199/month for 60 videos). Built a library of scripts per SKU and generated variations weekly — different hooks, different actors, different formats.
 **Result:** Content production cost dropped from $15,000 to $199/month. Turnaround went from 2 weeks to same-day. They now test 60 creatives per month instead of 15.
 
 ---

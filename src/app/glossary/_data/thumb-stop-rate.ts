@@ -16,7 +16,7 @@ const data: GlossaryPageData = {
   ],
   example: "A jewelry brand runs 5 ad variations with different hooks. Hook A (product close-up with text overlay): 18% thumb-stop. Hook B (founder speaking to camera): 24%. Hook C ('I get compliments every time I wear this'): 31%. Hook D (unboxing with ASMR sounds): 42%. Hook E ('My boyfriend thought this was $500'): 47%. Hooks D and E are scaled. The brand learns that sensory triggers (ASMR) and price anchoring ('thought this was $500') are their most effective attention-grabbers — insights they apply to all future creative.",
   product: {
-    intro: "members.mom helps you systematically improve thumb-stop rate through rapid hook testing:",
+    intro: "ReUGC helps you systematically improve thumb-stop rate through rapid hook testing:",
     points: [
       "Test 5+ hooks per concept — Generate the same video body with 5 different opening hooks. Launch all 5, measure thumb-stop rates after 48 hours, and scale the winner. The cost of testing is negligible compared to the performance gains.",
       "Visual variety that stops thumbs — Different AI avatars create different visual impressions in the feed. Test which presenter style catches your audience's eye — the data often surprises you.",

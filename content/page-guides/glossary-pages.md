@@ -52,10 +52,10 @@ These are top-of-funnel informational pages targeting people searching "what is 
 - Use analogies for abstract concepts: "Think of hook rate like the subject line of an email — it determines whether anyone reads the rest."
 - **Don't over-explain. If you can say it in 250 words, don't stretch to 350.**
 
-### 5. How members.mom Helps With [Term] (100–150 words)
+### 5. How ReUGC Helps With [Term] (100–150 words)
 - Soft product tie-in — NOT a sales pitch
 - Connect the term to a specific product capability
-- Format: "If [term] matters to your marketing, here's how members.mom helps:"
+- Format: "If [term] matters to your marketing, here's how ReUGC helps:"
 - 2–3 bullet points, each connecting the concept to a feature:
   - "**Test hooks at scale**: Create 10 video variations with different hooks in minutes, so you can find the highest thumb-stop rate without spending weeks on production."
   - "**AI actors, no scheduling**: Generate testimonial-style videos on demand — no creator coordination, no delays."
@@ -69,7 +69,7 @@ These are top-of-funnel informational pages targeting people searching "what is 
 
 ### 7. CTA Section
 - Standard CTA component
-- Keep it simple: "See how members.mom helps with [term]."
+- Keep it simple: "See how ReUGC helps with [term]."
 - Button: "Get Started"
 
 ---

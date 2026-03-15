@@ -16,10 +16,10 @@ const data: GlossaryPageData = {
   ],
   example: "A supplement brand tracks LTV by acquisition creative type. Customers acquired through discount ads ('40% off first order'): average LTV of $85 over 12 months (most cancel after the discount period). Customers acquired through UGC testimonial ads ('I've been taking this for 6 months and here's what changed'): average LTV of $310 over 12 months (higher retention, more likely to add products). The UGC testimonial ads have a higher CPA ($38 vs. $22), but the LTV:CAC ratio is dramatically better (8.2:1 vs. 3.9:1). The brand shifts 70% of budget to testimonial-style creative.",
   product: {
-    intro: "members.mom helps you create the authentic, value-focused content that attracts high-LTV customers:",
+    intro: "ReUGC helps you create the authentic, value-focused content that attracts high-LTV customers:",
     points: [
       "Testimonial-style content at scale — Generate UGC testimonial videos that attract customers who care about the product, not just the discount. These customers stick around longer and spend more over time.",
-      "Test messaging that drives retention — Use members.mom to test different value propositions and see which ones attract customers with the highest repeat purchase rates. The creative that wins on CPA isn't always the one that wins on LTV.",
+      "Test messaging that drives retention — Use ReUGC to test different value propositions and see which ones attract customers with the highest repeat purchase rates. The creative that wins on CPA isn't always the one that wins on LTV.",
       "Reduce CAC to improve LTV:CAC ratio — With creative production costs starting at $49/mo instead of thousands, your total CAC drops, directly improving the LTV:CAC ratio that determines growth sustainability.",
     ],
   },

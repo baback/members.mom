@@ -16,7 +16,7 @@ const data: GlossaryPageData = {
   ],
   example: "A meal-kit delivery brand runs two ad sets on Meta: one with a professionally shot brand video (studio lighting, branded graphics, voiceover) and one with a UGC-style video of someone unboxing the kit in their kitchen, cooking a meal, and saying 'honestly didn't expect it to taste this good.' The UGC ad delivers a $22 CPA versus $41 for the brand video, with 3.1x more shares and 67% higher click-through rate. Same product, same targeting, same budget — the format made the difference.",
   product: {
-    intro: "members.mom helps brands produce UGC ads at the volume and speed paid social demands:",
+    intro: "ReUGC helps brands produce UGC ads at the volume and speed paid social demands:",
     points: [
       "Generate UGC-style ads without creators — AI avatars deliver your script in a natural, testimonial-style format that looks native to TikTok and Instagram feeds. No casting, no contracts, no content rights negotiations.",
       "Test hooks and CTAs rapidly — Create 10 versions of the same ad with different opening hooks and closing CTAs. Launch them all, kill the losers in 48 hours, and scale the winners. Starting at $49/mo.",

@@ -16,11 +16,11 @@ const data: GlossaryPageData = {
   ],
   example: "A skincare brand hires 3 UGC creators for a product launch. Creator A charges $200 and delivers a 30-second testimonial. Creator B charges $350 and delivers a 'get ready with me' style video. Creator C charges $150 and delivers an unboxing clip. Total spend: $700 for 3 videos. After running all three as ads, Creator B's video outperforms with a $16 CPA. The brand asks for 4 more variations from Creator B — but she's booked for 3 weeks. The launch window closes before the variations arrive.",
   product: {
-    intro: "members.mom eliminates the creator bottleneck while preserving the UGC style that converts:",
+    intro: "ReUGC eliminates the creator bottleneck while preserving the UGC style that converts:",
     points: [
       "No sourcing, no waiting — Instead of browsing creator marketplaces and waiting weeks for deliverables, generate UGC-style videos instantly with AI avatars that deliver your script naturally. Plans start at $49/mo.",
       "Unlimited revisions, zero friction — Don't like the delivery? Adjust the script and re-render in minutes. No awkward revision requests, no additional fees, no creator availability issues.",
-      "Scale without scaling costs — A single creator can produce 2–3 videos per week. members.mom can generate 10–60 videos per month depending on your plan, giving you the creative volume to test and iterate at the pace your ad account demands.",
+      "Scale without scaling costs — A single creator can produce 2–3 videos per week. ReUGC can generate 10–60 videos per month depending on your plan, giving you the creative volume to test and iterate at the pace your ad account demands.",
     ],
   },
   related: [

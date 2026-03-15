@@ -15,10 +15,10 @@ const data: GlossaryPageData = {
   ],
   example: "A growing DTC brand produces content across 4 channels with 3 different team members and an AI video tool. Without a brand kit, each channel looks slightly different — different caption colors, inconsistent logo placement, varying tones of voice. They create a comprehensive brand kit and distribute it to all team members and configure it in their tools. Within a month, their content looks cohesive across every channel. Brand recall in surveys increases 28%, and their retargeting campaigns perform 15% better because viewers recognize the brand from their awareness content.",
   product: {
-    intro: "members.mom helps maintain brand consistency across all your AI-generated video content:",
+    intro: "ReUGC helps maintain brand consistency across all your AI-generated video content:",
     points: [
       "Consistent presenter identity — Use the same AI avatars across campaigns to build visual brand recognition. Viewers who see the same presenter across multiple ads develop familiarity and trust.",
-      "On-brand delivery style — Select voice and delivery styles that match your brand's tone of voice. Whether your brand is casual and fun or professional and authoritative, members.mom has voices to match.",
+      "On-brand delivery style — Select voice and delivery styles that match your brand's tone of voice. Whether your brand is casual and fun or professional and authoritative, ReUGC has voices to match.",
       "Scalable consistency — Whether you generate 10 or 60 videos per month, every output maintains the same quality and style standards. Brand consistency at scale without manual oversight. Plans from $49/mo.",
     ],
   },

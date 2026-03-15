@@ -15,10 +15,10 @@ const data: GlossaryPageData = {
   ],
   example: "A jewelry brand launches on TikTok Shop with a strategy centered on UGC-style product videos. They produce 20 short videos per month showing different pieces being worn in everyday settings, with product tags linked to TikTok Shop listings. One video — a 22-second clip of someone receiving a necklace as a gift — goes semi-viral (800,000 views) and generates $12,000 in TikTok Shop sales in 48 hours. The in-app purchase flow converts at 4.8% versus 1.2% for their traditional website funnel. They shift 30% of their ad budget to TikTok Shop content and see overall revenue increase 45% in the first quarter.",
   product: {
-    intro: "members.mom creates the video content that drives social commerce sales:",
+    intro: "ReUGC creates the video content that drives social commerce sales:",
     points: [
       "Product-focused UGC content — Generate videos that showcase products in authentic, everyday contexts. AI presenters demonstrate, recommend, and review products in the UGC style that social commerce platforms reward.",
-      "Volume for always-on social storefronts — Social commerce requires constant fresh content to keep your storefront active and discoverable. members.mom's plans ($49–$199/mo) provide the video volume to maintain a consistent presence.",
+      "Volume for always-on social storefronts — Social commerce requires constant fresh content to keep your storefront active and discoverable. ReUGC's plans ($49–$199/mo) provide the video volume to maintain a consistent presence.",
       "Platform-native format — Every video is generated in the vertical, short-form format that TikTok Shop, Instagram Shopping, and other social commerce platforms prioritize. Upload directly and start selling.",
     ],
   },

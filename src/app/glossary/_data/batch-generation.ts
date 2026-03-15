@@ -15,7 +15,7 @@ const data: GlossaryPageData = {
   ],
   example: "A DTC coffee brand runs a weekly batch generation workflow. Monday: write 3 new scripts based on last week's learnings. Tuesday: generate each script with 4 different avatars (12 videos total). Wednesday: generate the top-performing script from last week with 5 new hook variations (5 more videos). Thursday: upload all 17 videos to Meta Ads Manager and launch. Friday: review 48-hour performance data and identify early winners. This weekly cadence produces 68 new creative variations per month — enough to keep their ad account consistently finding winners and replacing fatigued creative.",
   product: {
-    intro: "members.mom is built for batch video generation workflows:",
+    intro: "ReUGC is built for batch video generation workflows:",
     points: [
       "Multiple variations from one script — Generate the same script with different avatars, or different scripts with the same avatar. Swap individual elements to create clean test variations in minutes.",
       "Plans designed for batch production — Starter ($49/mo, 10 videos) covers basic testing. Pro ($99/mo, 25 videos) enables weekly batch cycles. Pro Plus ($199/mo, 60 videos) supports aggressive daily testing.",

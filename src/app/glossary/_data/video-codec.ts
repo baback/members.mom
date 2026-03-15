@@ -15,7 +15,7 @@ const data: GlossaryPageData = {
   ],
   example: "A marketing team exports their ad video in three codec configurations and uploads to TikTok. H.264 at 10 Mbps: 18MB file, uploads in 5 seconds, plays perfectly, looks crisp. H.265 at 10 Mbps: 11MB file, uploads in 3 seconds, plays perfectly, looks identical to H.264. ProRes (professional codec): 450MB file, rejected by TikTok — file too large and codec not supported. The team standardizes on H.264 for all social media exports — universal compatibility, fast encoding, and quality that's indistinguishable from newer codecs at social media viewing sizes.",
   product: {
-    intro: "members.mom handles all codec and encoding decisions automatically:",
+    intro: "ReUGC handles all codec and encoding decisions automatically:",
     points: [
       "Universal compatibility — All videos are exported with H.264 codec in MP4 container, ensuring acceptance on every major ad platform without compatibility issues or rejected uploads.",
       "Optimized encoding settings — Bitrate, profile, and level settings are automatically configured for the best balance of quality and file size. No manual encoding knowledge required.",

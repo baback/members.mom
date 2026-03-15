@@ -16,10 +16,10 @@ const data: GlossaryPageData = {
   ],
   example: "A fitness app runs a split test on Meta with 4 ad variations, changing only the presenter while keeping the script, hook, and CTA identical. Presenter A (young male fitness enthusiast): $28 CPA. Presenter B (middle-aged woman): $19 CPA. Presenter C (older male): $34 CPA. Presenter D (young female): $22 CPA. Presenter B wins by a significant margin — the middle-aged woman resonated most with the app's actual user base (35–55 year olds), not the aspirational fitness demographic the team assumed. This insight reshapes their entire creative strategy.",
   product: {
-    intro: "members.mom makes split testing economically viable by reducing the cost of each variation:",
+    intro: "ReUGC makes split testing economically viable by reducing the cost of each variation:",
     points: [
       "Test more variables, more often — When each video variation costs $4–$8 instead of $200–$500, you can test 5 hooks, 5 presenters, and 5 CTAs in a single month. More tests = more learnings = better performance.",
-      "True single-variable testing — Swap just the hook, just the avatar, or just the CTA while keeping everything else identical. members.mom makes it trivial to isolate variables for clean split tests.",
+      "True single-variable testing — Swap just the hook, just the avatar, or just the CTA while keeping everything else identical. ReUGC makes it trivial to isolate variables for clean split tests.",
       "Weekly testing cadence — With plans from $49/mo, you can run a new round of split tests every week instead of every month. This 4x increase in testing velocity translates directly to faster performance improvement.",
     ],
   },

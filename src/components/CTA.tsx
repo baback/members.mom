@@ -24,12 +24,12 @@ export default function CTA() {
             50x cheaper. 10x better results. Ready in minutes.
           </p>
           <div className="mt-9">
-            <button type="button" className="inline-flex items-center gap-2 rounded-full bg-background px-7 py-3 text-sm font-medium text-foreground transition hover:bg-background/90 cursor-pointer">
+            <a href="https://studio.reugc.com" className="inline-flex items-center gap-2 rounded-full bg-background px-7 py-3 text-sm font-medium text-foreground transition hover:bg-background/90 cursor-pointer">
               Get Started
               <svg className="size-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="M5 12h14m-7-7 7 7-7 7" />
               </svg>
-            </button>
+            </a>
           </div>
         </div>
 

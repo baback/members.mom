@@ -16,7 +16,7 @@ const data: GlossaryPageData = {
   ],
   example: "An e-commerce brand audits their ad account and finds they're running just 4 active creatives — all static images created 6 weeks ago. Performance has been declining for 3 weeks (classic creative fatigue). They commit to a new creative strategy: produce 8 UGC-style videos per week, test each for 72 hours, kill the bottom 6, and scale the top 2. Within a month, their CPA drops 34% and their ad account is consistently finding new winners because the algorithm has enough creative variety to optimize against.",
   product: {
-    intro: "members.mom is built to solve the ad creative volume problem:",
+    intro: "ReUGC is built to solve the ad creative volume problem:",
     points: [
       "Video creative in minutes — Generate UGC-style video ads from scripts without filming, editing, or hiring creators. Each video is platform-ready for TikTok, Meta, and YouTube Shorts.",
       "The volume your ad account needs — Plans range from 10 videos/mo ($49) to 60 videos/mo ($199), giving you the creative throughput to feed hungry ad accounts without the production overhead.",
