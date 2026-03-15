@@ -1,0 +1,43 @@
+import type { CreatePageData } from "./_shared";
+const data: CreatePageData = {
+  title: "Create AI Routine Videos — Morning, Skincare, Workout",
+  readTime: "7 min",
+  meta: "Create AI routine videos that showcase your product in daily rituals. Includes script framework, hook templates, and best practices for routine-based content.",
+  intro: "Routine videos are the backbone of product discovery on social media. 'Morning routine,' 'skincare routine,' and 'workout routine' collectively have over 80 billion views on TikTok. The format works because routines are aspirational and actionable — viewers watch to improve their own habits and discover the products that make those habits possible. For brands, routine videos are the most natural product placement format. Your product appears as an essential step in a routine the viewer wants to adopt. It's not an ad — it's a recommendation embedded in a lifestyle. AI-generated routine videos let you produce this format at scale, featuring your product in different routine contexts for different audience segments.",
+  what: {
+    definition: "A routine video walks through a structured sequence of steps — morning routine, skincare routine, workout routine, evening wind-down — showing the products and practices used at each stage. The format is instructional, aspirational, and inherently product-forward.",
+    reasons: [
+      { label: "Step-by-step structure", text: "Routines have a natural beginning, middle, and end. This structure keeps viewers watching because each step builds on the last. Skipping ahead feels like missing something important." },
+      { label: "Product integration", text: "Every step in a routine is a product placement opportunity. A 5-step skincare routine features 5 products naturally. The viewer sees each product in context — how it's used, when it's applied, and what it does." },
+      { label: "Save-worthy content", text: "Routine videos are the most saved content type on Instagram. Viewers bookmark them as reference guides for building their own routines. Every save is a future customer revisiting your product recommendations." },
+    ],
+  },
+  framework: [
+    { step: "The Hook", time: "0–3 seconds", what: "Name the routine and promise a specific outcome. The viewer should know what they'll learn and what result to expect.", examples: ["\"The 3-step morning routine that cleared my skin in 2 weeks.\"", "\"My nighttime routine for the best sleep of your life. Takes 10 minutes.\""], why: "Specific outcomes ('cleared my skin') and low time investment ('3 steps,' '10 minutes') are the strongest motivators. The viewer calculates effort vs. reward instantly.", mistake: "Vague hooks like 'my morning routine.' Without a promised outcome, there's no reason to watch yours over anyone else's." },
+    { step: "The Setup", time: "3–8 seconds", what: "Start with step one and explain why this routine works. Set the foundation.", examples: ["\"Step 1: Gentle cleanser with lukewarm water. Most people use hot water — that's why your skin feels tight. Lukewarm preserves your skin barrier.\""], why: "Starting with a common mistake ('hot water') immediately provides value. The viewer learns something in the first step, which builds trust for the remaining steps.", mistake: "Skipping the 'why' behind each step. Without explanation, the routine feels arbitrary. With explanation, it feels expert-curated." },
+    { step: "The Payoff", time: "8–20 seconds", what: "Continue through the routine, featuring your product as a key step. Show the result at the end.", examples: ["\"Step 2: [Product] — two pumps, press into damp skin. This is the step that changed everything. The hyaluronic acid pulls moisture in and the niacinamide calms redness. Step 3: SPF. Every morning, no exceptions. After 2 weeks of this exact routine, my skin went from dull and irritated to clear and glowing.\""], why: "The product step gets the most detail because it's positioned as 'the step that changed everything.' The before/after result at the end validates the entire routine.", mistake: "Making every step about your product. The routine should include non-branded steps to feel authentic." },
+    { step: "The CTA", time: "last 3–5 seconds", what: "Encourage the viewer to try the routine and link to the products.", examples: ["\"Try this for 2 weeks and come back and tell me your results. Everything is linked in bio.\"", "\"Save this routine. Your skin will thank you. Link below.\""], why: "'Try this for 2 weeks' sets a commitment. 'Come back and tell me' creates a relationship loop. 'Save this' drives engagement metrics." },
+  ],
+  exampleScript: `[HOOK — 0-3s]\n"The 3-step skincare routine that fixed my texture in 10 days. Here's exactly what I do."\n[Direct to camera, clear skin visible]\n\n[SETUP — 3-8s]\n"Step 1: Gentle cleanser, lukewarm water, fingertips only. No washcloths, no scrubbing. 30 seconds, rinse, pat dry. This alone made a difference."\n[Show cleansing step]\n\n[PAYOFF — 8-18s]\n"Step 2: [Product] serum on damp skin. Two pumps, press it in — don't rub. This is the game-changer. The formula resurfaces without irritating. Step 3: Moisturizer with SPF. Seal everything in. That's it. 3 steps, 2 minutes. My texture was visibly smoother by day 10."\n[Show serum application, moisturizer, final result]\n\n[CTA — 18-22s]\n"Try this exact routine for 2 weeks. Save this video so you don't forget. Link in bio for everything I use."\n[Point to save button, then to link]`,
+  hooks: [
+    { line: "The morning routine that gave me more energy than coffee. 4 steps, 15 minutes.", trigger: "Replacing coffee with a routine is a bold claim that creates curiosity. The specific time commitment makes it feel achievable.", products: "Wellness supplements, fitness products, meditation apps, morning drinks" },
+    { line: "My dermatologist told me to do this every night. My skin has never looked better.", trigger: "Professional authority ('dermatologist') combined with visible results. The viewer trusts the recommendation because it comes from an expert.", products: "Skincare products, dermatologist-recommended brands" },
+    { line: "I simplified my routine to 3 products. Here's why less is more.", trigger: "Minimalism appeals to viewers overwhelmed by complex routines. The promise of simplification is universally attractive.", products: "Multi-purpose products, streamlined skincare, essential-only routines" },
+  ],
+  bestPractices: [
+    { label: "Ideal length", text: "20–45 seconds for social, 2–5 minutes for YouTube. Each step should get 5–8 seconds on social. YouTube allows for detailed explanations per step." },
+    { label: "Numbered steps", text: "Always number your steps. 'Step 1, Step 2, Step 3' creates structure that's easy to follow and remember. Numbered routines get saved 40% more than unnumbered ones." },
+    { label: "Explain the why", text: "For each step, briefly explain why it matters. 'Lukewarm water because hot water strips your barrier' — the explanation adds value and builds authority." },
+    { label: "Show results", text: "End with the result of following the routine. Before/after, a close-up of clear skin, or a statement about the timeline. The result validates the routine." },
+    { label: "Keep it achievable", text: "3–5 steps maximum for social content. Complex 10-step routines feel overwhelming. Simple routines get adopted; complex ones get saved and forgotten." },
+    { label: "Captions", text: "Use 'STEP 1,' 'STEP 2,' 'STEP 3' as bold visual markers. Include product names at each step. The routine should be followable through captions alone." },
+  ],
+  whenToUse: {
+    stage: "Top to mid funnel. Routine videos attract audiences searching for solutions and routines to adopt. They build trust through education and convert through product integration.",
+    audience: "Self-improvement-oriented consumers looking for routines to adopt. They're searching 'best morning routine,' 'skincare routine for acne,' or 'workout routine for beginners.'",
+    platforms: "TikTok, Instagram Reels, YouTube, Pinterest (highest save rates for routines). Routine videos also work well embedded on product pages and in email welcome sequences.",
+    pairWith: "Follow routine videos with testimonials from people who adopted the routine. The routine provides the framework; the testimonial provides social proof that it works.",
+  },
+  ctaLine: "Create routine videos that make your product an essential daily step. No filming, no editing, no production delays.",
+};
+export default data;

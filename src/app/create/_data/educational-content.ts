@@ -1,0 +1,43 @@
+import type { CreatePageData } from "./_shared";
+const data: CreatePageData = {
+  title: "Create AI Educational Videos — Teach & Build Authority",
+  readTime: "8 min",
+  meta: "Create AI educational videos that position your brand as an authority. Includes script framework, hook templates, and best practices for educational marketing content.",
+  intro: "Educational content generates 3x more leads than traditional advertising and costs 62% less. The math is simple: when you teach people something valuable, they trust you. When they trust you, they buy from you. Educational videos are the most effective top-of-funnel content because they provide value before asking for anything in return. The viewer learns something useful, associates that value with your brand, and when they're ready to buy, you're the obvious choice. The production challenge is real — educational content requires research, scripting, and a presenter who can communicate clearly. AI video generation removes the production bottleneck so you can build an educational content library that drives organic traffic and positions your brand as the go-to authority in your space.",
+  what: {
+    definition: "An educational video teaches the viewer something specific and valuable — a concept, technique, fact, or framework — while subtly positioning your brand as the expert source. The product mention is secondary to the educational value.",
+    reasons: [
+      { label: "Authority building", text: "Brands that teach are perceived as experts. When you consistently publish educational content, your audience starts seeing you as the authority in your category. This perception carries over to purchase decisions — people buy from brands they trust as experts." },
+      { label: "Organic reach", text: "Educational content gets shared, saved, and searched for. It ranks in YouTube and Google, gets bookmarked on Pinterest, and saved on Instagram. This organic distribution compounds over time, driving traffic long after publication." },
+      { label: "Audience building", text: "People follow brands that teach them something. Educational content builds an audience of engaged followers who consume your content regularly — and when you launch a product or run a promotion, they're already primed to buy." },
+    ],
+  },
+  framework: [
+    { step: "The Hook", time: "0–3 seconds", what: "Promise a specific insight or challenge a common belief. The viewer should think 'I didn't know that' or 'wait, really?'", examples: ["\"90% of people apply sunscreen wrong. Here's what dermatologists actually recommend.\"", "\"The ingredient in your moisturizer that's actually making your skin worse.\""], why: "The first hook uses a surprising statistic to challenge behavior. The second creates alarm about something the viewer is currently doing. Both create an immediate need to watch.", mistake: "Starting with 'Did you know...' — it's overused and signals generic content. Lead with the insight itself." },
+    { step: "The Setup", time: "3–8 seconds", what: "Explain why this matters. Connect the insight to the viewer's daily life or current behavior.", examples: ["\"Most people put on sunscreen as the last step of their routine and then walk straight outside. But SPF needs 15 minutes to bond with your skin. Without that wait time, you're basically unprotected.\""], why: "The setup reveals the gap between what people do and what they should do. This 'aha moment' is what makes educational content shareable — people want to tell others what they just learned.", mistake: "Being too academic. Educational content should feel like a smart friend explaining something, not a professor lecturing." },
+    { step: "The Payoff", time: "8–20 seconds", what: "Deliver the actionable takeaway. Give the viewer something they can do immediately.", examples: ["\"Here's the fix: apply your SPF right after moisturizer, then do your hair, get dressed, make coffee — by the time you walk out the door, it's fully activated. One small change, way better protection.\""], why: "Actionable advice is what separates valuable educational content from trivia. The viewer should be able to implement the lesson today.", mistake: "Ending with the problem without providing a solution. Education without action is just information." },
+    { step: "The CTA", time: "last 3–5 seconds", what: "Invite engagement and subtly connect to your brand.", examples: ["\"Follow for more tips like this. And if you need a sunscreen that actually works — link in bio.\"", "\"Save this for your morning routine. Link below for the products I recommend.\""], why: "The CTA prioritizes engagement ('follow,' 'save') over sales. The product mention is secondary — a helpful suggestion, not a pitch." },
+  ],
+  exampleScript: `[HOOK — 0-3s]\n"You're washing your face wrong. Here's how I know."\n[Direct to camera, confident but friendly]\n\n[SETUP — 3-8s]\n"If you're using hot water and scrubbing with a washcloth, you're stripping your skin barrier every single day. That's why your skin feels tight after washing — it's damaged, not clean."\n[Educational tone, slight concern]\n\n[PAYOFF — 8-18s]\n"Here's what to do instead: lukewarm water, gentle cleanser, and use your fingertips — not a cloth. Pat dry, don't rub. Your skin barrier will recover in about a week and you'll notice less redness, less dryness, and fewer breakouts. It's that simple."\n[Demonstrate technique, show products]\n\n[CTA — 18-22s]\n"Follow for more skincare science. Link in bio for the cleanser I use."\n[Point to follow button, then to link]`,
+  hooks: [
+    { line: "The [industry] secret that nobody talks about. This changed everything for me.", trigger: "The 'secret' framing implies insider knowledge. 'Nobody talks about' suggests the viewer is about to learn something exclusive.", products: "Any category with common misconceptions — skincare, nutrition, fitness, finance, marketing" },
+    { line: "I asked a [professional] the one thing most people get wrong about [topic]. Their answer surprised me.", trigger: "Expert authority combined with surprise. The viewer expects to learn something that contradicts their current understanding.", products: "Health, beauty, finance, fitness — any category with professional expertise" },
+    { line: "Stop doing [common practice]. Here's what actually works, according to science.", trigger: "Direct challenge to current behavior backed by authority ('science'). Creates urgency to watch and correct course.", products: "Health, skincare, nutrition, fitness, cleaning, productivity" },
+  ],
+  bestPractices: [
+    { label: "Ideal length", text: "30–60 seconds for social, 2–10 minutes for YouTube. Social educational content should deliver one insight; YouTube can be comprehensive guides." },
+    { label: "Value first", text: "The educational value should stand on its own without the product. If you removed the product mention, the video should still be worth watching. This is the test of genuine educational content." },
+    { label: "One lesson per video", text: "Teach one specific thing per video. 'How to apply sunscreen correctly' is better than '10 skincare tips.' Focused lessons are more memorable and more shareable." },
+    { label: "Cite sources", text: "Reference studies, experts, or data when possible. 'According to dermatologists' or 'a 2023 study found' adds credibility that separates your content from opinion." },
+    { label: "Actionable takeaway", text: "Every educational video should end with something the viewer can do today. Knowledge without action doesn't drive behavior change or brand loyalty." },
+    { label: "Captions", text: "Use educational formatting — bold key terms, highlight statistics, and use 'DID YOU KNOW' or 'PRO TIP' labels. This signals educational value for sound-off scrollers." },
+  ],
+  whenToUse: {
+    stage: "Top funnel. Educational content attracts new audiences who are searching for information, not products. It builds trust and authority that converts over time.",
+    audience: "Curious learners and problem-solvers. They're searching for information, watching tutorials, and following experts. They become customers when they trust your expertise.",
+    platforms: "YouTube (search-driven discovery), TikTok (algorithm-driven discovery), Instagram Reels, Pinterest (save-heavy platform). Also effective as blog post embeds and email content.",
+    pairWith: "Follow educational content with product-focused content for engaged viewers. The education builds trust; product demos and testimonials convert that trust into sales.",
+  },
+  ctaLine: "Create educational videos that build authority and drive organic growth. No research team, no production crew.",
+};
+export default data;

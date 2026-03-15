@@ -1,0 +1,43 @@
+import type { CreatePageData } from "./_shared";
+const data: CreatePageData = {
+  title: "Create AI Podcast Clip Videos — Repurpose Audio to Video",
+  readTime: "7 min",
+  meta: "Create AI podcast clip videos that turn audio content into engaging video. Includes script framework, hook templates, and best practices for podcast repurposing.",
+  intro: "Podcast clips are the fastest-growing content format on social media, with podcast-style videos generating 40% higher engagement than traditional talking-head content. The format works because it borrows the authority and depth of long-form audio and packages it into scroll-stopping short-form video. A 60-second clip from a 'podcast conversation' feels more substantive than a standard ad because it carries the weight of a longer discussion. For brands, podcast-style clips are a way to communicate complex value propositions in a format that feels editorial rather than promotional. AI-generated podcast clips let you create this authoritative content without actually recording a podcast — producing conversation-style clips that position your brand as a thought leader.",
+  what: {
+    definition: "A podcast clip video is a short excerpt from a conversation-style format — typically featuring one or two speakers discussing a topic with depth and authority. The format borrows the credibility of long-form content and delivers it in a social-friendly package.",
+    reasons: [
+      { label: "Authority transfer", text: "Podcast-style content carries inherent authority. The conversational format signals depth and expertise. A 30-second clip that sounds like it came from a longer discussion feels more credible than a 30-second ad." },
+      { label: "Depth in short form", text: "Podcast clips let you communicate complex ideas in a format that feels substantive. A nuanced take on an industry topic, a detailed product explanation, or an expert opinion — all delivered in under 60 seconds." },
+      { label: "Repurposing engine", text: "One podcast-style conversation can generate 10–20 clips. Each clip targets a different topic, audience, or platform. This makes podcast content one of the most efficient formats for content multiplication." },
+    ],
+  },
+  framework: [
+    { step: "The Hook", time: "0–3 seconds", what: "Drop the viewer into the most compelling moment of the 'conversation.' Start mid-thought for authenticity.", examples: ["\"...and that's when I realized we were spending $10,000 a month on something that wasn't working.\"", "\"Here's what nobody in this industry will tell you about [topic]...\""], why: "Starting mid-conversation creates the feeling of eavesdropping on something important. The viewer feels like they've stumbled onto a valuable discussion.", mistake: "Starting with 'Welcome to our podcast' or any formal introduction. Clips should feel like you're catching the best part of a conversation already in progress." },
+    { step: "The Setup", time: "3–8 seconds", what: "Provide just enough context for the viewer to understand the point being made.", examples: ["\"We were running ads on every platform, hiring creators, doing everything the playbook says. But our cost per acquisition kept climbing. Something was fundamentally broken.\""], why: "The setup establishes a relatable problem with enough specificity to feel real. Industry-specific details signal that this is an expert conversation, not generic advice.", mistake: "Over-explaining the context. Podcast clips should feel like you're catching the highlights, not getting a full briefing." },
+    { step: "The Payoff", time: "8–20 seconds", what: "Deliver the insight, solution, or revelation. This is the 'aha moment' that makes the clip worth sharing.", examples: ["\"The moment we switched to AI-generated UGC, everything changed. Our testing velocity went from 4 videos a month to 40. Our CPA dropped 60% in the first quarter. And our creative team went from managing freelancers to actually being creative. It was a complete paradigm shift.\""], why: "Specific metrics ('4 to 40,' 'CPA dropped 60%') make the insight concrete. The narrative of transformation ('complete paradigm shift') adds emotional weight to the data.", mistake: "Delivering the insight without specifics. 'It was a game-changer' is vague. Numbers and timelines make insights actionable." },
+    { step: "The CTA", time: "last 3–5 seconds", what: "Close with a thought-provoking statement or direct the viewer to learn more.", examples: ["\"If you're still doing it the old way, you're leaving money on the table. Link in bio.\"", "\"The brands that figure this out first are going to win. Full episode linked below.\""], why: "The competitive framing ('brands that figure this out first') creates urgency. Linking to a 'full episode' (or product page) gives interested viewers a next step." },
+  ],
+  exampleScript: `[HOOK — 0-3s]\n"...the biggest mistake I see brands make is treating video production like it's 2019."\n[Mid-conversation, podcast-style setup]\n\n[SETUP — 3-8s]\n"They're still hiring individual creators, waiting 2 weeks for deliverables, paying $300-500 per video, and then wondering why they can't test fast enough to beat creative fatigue."\n[Engaged, authoritative tone]\n\n[PAYOFF — 8-18s]\n"The brands that are winning right now are using AI to generate UGC at scale. They're producing 30, 40, 50 video variations a month. They're testing hooks, actors, scripts — everything. And their CPAs are half of what everyone else is paying. It's not even close anymore."\n[Passionate, data-driven delivery]\n\n[CTA — 18-22s]\n"If you're not exploring AI video yet, you're already behind. Link in bio to see what I'm talking about."\n[Direct to camera, confident close]`,
+  hooks: [
+    { line: "...and that's when everything clicked. Let me explain what I mean.", trigger: "Mid-conversation entry creates the feeling of catching a breakthrough moment. The viewer needs to hear the explanation.", products: "B2B tools, SaaS, marketing platforms, business services" },
+    { line: "Nobody in [industry] wants to admit this, but here's the truth...", trigger: "The 'industry secret' framing signals insider knowledge. The viewer expects a contrarian or uncomfortable truth.", products: "Any industry with established practices being disrupted — marketing, beauty, finance, health" },
+    { line: "I've spent $[amount] testing this. Here's what actually works.", trigger: "Financial investment signals authority through experience. The viewer trusts someone who's spent real money learning.", products: "Marketing tools, advertising platforms, business software, premium products" },
+  ],
+  bestPractices: [
+    { label: "Ideal length", text: "30–60 seconds for social clips. The clip should feel like the best 30 seconds of a longer conversation — dense with insight and free of filler." },
+    { label: "Mid-conversation start", text: "Never start from the beginning. Drop the viewer into the middle of a thought. This creates the authentic podcast feel and signals that the full conversation has even more value." },
+    { label: "Authority signals", text: "Include specific numbers, timelines, and industry references. Podcast clips derive their power from perceived expertise — vague statements undermine that authority." },
+    { label: "Conversational tone", text: "The delivery should feel like a conversation, not a presentation. Natural pauses, emphasis on key points, and occasional tangents make it feel authentic." },
+    { label: "One insight per clip", text: "Each clip should deliver exactly one valuable insight. Don't try to cover multiple topics — depth on one point is more impactful than breadth across many." },
+    { label: "Captions", text: "Use podcast-style captions — centered text, word-by-word highlighting, bold on key metrics. The visual style should signal 'this is from a podcast' even without audio." },
+  ],
+  whenToUse: {
+    stage: "Top to mid funnel. Podcast clips build authority and thought leadership. They attract audiences who value expertise and depth.",
+    audience: "Business professionals, marketers, founders, and decision-makers who consume podcast content. The format resonates with audiences who prefer substance over entertainment.",
+    platforms: "LinkedIn (highest engagement for B2B podcast clips), TikTok, Instagram Reels, YouTube Shorts, Twitter/X. Podcast clips also work well in email newsletters.",
+    pairWith: "Follow podcast clips with product demos or case studies. The clip establishes authority; the demo or case study shows the product in action.",
+  },
+  ctaLine: "Create podcast-style clips that position your brand as the authority. No recording studio, no guests, no editing.",
+};
+export default data;

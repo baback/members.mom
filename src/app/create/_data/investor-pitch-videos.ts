@@ -1,0 +1,43 @@
+import type { CreatePageData } from "./_shared";
+const data: CreatePageData = {
+  title: "Create AI Pitch Videos — Investor Decks on Camera",
+  readTime: "8 min",
+  meta: "Create AI investor pitch videos that communicate your vision and traction. Includes script framework, hook templates, and best practices for fundraising video content.",
+  intro: "Investors receive 1,000+ pitch decks per year. Most get 3 minutes of attention. A pitch video cuts through the noise because it's a different format in a sea of PDFs. Video communicates passion, clarity, and confidence in ways that slides can't — and it lets you control the narrative instead of hoping the investor reads your deck in the right order. The challenge is that most founders aren't natural on camera. They freeze, ramble, or sound rehearsed. Professional video production costs $3,000–$10,000 and takes weeks. AI-generated pitch videos let you deliver a polished, compelling pitch without the performance anxiety or production overhead — and iterate on messaging until it's perfect.",
+  what: {
+    definition: "An investor pitch video is a concise video presentation that communicates your company's problem, solution, traction, and ask to potential investors. It's the video equivalent of a pitch deck — but with the added persuasion of a human presenter.",
+    reasons: [
+      { label: "Attention capture", text: "Video stands out in an investor's inbox. While every other founder sends a PDF, you send a 60-second video that communicates your vision with energy and clarity. This differentiation alone increases your chances of getting a meeting." },
+      { label: "Narrative control", text: "With a deck, you can't control how the investor reads it. They might skip to the financials, miss the problem statement, or skim the traction slide. A video controls the sequence, pacing, and emphasis of your story." },
+      { label: "Scalable outreach", text: "A pitch video can be sent to 100 investors simultaneously. Each one gets the same polished, compelling presentation — no variation in delivery quality, no bad days, no nerves." },
+    ],
+  },
+  framework: [
+    { step: "The Hook", time: "0–3 seconds", what: "Lead with the market opportunity or a surprising traction metric. Investors care about scale and momentum.", examples: ["\"We're growing 40% month-over-month in a $12B market. Here's what we're building.\"", "\"$2M ARR in 8 months with zero paid marketing. Let me show you why.\""], why: "Traction metrics immediately signal 'this is worth my time.' Investors see thousands of pitches — leading with proof of momentum earns the next 57 seconds.", mistake: "Starting with 'Hi, I'm [name] and I'm the founder of...' — investors don't care about your bio until they care about your business." },
+    { step: "The Setup", time: "3–8 seconds", what: "Define the problem in terms of market size and pain intensity. Make the investor feel the opportunity.", examples: ["\"Brands spend $15 billion a year on video content. 80% of that budget is wasted on production that's too slow, too expensive, and can't keep up with the demand for fresh creative.\""], why: "Market size ($15B) establishes the opportunity. The pain point (slow, expensive, can't keep up) explains why the market is ready for disruption.", mistake: "Describing the problem from the customer's perspective only. Investors need to see the market-level opportunity, not just the individual pain point." },
+    { step: "The Payoff", time: "8–20 seconds", what: "Present your solution, traction, and competitive advantage. Be specific about metrics.", examples: ["\"We built an AI platform that generates UGC-style videos in minutes. 2,000 brands use us. $2M ARR. 40% month-over-month growth. Our retention is 94% because once brands see the output quality, they never go back to hiring creators.\""], why: "Rapid-fire metrics (users, revenue, growth, retention) build a compelling case in seconds. The retention stat explains why growth is sustainable.", mistake: "Spending too long on the product and not enough on traction. Investors invest in businesses, not products. Show the numbers." },
+    { step: "The CTA", time: "last 3–5 seconds", what: "State your ask clearly and invite the next step.", examples: ["\"We're raising $5M to scale acquisition and expand internationally. I'd love 15 minutes to walk you through the full picture. Link to book a call in the description.\"", "\"If this resonates, let's talk. Calendar link below.\""], why: "A specific ask ('$5M,' '15 minutes') shows you know what you want. A calendar link removes friction from the next step." },
+  ],
+  exampleScript: `[HOOK — 0-3s]\n"$2M ARR in 8 months. Zero paid marketing. Here's what we built."\n[Direct to camera, confident and energetic]\n\n[SETUP — 3-8s]\n"Brands spend $15 billion a year on video ads. The production process is broken — it's slow, expensive, and can't keep up with platform demands for fresh creative. Every brand we talk to has the same problem: they need 10x more video and their budget can't scale."\n[Clear, authoritative delivery]\n\n[PAYOFF — 8-18s]\n"We built an AI platform that generates studio-quality UGC videos in minutes. 2,000 brands on the platform. 94% monthly retention. We're growing 40% month-over-month and we haven't spent a dollar on paid acquisition. The product sells itself because the ROI is immediate and obvious."\n[Data-driven, passionate]\n\n[CTA — 18-22s]\n"We're raising a $5M Series A to scale go-to-market and expand into Europe. I'd love 15 minutes to show you the full picture. Calendar link in the description."\n[Professional close, point to link]`,
+  hooks: [
+    { line: "We found a way to 10x video production at 1/10th the cost. Here's the proof.", trigger: "The 10x/1/10th contrast is immediately compelling. 'Here's the proof' promises evidence, not just claims.", products: "SaaS, AI tools, production platforms, B2B solutions" },
+    { line: "Every brand we talk to has the same problem. We built the solution.", trigger: "Universal problem framing signals large market opportunity. 'We built the solution' positions the company as the answer.", products: "B2B platforms, enterprise tools, market-wide solutions" },
+    { line: "$[amount] in revenue with a [small number]-person team. Here's how.", trigger: "Revenue-to-team-size ratio signals capital efficiency — one of the most attractive metrics for investors.", products: "Lean startups, bootstrapped companies, efficient SaaS businesses" },
+  ],
+  bestPractices: [
+    { label: "Ideal length", text: "60–90 seconds maximum. Investors are time-constrained. If you can't communicate your value in 90 seconds, the pitch needs tightening." },
+    { label: "Lead with traction", text: "Open with your strongest metric — revenue, growth rate, user count. Traction is the #1 thing investors look for. Everything else is context." },
+    { label: "Market size", text: "Include the total addressable market in the first 10 seconds. Investors need to know the opportunity is large enough to justify their investment." },
+    { label: "Specific metrics", text: "Use exact numbers, not ranges. '$2M ARR' is stronger than 'seven-figure revenue.' '40% MoM growth' is stronger than 'growing fast.'" },
+    { label: "Clear ask", text: "State exactly how much you're raising and what it's for. Vague asks ('we're exploring options') signal uncertainty. Specific asks signal confidence." },
+    { label: "Captions", text: "Display key metrics as text overlays — revenue, growth rate, market size. Investors should be able to evaluate the opportunity from captions alone." },
+  ],
+  whenToUse: {
+    stage: "Fundraising outreach. Pitch videos are for cold investor outreach, warm introductions, and follow-up after initial conversations.",
+    audience: "Angel investors, VCs, and strategic investors. Tailor the emphasis — angels care about the founder story; VCs care about market size and growth metrics.",
+    platforms: "Email (primary distribution), LinkedIn DMs, investor platforms, pitch competitions. Also effective on your company website's investor relations page.",
+    pairWith: "Follow pitch videos with a detailed deck and data room access. The video captures attention; the deck provides the depth needed for due diligence.",
+  },
+  ctaLine: "Create investor pitch videos that open doors. No camera anxiety, no production costs, no wasted time.",
+};
+export default data;

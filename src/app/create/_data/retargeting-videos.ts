@@ -1,0 +1,43 @@
+import type { CreatePageData } from "./_shared";
+const data: CreatePageData = {
+  title: "Create AI Retargeting Videos — Win Back Lost Visitors",
+  readTime: "7 min",
+  meta: "Create AI retargeting videos that convert abandoned visitors into customers. Includes script framework, hook templates, and best practices for retargeting campaigns.",
+  intro: "97% of first-time website visitors leave without buying. Retargeting brings them back — and video retargeting ads convert 2–3x better than static retargeting because they re-engage attention in a way that banner ads can't. The visitor already knows your product. They browsed, they considered, and they left. A retargeting video doesn't need to introduce your brand — it needs to address the reason they didn't buy. Was it price? Uncertainty? Distraction? The right retargeting video answers the unspoken objection and gives them the nudge they need. AI-generated retargeting videos let you create objection-specific content for every stage of the abandonment funnel — from browse abandonment to cart abandonment to checkout drop-off.",
+  what: {
+    definition: "A retargeting video is an ad shown to people who previously visited your website, viewed a product, or abandoned their cart. It's designed to re-engage their interest and address the specific reason they didn't convert on their first visit.",
+    reasons: [
+      { label: "Warm audience", text: "Retargeting audiences are already familiar with your brand. They don't need awareness — they need a reason to come back. This makes retargeting the highest-ROI ad format, with CPAs 50–70% lower than cold traffic campaigns." },
+      { label: "Objection targeting", text: "Different abandonment stages signal different objections. Browse abandoners need more information. Cart abandoners need urgency or reassurance. Video lets you address each objection specifically." },
+      { label: "Frequency advantage", text: "Retargeting audiences see your ads multiple times. Video creative is more resistant to fatigue than static images — viewers engage with video even on repeat exposures because the format is inherently more dynamic." },
+    ],
+  },
+  framework: [
+    { step: "The Hook", time: "0–3 seconds", what: "Acknowledge that the viewer has already seen the product. Call out the browsing behavior directly.", examples: ["\"Still thinking about it? Here's what you need to know before you decide.\"", "\"You looked at [product] last week. Let me tell you why 10,000 people already bought it.\""], why: "Acknowledging the browse creates a 'they're talking to me' moment. It's personalized without being creepy. The viewer knows this ad is relevant to them specifically.", mistake: "Running the same ad you showed cold traffic. Retargeting audiences need different messaging — they already know what the product is." },
+    { step: "The Setup", time: "3–8 seconds", what: "Address the most likely objection for this audience segment.", examples: ["\"I know what you're thinking — 'does it actually work?' Here's the thing: we have a 30-day money-back guarantee. If it doesn't work for you, you get every penny back. No questions asked.\""], why: "Naming the objection ('does it actually work?') shows you understand the hesitation. The guarantee removes the risk entirely. The viewer's main barrier just disappeared.", mistake: "Repeating the same value proposition from the awareness ad. They've already heard it. Address the objection, not the pitch." },
+    { step: "The Payoff", time: "8–20 seconds", what: "Provide the social proof or evidence that overcomes the objection.", examples: ["\"Over 10,000 customers. 4.8-star average rating. And our return rate is under 3% — which means 97% of people who try it, keep it. Those numbers don't lie.\""], why: "Stacking social proof metrics (customers, rating, return rate) creates overwhelming evidence. The return rate stat is particularly powerful because it directly addresses the 'will it work?' objection.", mistake: "Using the same social proof as the awareness ad. Retargeting should escalate the proof — more specific, more compelling, more targeted to the objection." },
+    { step: "The CTA", time: "last 3–5 seconds", what: "Create urgency and make it easy to complete the purchase.", examples: ["\"Your cart is still waiting. Finish your order — link below.\"", "\"Don't overthink it. 30-day guarantee means zero risk. Link in bio.\""], why: "Cart reminders create urgency. The guarantee reminder removes the last barrier. Together, they make the purchase feel like a no-brainer." },
+  ],
+  exampleScript: `[HOOK — 0-3s]\n"You were THIS close to buying [product]. Let me help you decide."\n[Direct to camera, friendly and understanding]\n\n[SETUP — 3-8s]\n"I get it — you want to make sure it's worth it before you commit. So here's what I'll tell you: we have a 30-day money-back guarantee. If you don't love it, full refund. No hoops, no hassle."\n[Reassuring, removing risk]\n\n[PAYOFF — 8-18s]\n"But here's why I don't think you'll need that guarantee: 12,000 customers, 4.9-star rating, and a return rate under 2%. People don't send this back because it actually works. I've been using it for 6 months and it's the one product I'll never stop buying."\n[Confident, backed by data]\n\n[CTA — 18-22s]\n"Your cart's still there. Zero risk with the guarantee. Just finish your order. Link below."\n[Point to link, encouraging nod]`,
+  hooks: [
+    { line: "You left something in your cart. Here's why you should go back and finish.", trigger: "Direct cart abandonment callout. The viewer knows exactly what this is about and the video promises a compelling reason to complete the purchase.", products: "Any e-commerce product with cart abandonment — the most common retargeting scenario" },
+    { line: "Still on the fence about [product]? This might change your mind.", trigger: "Acknowledges hesitation without judgment. 'Might change your mind' is a soft promise that creates curiosity.", products: "High-consideration products — skincare, electronics, subscriptions, premium items" },
+    { line: "10,000 people bought [product] this month. Here's why they didn't hesitate.", trigger: "Social proof volume creates FOMO. The viewer wonders what these 10,000 people know that they don't.", products: "Popular products with strong sales numbers — any category" },
+  ],
+  bestPractices: [
+    { label: "Ideal length", text: "10–20 seconds for cart abandonment, 15–30 seconds for browse abandonment. Retargeting audiences need less convincing — keep it short and focused on the objection." },
+    { label: "Segment by behavior", text: "Create different videos for different abandonment stages. Browse abandoners need product education. Cart abandoners need urgency and risk removal. Checkout abandoners need reassurance." },
+    { label: "Objection-first", text: "Lead with the objection, not the product. The viewer already knows the product — they need the barrier removed. Price? Offer a guarantee. Trust? Show social proof. Urgency? Add a deadline." },
+    { label: "Frequency management", text: "Rotate 3–5 retargeting video variations to prevent fatigue. Different hooks, different objections, different social proof angles. Stale retargeting ads become invisible." },
+    { label: "Risk removal", text: "Guarantees, free returns, and 'try before you buy' offers are the most effective retargeting messages. Removing risk is more persuasive than adding incentives." },
+    { label: "Captions", text: "Display the guarantee or offer prominently in captions. 'MONEY-BACK GUARANTEE,' 'FREE RETURNS,' 'YOUR CART IS WAITING' — these should be visible immediately." },
+  ],
+  whenToUse: {
+    stage: "Bottom funnel. Retargeting videos are exclusively for warm audiences who have already interacted with your brand. They're the final push before conversion.",
+    audience: "Website visitors, product page viewers, cart abandoners, and checkout drop-offs. Each segment needs different messaging based on how far they got in the purchase journey.",
+    platforms: "Facebook and Instagram (strongest retargeting platforms), Google Display Network, YouTube pre-roll, TikTok. Retargeting should run on every platform where your audience is active.",
+    pairWith: "Layer retargeting videos with testimonial content. The retargeting video addresses the objection; the testimonial provides peer validation that seals the deal.",
+  },
+  ctaLine: "Create retargeting videos that win back lost visitors. No creative fatigue, no wasted ad spend.",
+};
+export default data;

@@ -1,0 +1,43 @@
+import type { CreatePageData } from "./_shared";
+const data: CreatePageData = {
+  title: "Create AI Apology & Crisis Response Videos",
+  readTime: "7 min",
+  meta: "Create AI apology and crisis response videos that address issues with transparency and speed. Includes script framework, hook templates, and best practices.",
+  intro: "When things go wrong — a shipping delay, a product defect, a PR misstep — silence is the worst response. Brands that address issues within 24 hours retain 70% of affected customers. Brands that stay silent lose 50%. The difference is speed and sincerity. A well-crafted apology video communicates accountability, empathy, and a clear plan to fix the problem. It turns a negative experience into a trust-building moment. But crisis response requires speed, and traditional video production is slow. By the time you've filmed and edited a response, the narrative has already been shaped by angry customers and social media commentary. AI-generated apology videos let you respond within hours — with a polished, sincere message that addresses the issue head-on.",
+  what: {
+    definition: "An apology or crisis response video addresses a problem, mistake, or negative situation directly. It communicates accountability, explains what happened, and outlines the steps being taken to fix it — all through a human presenter who conveys sincerity.",
+    reasons: [
+      { label: "Speed of response", text: "In a crisis, every hour of silence erodes trust. AI-generated videos let you respond within hours instead of days. A fast, sincere response can actually strengthen customer loyalty — people respect brands that own their mistakes quickly." },
+      { label: "Human connection", text: "A face delivering an apology is fundamentally different from a text statement. Video conveys tone, emotion, and sincerity in ways that a press release or email can't. Customers can see that you mean it." },
+      { label: "Narrative control", text: "If you don't address the issue, others will define the narrative for you. A proactive apology video lets you control the story — acknowledging the problem, explaining the cause, and presenting the solution on your terms." },
+    ],
+  },
+  framework: [
+    { step: "The Hook", time: "0–3 seconds", what: "Acknowledge the issue immediately. No deflection, no minimizing — state what happened.", examples: ["\"We messed up. And I owe you an explanation.\"", "\"If your order was delayed this week, I'm sorry. Here's what happened and what we're doing about it.\""], why: "Direct acknowledgment signals accountability. 'We messed up' is disarming because it's honest. The viewer's anger softens when they see the brand taking responsibility.", mistake: "Starting with excuses or context. 'Due to unprecedented demand...' sounds like a corporate deflection. Lead with accountability, then explain." },
+    { step: "The Setup", time: "3–8 seconds", what: "Explain what happened honestly. Be specific about the cause without making excuses.", examples: ["\"Our warehouse system had a technical failure on Tuesday that delayed 3,000 orders by 4–5 days. It shouldn't have happened, and I understand how frustrating it is to wait for something you've already paid for.\""], why: "Specifics ('Tuesday,' '3,000 orders,' '4–5 days') show transparency. Acknowledging the frustration shows empathy. Together, they communicate 'we understand and we're not hiding anything.'", mistake: "Being vague about what happened. 'We experienced some issues' feels evasive. Specificity builds trust." },
+    { step: "The Payoff", time: "8–20 seconds", what: "Share exactly what you're doing to fix it and prevent it from happening again.", examples: ["\"Here's what we're doing: every delayed order is being expedited with free overnight shipping. We're also giving everyone affected a 20% discount on their next order. And we've already implemented a backup system so this doesn't happen again.\""], why: "Three-part fix: immediate remedy (expedited shipping), compensation (discount), and prevention (backup system). This shows you're addressing the past, present, and future.", mistake: "Apologizing without a fix. 'We're sorry' without 'here's what we're doing' feels empty. Action plans restore confidence." },
+    { step: "The CTA", time: "last 3–5 seconds", what: "Invite affected customers to reach out and reaffirm your commitment.", examples: ["\"If you're affected, check your email — we've already sent the details. And if you have any questions, reply directly. I'm reading every message personally.\"", "\"We'll do better. Thank you for your patience and your trust.\""], why: "Directing to email shows proactive communication. 'Reading every message personally' humanizes the response. Thanking for patience acknowledges the customer's grace." },
+  ],
+  exampleScript: `[HOOK — 0-3s]\n"We owe you an apology. Let me explain what happened."\n[Sincere, direct to camera, serious but calm]\n\n[SETUP — 3-8s]\n"This week, a system error caused about 2,000 orders to ship with the wrong tracking information. Some of you got emails saying your order was delivered when it wasn't. That's unacceptable and I completely understand the frustration."\n[Honest, empathetic tone]\n\n[PAYOFF — 8-18s]\n"Here's what we've done: every affected order has been re-tracked and you'll get an updated email within 24 hours. If your order is genuinely delayed, we're expediting it at no cost. And everyone affected is getting a $15 credit automatically applied to their account. We've also fixed the system issue so this won't happen again."\n[Clear, action-oriented delivery]\n\n[CTA — 18-22s]\n"If you have any issues, email us directly — we're prioritizing every response. Thank you for your patience. We'll do better."\n[Sincere close, slight nod]`,
+  hooks: [
+    { line: "We made a mistake and you deserve to know what happened.", trigger: "Radical transparency disarms anger. The viewer expects defensiveness and gets honesty instead.", products: "Any brand facing a service failure, product issue, or PR situation" },
+    { line: "If you ordered from us this week, please watch this. It's important.", trigger: "Direct address to affected customers creates urgency. 'It's important' signals that the video contains actionable information.", products: "E-commerce brands dealing with shipping, quality, or service issues" },
+    { line: "I'm not going to sugarcoat this. Here's what went wrong and how we're fixing it.", trigger: "The 'no sugarcoating' promise sets expectations for honesty. Viewers stay because they trust the message will be genuine.", products: "Any brand in a crisis situation — product recalls, service outages, PR issues" },
+  ],
+  bestPractices: [
+    { label: "Ideal length", text: "20–40 seconds. Apology videos should be concise and focused. Say what happened, what you're doing, and how to get help. Don't ramble." },
+    { label: "Speed", text: "Respond within 24 hours of the issue becoming public. Every hour of silence allows the negative narrative to grow. Fast responses retain more customers." },
+    { label: "Accountability", text: "Take full responsibility. Don't blame vendors, systems, or circumstances. 'We messed up' is more powerful than 'our vendor experienced issues.'" },
+    { label: "Action plan", text: "Always include three elements: what happened, what you're doing to fix it, and how you're preventing it in the future. Apologies without action plans feel hollow." },
+    { label: "Tone", text: "Sincere, calm, and direct. Not overly emotional, not corporate. The tone should match a conversation between two adults — honest and respectful." },
+    { label: "Captions", text: "Display key action items in captions — 'FREE EXPEDITED SHIPPING,' '20% DISCOUNT,' 'CHECK YOUR EMAIL.' Affected customers need to see the remedy clearly." },
+  ],
+  whenToUse: {
+    stage: "Crisis response. Apology videos are for when something goes wrong — shipping delays, product issues, service failures, or PR situations.",
+    audience: "Affected customers first, then the broader audience. The primary goal is retaining affected customers; the secondary goal is maintaining brand trust with everyone else.",
+    platforms: "Email (direct to affected customers), social media (public acknowledgment), website banner, in-app notification. Distribute on every channel simultaneously.",
+    pairWith: "Follow apology videos with a positive update when the issue is resolved. 'Here's what we fixed' closes the loop and restores confidence.",
+  },
+  ctaLine: "Create crisis response videos that protect your brand and retain customers. No production delays when speed matters most.",
+};
+export default data;

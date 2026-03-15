@@ -1,0 +1,43 @@
+import type { CreatePageData } from "./_shared";
+const data: CreatePageData = {
+  title: "Create AI Customer Story Videos — Case Studies on Camera",
+  readTime: "8 min",
+  meta: "Create AI customer story videos that showcase real results and build trust. Includes script framework, hook templates, and best practices for case study video content.",
+  intro: "Customer story videos convert 62% better than generic product ads because they combine the persuasive power of social proof with the emotional depth of narrative. A customer story isn't just 'I liked this product' — it's a journey from problem to solution to result. It's the video equivalent of a case study, but with a face and a voice that makes it feel personal. The challenge is getting customers on camera. Most are willing to leave a text review but freeze at the thought of filming a video. Coordinating schedules, shipping products, and coaching non-actors through a script takes weeks per story. AI-generated customer story videos let you produce compelling case study content at scale — different demographics, different use cases, different results — all without asking a single customer to pick up their phone.",
+  what: {
+    definition: "A customer story video is a narrative-driven video where a person shares their complete journey with a product — the problem they had, how they discovered the solution, and the specific results they achieved. It's deeper than a testimonial and more personal than a case study.",
+    reasons: [
+      { label: "Narrative persuasion", text: "Stories are 22x more memorable than facts. A customer story creates a narrative arc (problem → discovery → result) that the viewer follows emotionally. By the end, they've mentally placed themselves in the story and are ready to take the same action." },
+      { label: "Segment targeting", text: "Different customers have different stories. A 25-year-old's experience resonates with 25-year-olds. A parent's story resonates with parents. AI lets you create customer stories for every audience segment without finding a real customer in each demographic." },
+      { label: "Objection handling", text: "Customer stories naturally address objections because the narrator shares their own doubts. 'I was skeptical about the price, but after seeing the results...' handles the price objection through peer experience rather than brand messaging." },
+    ],
+  },
+  framework: [
+    { step: "The Hook", time: "0–3 seconds", what: "Open with the result or the emotional turning point. Start at the climax, then rewind.", examples: ["\"6 months ago I couldn't leave the house without foundation. Now look at my skin.\"", "\"This product saved me $200 a month. Let me tell you how.\""], why: "Starting with the result creates a 'how did they get there?' curiosity loop. The viewer stays to understand the journey that led to this outcome.", mistake: "Starting chronologically. 'So I've always had bad skin...' is a slow build that loses viewers in the first 3 seconds." },
+    { step: "The Setup", time: "3–8 seconds", what: "Rewind to the problem. Be specific about the pain, the failed attempts, and the frustration.", examples: ["\"I'd been dealing with hormonal acne since college. I tried prescription creams, I tried expensive facials, I even changed my entire diet. Nothing worked and I was spending $300 a month on products that just sat in my cabinet.\""], why: "Specific failed attempts ('prescription creams, facials, diet changes') show the depth of the problem and position the product as the thing that finally worked after everything else failed.", mistake: "Glossing over the problem. The more detailed the struggle, the more impactful the resolution." },
+    { step: "The Payoff", time: "8–20 seconds", what: "Share the discovery moment and the specific results. Include a timeline and measurable outcomes.", examples: ["\"My coworker recommended [product] and I almost didn't try it. But by week 2, the inflammation went down. By month 2, my skin was clearer than it had been in 10 years. I cancelled my dermatologist appointment. I'm saving $200 a month now.\""], why: "The reluctant discovery ('almost didn't try it') adds authenticity. Specific timelines and financial savings make the results concrete and relatable.", mistake: "Vague results. 'It changed my life' is meaningless. 'Clearer skin in 2 months and $200/month saved' is persuasive." },
+    { step: "The CTA", time: "last 3–5 seconds", what: "Encourage the viewer to start their own story.", examples: ["\"I wish I'd found this sooner. Don't wait as long as I did. Link in bio.\"", "\"If your story sounds like mine, just try it. Link below.\""], why: "The regret framing ('wish I'd found this sooner') creates urgency. 'If your story sounds like mine' directly connects the viewer's situation to the narrator's journey." },
+  ],
+  exampleScript: `[HOOK — 0-3s]\n"A year ago I was spending $400 a month on skincare that didn't work. Now I use one product. Here's what happened."\n[Direct to camera, genuine expression]\n\n[SETUP — 3-8s]\n"I had cystic acne for 8 years. I tried Accutane, I tried chemical peels, I tried every serum on the market. My bathroom looked like a pharmacy and my skin looked the same."\n[Frustrated but honest tone]\n\n[PAYOFF — 8-18s]\n"My sister sent me [product] for my birthday. I didn't expect anything. But after 3 weeks, the cysts stopped forming. After 2 months, my skin was clear. Actually clear. I threw out everything else. One product, $35 a month, and my skin has never looked better."\n[Show clear skin, hold product]\n\n[CTA — 18-22s]\n"8 years of struggling and this is what finally worked. Don't wait like I did. Link in bio."\n[Sincere expression, point to link]`,
+  hooks: [
+    { line: "I've spent over $[amount] on [category]. This $[price] product outperformed all of it.", trigger: "The spending contrast creates immediate intrigue. A cheap product beating expensive ones is a compelling narrative.", products: "Budget-friendly alternatives to premium products — skincare, supplements, tools, software" },
+    { line: "My [doctor/dermatologist/trainer] asked me what I changed. I showed them this.", trigger: "Professional validation is the strongest form of social proof. If an expert notices the results, the product must work.", products: "Health, skincare, fitness, wellness products" },
+    { line: "I almost returned this after day one. Here's why I'm glad I didn't.", trigger: "The near-return creates a narrative tension. The viewer needs to know what changed between day one and now.", products: "Products with delayed results — skincare, supplements, fitness programs" },
+  ],
+  bestPractices: [
+    { label: "Ideal length", text: "25–45 seconds for social ads, 60–120 seconds for product pages and email. Customer stories need enough time for the narrative arc but shouldn't drag." },
+    { label: "Specificity", text: "Every detail should be specific. Not 'I had bad skin' but 'I had cystic acne along my jawline for 8 years.' Not 'it worked' but 'my cysts stopped forming after 3 weeks.'" },
+    { label: "Demographic matching", text: "Create customer stories for each audience segment. The narrator's age, skin type, lifestyle, and concerns should mirror the target viewer's profile." },
+    { label: "Reluctant discovery", text: "The best customer stories include initial skepticism. 'I almost didn't try it' or 'I didn't expect anything' makes the positive outcome more credible." },
+    { label: "Financial framing", text: "Include cost comparisons when relevant. 'I was spending $300/month, now I spend $35' is a powerful motivator that goes beyond product quality." },
+    { label: "Captions", text: "Use timeline markers in captions — 'WEEK 1,' 'MONTH 2,' 'NOW.' This visual timeline helps sound-off viewers follow the transformation journey." },
+  ],
+  whenToUse: {
+    stage: "Mid to bottom funnel. Customer stories are most effective for audiences who are considering a purchase and need peer validation. Excellent for retargeting and email nurture sequences.",
+    audience: "Skeptical buyers who identify with the narrator's problem. The more closely the viewer's situation matches the story, the more persuasive it becomes.",
+    platforms: "Facebook Feed, Instagram Feed, TikTok, product pages, email campaigns. Customer stories also work well as YouTube pre-roll for retargeting audiences.",
+    pairWith: "Follow customer stories with product demos for viewers who watched 50%+. The story builds emotional investment; the demo provides the practical details needed to convert.",
+  },
+  ctaLine: "Create customer story videos that turn results into revenue. No interviews, no scheduling, no production delays.",
+};
+export default data;

@@ -1,0 +1,43 @@
+import type { CreatePageData } from "./_shared";
+const data: CreatePageData = {
+  title: "Create AI Day-in-the-Life Videos — Lifestyle Content",
+  readTime: "7 min",
+  meta: "Create AI day-in-the-life videos that showcase your product in real routines. Includes script framework, hook templates, and best practices for lifestyle content.",
+  intro: "Day-in-the-life content is the fastest-growing format on TikTok, with the hashtag accumulating over 40 billion views. The format works because it's voyeuristic in the best way — people love seeing how others live, what they use, and how they structure their days. For brands, DITL videos are native product placement at its finest. Your product appears as a natural part of someone's routine, not as an ad. The viewer sees it in context — being used by a real person in a real setting — which is far more persuasive than a product shot on a white background. AI-generated DITL videos let you produce lifestyle content that features your product organically, without coordinating with influencers or disrupting anyone's actual day.",
+  what: {
+    definition: "A day-in-the-life video follows someone through their daily routine, showing how they spend their time, what products they use, and what their lifestyle looks like. Products appear naturally within the routine rather than being the focus of the content.",
+    reasons: [
+      { label: "Aspirational context", text: "DITL videos show your product in the context of a lifestyle the viewer aspires to. A morning routine with your coffee brand, a workout with your supplements, a skincare routine with your serum — the product becomes part of the aspirational identity." },
+      { label: "Native placement", text: "Products in DITL videos don't feel like ads because they're woven into a routine. The viewer is watching for the lifestyle content; the product exposure is a bonus. This bypasses ad fatigue and skepticism." },
+      { label: "High watch time", text: "DITL videos have above-average completion rates because the format is inherently engaging. People watch to see what happens next in the routine. This high watch time signals quality to algorithms, boosting organic reach." },
+    ],
+  },
+  framework: [
+    { step: "The Hook", time: "0–3 seconds", what: "Set the scene with a relatable or aspirational opening. The viewer should immediately want to see the rest of the day.", examples: ["\"5 AM morning routine as a small business owner. Here's how I start every day.\"", "\"A productive day in my life — from workout to work to winding down.\""], why: "Time stamps ('5 AM') and identity labels ('small business owner') create immediate context. The viewer self-selects: 'that's me' or 'I want to be like that.'", mistake: "Starting without context. 'Here's my day' is vague. 'My 5 AM routine as a founder' is specific and aspirational." },
+    { step: "The Setup", time: "3–8 seconds", what: "Begin the routine and introduce the first activity. Set the pace and tone for the rest of the video.", examples: ["\"First thing I do is make my bed — non-negotiable. Then I head to the kitchen for my morning drink. I've been using [product] for 3 months now and it's the one thing I won't skip.\""], why: "The 'non-negotiable' and 'won't skip' language signals that these are tested, essential parts of the routine. The product mention feels natural because it's embedded in the flow.", mistake: "Making the product the first thing you mention. Start with a non-product activity to establish the routine feel." },
+    { step: "The Payoff", time: "8–20 seconds", what: "Continue through the day, showing 2–3 more activities with the product appearing naturally in one of them.", examples: ["\"Quick workout, shower, then my skincare routine. This is where [product] comes in — two pumps, 30 seconds, done. Then I'm at my desk by 7. Meetings until noon, lunch break, then deep work until 5. This routine has made me 3x more productive.\""], why: "The product is one step in a multi-step routine. The productivity claim at the end ties the entire routine (including the product) to a desirable outcome.", mistake: "Spending too long on the product. In DITL content, the product should get the same screen time as other routine elements." },
+    { step: "The CTA", time: "last 3–5 seconds", what: "Close the day and invite the viewer to adopt the routine or try the featured product.", examples: ["\"That's my day. If you want to try the routine, everything I use is linked in bio.\"", "\"This routine changed my mornings. Link below for the products.\""], why: "Linking 'everything I use' rather than just the product maintains the lifestyle framing. The viewer is buying into the routine, not just the product." },
+  ],
+  exampleScript: `[HOOK — 0-3s]\n"5:30 AM. Here's how I start every morning as a founder."\n[Alarm going off, getting out of bed]\n\n[SETUP — 3-8s]\n"Make the bed, 10-minute stretch, then straight to the kitchen. I make my [product] drink every single morning — it's become the one thing I can't skip. Tastes good and I actually feel the difference by 7 AM."\n[Show morning routine, making drink]\n\n[PAYOFF — 8-18s]\n"Gym by 6, back home by 7:15. Quick shower, skincare — keeping it simple. At my desk by 7:30. I batch my meetings in the morning and protect my afternoons for deep work. This routine took me 6 months to dial in but it's the reason my business grew 40% this year."\n[Show gym, desk, working]\n\n[CTA — 18-22s]\n"Steal this routine. Everything I use is linked in bio."\n[End of day, relaxed, point to link]`,
+  hooks: [
+    { line: "My 5 AM routine that makes me feel like a different person. Here's every step.", trigger: "The transformation promise ('different person') combined with a complete breakdown ('every step') creates strong watch motivation.", products: "Wellness products, supplements, coffee, skincare, productivity tools" },
+    { line: "A day in my life running a 6-figure business from home. No glamour, just routine.", trigger: "Financial aspiration meets authenticity ('no glamour'). The viewer wants to see the unglamorous reality behind success.", products: "Productivity tools, home office products, wellness, business software" },
+    { line: "The daily routine that cleared my skin, improved my energy, and saved me 2 hours a day.", trigger: "Triple benefit hook. Each benefit appeals to a different motivation, widening the audience.", products: "Multi-benefit products — supplements, skincare routines, productivity systems" },
+  ],
+  bestPractices: [
+    { label: "Ideal length", text: "30–60 seconds for social, 3–10 minutes for YouTube. Social DITL should hit 4–5 routine moments; YouTube can be a comprehensive day walkthrough." },
+    { label: "Natural placement", text: "The product should appear as one element of the routine, not the centerpiece. If the video feels like a product ad disguised as a DITL, it won't perform." },
+    { label: "Aspirational but relatable", text: "The routine should be aspirational enough to inspire but relatable enough to feel achievable. '5 AM workout' is aspirational; 'private chef' is unrelatable for most audiences." },
+    { label: "Pacing", text: "Move quickly through routine elements. Each activity gets 3–5 seconds. The fast pace creates energy and keeps viewers watching through the entire day." },
+    { label: "Identity matching", text: "Match the routine to your target audience's identity or aspiration. A college student routine for young audiences, a parent routine for family audiences, a founder routine for entrepreneurs." },
+    { label: "Captions", text: "Use time stamps ('5:30 AM,' '7:00 AM,' '12:00 PM') as visual markers. This creates structure and helps sound-off viewers follow the day's progression." },
+  ],
+  whenToUse: {
+    stage: "Top funnel. DITL content is discovery-focused — it attracts new audiences through lifestyle appeal rather than product promotion.",
+    audience: "Lifestyle-oriented consumers who follow routines, morning rituals, and productivity content. They're looking for inspiration and products that fit their aspirational identity.",
+    platforms: "TikTok (highest DITL engagement), Instagram Reels, YouTube (both Shorts and vlogs). DITL content also works on Pinterest as routine inspiration.",
+    pairWith: "Follow DITL content with product-specific videos for viewers who engaged. The DITL introduces the product in context; a demo or review provides the detail needed to convert.",
+  },
+  ctaLine: "Create day-in-the-life videos that showcase your product naturally. No influencers, no coordination, no disruption.",
+};
+export default data;

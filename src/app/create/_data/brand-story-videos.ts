@@ -1,0 +1,43 @@
+import type { CreatePageData } from "./_shared";
+const data: CreatePageData = {
+  title: "Create AI Brand Story Videos — Your Origin, Automated",
+  readTime: "8 min",
+  meta: "Create AI brand story videos that communicate your origin, mission, and values. Includes script framework, hook templates, and best practices for narrative-driven content.",
+  intro: "People don't buy products — they buy stories. Brands with a compelling origin story see 20% higher customer loyalty and 55% higher purchase intent. The reason is neuroscience: stories activate the same brain regions as lived experiences. When someone hears your brand story, they don't just understand your product — they feel connected to your mission. But brand story videos are notoriously hard to produce. They require careful scripting, emotional pacing, and a presenter who can deliver the narrative authentically. Most brands attempt it once, spend $5,000+, and never update it. AI-generated brand story videos make it possible to tell your story across multiple formats, lengths, and audiences — without the production overhead.",
+  what: {
+    definition: "A brand story video communicates the origin, mission, and values behind a brand through narrative. It answers 'why does this brand exist?' and 'why should I care?' — turning a faceless company into a relatable entity with purpose.",
+    reasons: [
+      { label: "Emotional connection", text: "Stories create emotional bonds that features can't. When a viewer understands WHY you built your product — the frustration, the insight, the mission — they form a connection that transcends price comparison. Emotionally connected customers have 306% higher lifetime value." },
+      { label: "Differentiation", text: "In crowded markets, products look similar. Your story is the one thing competitors can't copy. Two serums might have identical ingredients, but only one was created by a dermatologist who struggled with acne for 15 years." },
+      { label: "Brand recall", text: "People remember stories 22x better than facts. A viewer might forget your product specs, but they'll remember that you started the company in your garage after your daughter's allergic reaction to conventional products." },
+    ],
+  },
+  framework: [
+    { step: "The Hook", time: "0–3 seconds", what: "Open with the inciting incident — the moment that sparked the brand. Make it personal and specific.", examples: ["\"I started this company from my kitchen table after my doctor told me there was nothing else they could do.\"", "\"Two years ago I was $40,000 in debt and working a job I hated. That's when I built this.\""], why: "Personal stakes create immediate investment. The viewer wants to know what happened next. Financial specifics and emotional weight make the story feel real.", mistake: "Starting with 'We're a company that...' — this is a press release, not a story. Stories start with a person and a problem." },
+    { step: "The Setup", time: "3–8 seconds", what: "Describe the gap you discovered — the problem that existing solutions weren't solving.", examples: ["\"I looked everywhere for a product that was clean, effective, and affordable. Everything was either overpriced, full of chemicals, or just didn't work. So I thought — what if I just make it myself?\""], why: "The gap establishes the reason for the brand's existence. It's not 'we saw a market opportunity' — it's 'nothing existed that solved my problem, so I had to create it.'", mistake: "Making it sound like a business plan. 'We identified a gap in the market' is corporate speak. 'I couldn't find what I needed' is a story." },
+    { step: "The Payoff", time: "8–20 seconds", what: "Share what you built and the impact it's had. Include a specific milestone or customer moment that validates the mission.", examples: ["\"That kitchen table experiment turned into [Brand]. We've helped over 50,000 people. Last week a customer emailed me saying she finally feels confident without makeup. That's why I do this.\""], why: "The customer email detail makes the impact tangible and personal. '50,000 people' provides scale. Together, they show both breadth and depth of impact." },
+    { step: "The CTA", time: "last 3–5 seconds", what: "Invite the viewer to become part of the story.", examples: ["\"That's our story. Now let's write yours. Link in bio.\"", "\"We built this for people like you. Come see what we made. Link below.\""], why: "Inclusive CTAs ('let's write yours,' 'people like you') make the viewer feel like they're joining a community, not just buying a product." },
+  ],
+  exampleScript: `[HOOK — 0-3s]\n"I never planned to start a company. But when my daughter had an allergic reaction to a 'natural' product, I didn't have a choice."\n[Direct to camera, sincere expression]\n\n[SETUP — 3-8s]\n"I spent 6 months researching ingredients. I learned that 'natural' doesn't mean safe, and most brands cut corners on testing. I couldn't find a single product I trusted for my own kid."\n[Thoughtful, slightly frustrated tone]\n\n[PAYOFF — 8-18s]\n"So I made one. From my kitchen. That first batch was for my daughter. The second was for her preschool class. Now we've shipped to over 50,000 families. Last month a mom told me her son can finally use lotion without crying. That email is printed and taped to my office wall."\n[Emotional, genuine pride]\n\n[CTA — 18-22s]\n"We made this for families like yours. Come see what we built. Link in bio."\n[Warm smile, point to link]`,
+  hooks: [
+    { line: "I started this company because I was angry. Let me tell you why.", trigger: "Anger is an unexpected brand story emotion. It signals passion and authenticity — the viewer wants to know what provoked it.", products: "Mission-driven brands, health products, sustainability brands, social enterprises" },
+    { line: "This brand started as a mistake. The best kind of mistake.", trigger: "The 'mistake' framing is intriguing because brands don't usually admit to accidents. It humanizes the origin story.", products: "Food and beverage, beauty, artisan products, any brand with an unexpected origin" },
+    { line: "Everyone told me this idea was crazy. 50,000 customers later, here we are.", trigger: "The underdog narrative is universally compelling. Proving doubters wrong creates an emotional arc viewers root for.", products: "Startups, DTC brands, innovative products, category disruptors" },
+  ],
+  bestPractices: [
+    { label: "Ideal length", text: "30–60 seconds for social, 60–120 seconds for landing pages and about pages. Brand stories need room to breathe — don't rush the emotional beats." },
+    { label: "Personal voice", text: "Use first person. 'I started this because...' is 10x more engaging than 'Our company was founded to...' People connect with people, not corporations." },
+    { label: "Vulnerability", text: "Share the struggle, not just the success. The failed experiments, the doubt, the financial risk — vulnerability builds trust and makes the success feel earned." },
+    { label: "Customer impact", text: "Include at least one specific customer moment. A single customer email or message is more powerful than aggregate metrics because it's personal and relatable." },
+    { label: "Mission clarity", text: "End with a clear mission statement that the viewer can align with. 'We believe everyone deserves...' or 'We exist because...' — give them something to believe in." },
+    { label: "Captions", text: "Use emotional emphasis in captions. Bold the turning point moment and the mission statement. The story arc should be followable through captions alone." },
+  ],
+  whenToUse: {
+    stage: "Top funnel and brand building. Brand story videos are for creating emotional connections with new audiences. They're awareness tools that build long-term loyalty.",
+    audience: "Values-driven consumers who care about the 'why' behind a brand. Particularly effective for millennials and Gen Z, who prioritize brand authenticity and mission alignment.",
+    platforms: "About pages, Instagram Feed, Facebook Feed, YouTube (pre-roll and channel content), LinkedIn (for B2B brand stories). Also effective in email welcome sequences.",
+    pairWith: "Follow brand story videos with product-focused content. The story creates emotional investment; product demos and testimonials convert that investment into purchases.",
+  },
+  ctaLine: "Create brand story videos that make people care. No film crew, no production budget, no compromises.",
+};
+export default data;

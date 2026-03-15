@@ -1,0 +1,43 @@
+import type { CreatePageData } from "./_shared";
+const data: CreatePageData = {
+  title: "Create AI Recruitment Videos — Attract Talent With AI",
+  readTime: "7 min",
+  meta: "Create AI recruitment videos that attract top talent and showcase company culture. Includes script framework, hook templates, and best practices for hiring content.",
+  intro: "Job postings with video receive 34% more applications than text-only listings. Video lets candidates see the culture, hear from team members, and visualize themselves in the role — something a bullet-point job description can never achieve. But recruitment videos are expensive to produce and quickly become outdated as teams change and roles evolve. Most companies film one recruitment video, use it for a year, and wonder why it stops performing. AI-generated recruitment videos solve the freshness problem. You can produce role-specific, team-specific, and culture-specific videos on demand — updating messaging as your company evolves without scheduling another film day.",
+  what: {
+    definition: "A recruitment video showcases a company's culture, values, and open roles through a presenter-led format. It's designed to attract qualified candidates by giving them an authentic preview of what it's like to work at the company.",
+    reasons: [
+      { label: "Culture preview", text: "Candidates want to know what it's like to work somewhere before they apply. A recruitment video shows the energy, values, and people behind the job listing — reducing application anxiety and attracting culture-fit candidates." },
+      { label: "Application quality", text: "Video job postings attract more qualified applicants because candidates self-select based on culture fit. They watch the video, decide 'that's my kind of place,' and apply with genuine enthusiasm." },
+      { label: "Employer brand", text: "Recruitment videos build your employer brand beyond active job seekers. Even people not currently looking remember companies with compelling culture content — and they apply when the time is right." },
+    ],
+  },
+  framework: [
+    { step: "The Hook", time: "0–3 seconds", what: "Lead with what makes the role or company unique. Skip the generic 'we're hiring' opener.", examples: ["\"We're a 20-person team that just hit $5M ARR and we're looking for our first marketing hire. Here's why this role is special.\"", "\"What if your next job let you work from anywhere, own your projects, and actually see the impact of your work?\""], why: "Specifics ('20-person team,' '$5M ARR,' 'first marketing hire') signal a real opportunity, not a generic posting. The second hook sells the lifestyle, which attracts values-aligned candidates.", mistake: "Starting with 'We're hiring!' — it's the most generic opening possible and doesn't differentiate your role from thousands of others." },
+    { step: "The Setup", time: "3–8 seconds", what: "Describe the role and what the day-to-day looks like. Be honest about the challenges and the rewards.", examples: ["\"You'd be building our content strategy from scratch. No playbook, no templates — just a blank canvas and a budget. It's challenging, but you'd own the entire function and see your work drive real revenue.\""], why: "Honesty about challenges ('no playbook') attracts self-starters and filters out candidates who need heavy structure. The reward ('own the entire function') appeals to ambitious talent.", mistake: "Overselling the role. Candidates who join based on inflated expectations leave quickly. Honest descriptions attract better long-term fits." },
+    { step: "The Payoff", time: "8–20 seconds", what: "Share what makes the company culture special. Include specific perks, values, or team dynamics.", examples: ["\"Our team is remote-first, async-heavy, and obsessed with shipping fast. We do quarterly offsites — last one was in Lisbon. Everyone has equity. And we genuinely believe in work-life balance — our average workweek is 38 hours.\""], why: "Specific cultural details ('Lisbon offsite,' '38-hour workweek,' 'everyone has equity') are more compelling than vague claims like 'great culture.' Candidates remember specifics.", mistake: "Listing generic perks. 'Competitive salary and benefits' is meaningless. 'Equity for everyone and quarterly offsites' is memorable." },
+    { step: "The CTA", time: "last 3–5 seconds", what: "Direct candidates to apply with a clear, low-friction CTA.", examples: ["\"If this sounds like you, apply today. Link in bio — no cover letter required.\"", "\"We're reviewing applications this week. Don't wait. Link below.\""], why: "'No cover letter required' removes friction. 'Reviewing this week' creates urgency. Both increase application rates." },
+  ],
+  exampleScript: `[HOOK — 0-3s]\n"We're a 15-person startup that just raised $8M and we need a creative lead. Here's why this might be the best job you'll ever have."\n[Direct to camera, energetic]\n\n[SETUP — 3-8s]\n"You'd be leading all creative output — ads, content, brand. No layers of approval, no corporate red tape. You'd report directly to the CEO and have full creative control. It's a lot of ownership, but that's the point."\n[Honest, enthusiastic tone]\n\n[PAYOFF — 8-18s]\n"We're remote-first with a team across 6 countries. We do offsites every quarter — last one was Barcelona. Everyone gets equity, unlimited PTO that people actually use, and a $2,000 annual learning budget. We ship fast, we celebrate wins, and we don't do pointless meetings."\n[Show team photos, offsite clips, culture moments]\n\n[CTA — 18-22s]\n"If this sounds like your kind of place, apply now. Link in bio. No cover letter needed."\n[Warm smile, point to link]`,
+  hooks: [
+    { line: "This might be the best job posting you'll see this year. Let me tell you why.", trigger: "Bold confidence signals a genuinely compelling opportunity. The viewer watches to evaluate the claim.", products: "Startups, tech companies, creative agencies, high-growth companies" },
+    { line: "We're hiring and I want to be honest about what this role actually looks like.", trigger: "Honesty is rare in recruitment. The promise of transparency attracts candidates who value authenticity.", products: "Any company hiring — the honesty angle works across industries" },
+    { line: "I joined this company 6 months ago. Here's why I'm never leaving.", trigger: "Employee endorsement is the strongest recruitment signal. A current employee's enthusiasm is more credible than HR messaging.", products: "Companies with strong employee satisfaction, startups with passionate teams" },
+  ],
+  bestPractices: [
+    { label: "Ideal length", text: "30–60 seconds for social, 60–120 seconds for career pages. Recruitment videos should be long enough to convey culture but short enough to hold attention." },
+    { label: "Specificity", text: "Replace generic claims with specific details. Not 'great culture' but 'quarterly offsites in different cities.' Not 'competitive pay' but 'equity for every employee.'" },
+    { label: "Honesty", text: "Be honest about challenges. 'Fast-paced and sometimes chaotic' attracts the right people and filters out the wrong ones. Honest recruitment reduces turnover." },
+    { label: "Role-specific", text: "Create separate videos for each open role. A generic 'we're hiring' video is less effective than a video specifically about the marketing role, the engineering role, etc." },
+    { label: "Employee voices", text: "Feature current employees (or AI representations of employee perspectives) sharing their experience. Peer endorsement is more credible than corporate messaging." },
+    { label: "Captions", text: "Display role title, location (or 'Remote'), and key perks in captions. Include the application deadline if applicable. Make it easy for sound-off viewers to get the essential details." },
+  ],
+  whenToUse: {
+    stage: "Top funnel for employer branding, bottom funnel for active job postings. Recruitment videos work both for attracting passive candidates and converting active applicants.",
+    audience: "Job seekers and passive candidates in your industry. Tailor the message to the seniority level — entry-level candidates care about growth; senior candidates care about impact and autonomy.",
+    platforms: "LinkedIn (primary for professional recruitment), Instagram, TikTok (for younger talent), career pages, job boards. Also effective in recruitment email campaigns.",
+    pairWith: "Combine recruitment videos with employee spotlight content. The recruitment video sells the role; the employee spotlight sells the culture and team.",
+  },
+  ctaLine: "Create recruitment videos that attract top talent. No film crew, no scheduling, no outdated content.",
+};
+export default data;

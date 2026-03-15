@@ -1,0 +1,43 @@
+import type { CreatePageData } from "./_shared";
+const data: CreatePageData = {
+  title: "Create AI Transformation Videos — Before/After Stories",
+  readTime: "7 min",
+  meta: "Create AI transformation videos that tell compelling before/after stories. Includes script framework, hook templates, and best practices for transformation content.",
+  intro: "Transformation videos are the most shared content format on social media — they generate 5x more shares than standard product content. The format works because transformation is inherently dramatic. A visible change from state A to state B is compelling storytelling compressed into seconds. Unlike simple before-and-after comparisons, transformation videos tell the story of the journey — the struggle, the turning point, and the result. This narrative depth is what makes them emotionally resonant and highly shareable. AI-generated transformation videos let you produce these compelling narratives at scale, telling different transformation stories for different audience segments without the months-long wait for real results to document.",
+  what: {
+    definition: "A transformation video tells the complete story of a change — from the initial problem through the process to the final result. It's more narrative-driven than a simple before/after comparison, focusing on the emotional journey as much as the visual change.",
+    reasons: [
+      { label: "Narrative power", text: "Transformation videos follow a classic story arc: struggle → discovery → change. This narrative structure is hardwired into human psychology. We're drawn to stories of change because they give us hope that change is possible for us too." },
+      { label: "Emotional depth", text: "The journey matters as much as the result. Sharing the frustration, the failed attempts, and the moment things started to change creates emotional investment that a simple before/after photo can't match." },
+      { label: "Viral potential", text: "Dramatic transformations are inherently shareable. People tag friends, share in group chats, and save for inspiration. This organic amplification extends your reach far beyond paid distribution." },
+    ],
+  },
+  framework: [
+    { step: "The Hook", time: "0–3 seconds", what: "Lead with the most dramatic moment — either the result or the lowest point of the journey.", examples: ["\"I went from hiding my skin with makeup every day to posting bare-faced selfies. Here's what happened.\"", "\"6 months ago I couldn't run a mile. Yesterday I finished a half marathon.\""], why: "The contrast between the two states creates immediate intrigue. The viewer needs to understand how someone went from point A to point B.", mistake: "Starting in the middle of the story. Lead with the most dramatic contrast — the beginning and end — then fill in the middle." },
+    { step: "The Setup", time: "3–8 seconds", what: "Describe the 'before' state with emotional honesty. Make the viewer feel the weight of the problem.", examples: ["\"For 5 years, I wouldn't leave the house without a full face of makeup. I cancelled plans because of breakouts. I spent thousands on products that promised results and delivered nothing.\""], why: "Emotional specifics ('cancelled plans,' 'thousands on products') create empathy. The viewer who shares this experience feels seen and understood.", mistake: "Minimizing the struggle. The deeper the 'before,' the more impactful the transformation. Don't rush past the pain." },
+    { step: "The Payoff", time: "8–20 seconds", what: "Share the turning point and the transformation. Be specific about what changed, when, and how.", examples: ["\"Then I found [product] through a friend's recommendation. I almost didn't try it. But by week 3, the inflammation was down. By month 2, my skin was clear. By month 4, I posted my first no-makeup selfie. My DMs exploded. People couldn't believe it was the same person.\""], why: "The timeline creates a believable progression. The social validation ('DMs exploded') adds a layer of proof. The reluctant start ('almost didn't try it') adds authenticity.", mistake: "Claiming instant results. Believable transformations take time. Unrealistic timelines destroy credibility." },
+    { step: "The CTA", time: "last 3–5 seconds", what: "Invite the viewer to start their own transformation.", examples: ["\"Your transformation starts with one step. Link in bio.\"", "\"If I can do it, you can do it. Link below to start.\""], why: "Empowerment CTAs work for transformation content because the viewer is emotionally primed to take action. They've just witnessed proof that change is possible." },
+  ],
+  exampleScript: `[HOOK — 0-3s]\n"This is my skin today. 6 months ago, I wouldn't have shown you this without 3 layers of foundation."\n[Show clear skin, confident expression]\n\n[SETUP — 3-8s]\n"I had cystic acne for years. I tried everything — prescriptions, facials, elimination diets. I spent over $5,000 on treatments that didn't work. I was exhausted and honestly, I'd given up."\n[Emotional, honest tone]\n\n[PAYOFF — 8-18s]\n"My sister bought me [product] for Christmas. I used it because she'd be offended if I didn't. By January, the cysts stopped forming. By March, my skin was clear. By April, I went to work without makeup for the first time in 5 years. My coworker literally said 'what did you do to your skin?' That moment changed everything."\n[Show transformation progression, genuine emotion]\n\n[CTA — 18-22s]\n"This was my turning point. Yours could be one click away. Link in bio."\n[Hold product, point to link]`,
+  hooks: [
+    { line: "Same person. 6 months apart. Let me tell you what happened in between.", trigger: "The time gap creates curiosity about the journey. 'What happened in between' promises a story, not just a comparison.", products: "Any product with visible long-term results — skincare, fitness, hair care, wellness" },
+    { line: "The moment I realized everything I'd been doing was wrong. This changed everything.", trigger: "The 'everything was wrong' revelation creates a knowledge gap. The viewer wants to know what they might be doing wrong too.", products: "Products that replace existing routines — skincare, nutrition, fitness, productivity" },
+    { line: "I documented my transformation for 90 days. The results shocked even me.", trigger: "The documentation angle adds credibility. 'Shocked even me' implies the results exceeded expectations.", products: "Products with measurable results over time — supplements, skincare, fitness programs" },
+  ],
+  bestPractices: [
+    { label: "Ideal length", text: "25–45 seconds for social, 60–180 seconds for YouTube. Transformation stories need enough time for the emotional arc but shouldn't drag through unnecessary details." },
+    { label: "Emotional honesty", text: "Don't sanitize the struggle. The more honest and vulnerable the 'before' state, the more impactful the transformation. Viewers connect with real pain, not polished narratives." },
+    { label: "Realistic timeline", text: "Always include a realistic timeline. '3 months' is believable. 'Overnight' is not. Realistic timelines build trust and set appropriate expectations for new customers." },
+    { label: "Third-party validation", text: "Include a moment where someone else noticed the change — a friend, family member, or coworker. External validation is more persuasive than self-assessment." },
+    { label: "Visual progression", text: "If possible, show progression stages — not just before and after, but the middle stages too. This makes the transformation feel documented and real." },
+    { label: "Captions", text: "Use timeline markers ('MONTH 1,' 'MONTH 3,' 'TODAY') as visual anchors. Bold the turning point moment. The transformation arc should be clear through captions alone." },
+  ],
+  whenToUse: {
+    stage: "Mid to bottom funnel. Transformation videos are most effective for audiences who know they have a problem and need proof that a solution works.",
+    audience: "People stuck in the 'before' state who need hope and proof that change is possible. They identify with the struggle and are motivated by seeing someone like them succeed.",
+    platforms: "TikTok, Instagram Reels, YouTube, Facebook Feed. Transformation content also performs well on product pages and in email nurture sequences.",
+    pairWith: "Follow transformation videos with how-to content that shows the exact routine or process. The transformation inspires; the how-to provides the actionable steps.",
+  },
+  ctaLine: "Create transformation videos that inspire action. No months of documentation, no before photos to source.",
+};
+export default data;

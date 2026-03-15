@@ -1,0 +1,43 @@
+import type { CreatePageData } from "./_shared";
+const data: CreatePageData = {
+  title: "Create AI Onboarding Videos — Welcome New Customers",
+  readTime: "7 min",
+  meta: "Create AI onboarding videos that welcome new customers and drive product adoption. Includes script framework, hook templates, and best practices for onboarding content.",
+  intro: "Customers who complete onboarding are 3x more likely to become long-term users. Yet 74% of customers feel overwhelmed during their first experience with a new product. The gap between purchase and proficiency is where most churn happens — and onboarding videos bridge that gap. A well-structured onboarding video shows new customers exactly what to do first, what to expect, and how to get the most value from their purchase. It replaces confusion with confidence. AI-generated onboarding videos let you create personalized welcome experiences for different customer segments, product lines, and use cases — without filming a new video every time you update your product or expand your catalog.",
+  what: {
+    definition: "An onboarding video welcomes new customers and guides them through their first experience with a product or service. It covers setup, first steps, key features, and tips for getting the best results — all delivered by a friendly presenter.",
+    reasons: [
+      { label: "Churn prevention", text: "Most churn happens in the first 7 days. Customers who don't understand how to use a product return it or cancel. Onboarding videos reduce this early churn by 25% by ensuring customers know exactly what to do." },
+      { label: "Support reduction", text: "Every onboarding video you create prevents hundreds of 'how do I...' support tickets. A 60-second video explaining first steps is more effective than a 10-page help article." },
+      { label: "Value acceleration", text: "The faster a customer experiences value, the more likely they are to stay. Onboarding videos compress the time-to-value by showing customers the shortest path to their first win." },
+    ],
+  },
+  framework: [
+    { step: "The Hook", time: "0–3 seconds", what: "Welcome the customer and set expectations for what they're about to learn.", examples: ["\"Welcome! You just made a great choice. Let me show you how to get the most out of [product] in 60 seconds.\"", "\"Your [product] just arrived? Perfect. Here's everything you need to know to get started.\""], why: "Immediate welcome creates a positive first impression. The time promise ('60 seconds') sets expectations and reduces the perceived effort of onboarding.", mistake: "Starting with a long company introduction. The customer already bought — they don't need a brand pitch. They need help getting started." },
+    { step: "The Setup", time: "3–8 seconds", what: "Cover the first step — the single most important action for getting started.", examples: ["\"First thing: [action]. This is the most important step because [reason]. Take 30 seconds to do this now — everything else builds on it.\""], why: "One clear first step reduces overwhelm. Explaining why it matters motivates action. 'Do this now' creates immediate engagement with the product.", mistake: "Covering too many steps at once. Onboarding should be sequential — one step at a time, starting with the most critical." },
+    { step: "The Payoff", time: "8–20 seconds", what: "Show what success looks like. Give the customer a preview of the value they'll experience.", examples: ["\"Once you've done that, here's what happens: [result]. Most customers see [specific outcome] within [timeframe]. The key is consistency — use it [frequency] and you'll see results faster than you expect.\""], why: "Previewing the outcome motivates continued use. Specific timelines set realistic expectations. Usage frequency guidance prevents under-use (which leads to 'it doesn't work' returns).", mistake: "Ending without showing the payoff. Customers need to know what they're working toward." },
+    { step: "The CTA", time: "last 3–5 seconds", what: "Direct them to additional resources and invite them to reach out with questions.", examples: ["\"Check your email for the full getting-started guide. And if you need anything, we're one message away. Welcome aboard!\"", "\"Start using it today. The sooner you start, the sooner you'll see results. We're here if you need us.\""], why: "Pointing to additional resources shows thoroughness. The support invitation reduces anxiety. The warm close reinforces the positive relationship." },
+  ],
+  exampleScript: `[HOOK — 0-3s]\n"Welcome! Your [product] is on its way. Here's how to get amazing results from day one."\n[Warm, friendly, direct to camera]\n\n[SETUP — 3-8s]\n"When it arrives, the first thing you want to do is [step 1]. This is the foundation — skip this and nothing else works as well. It takes 2 minutes and it makes all the difference."\n[Clear, instructional tone]\n\n[PAYOFF — 8-18s]\n"After that, use it [frequency] — morning and night works best. Most customers notice a difference within the first week. By week 3, you'll wonder how you lived without it. Pro tip: [specific usage tip]. This one trick doubles the effectiveness."\n[Encouraging, sharing insider knowledge]\n\n[CTA — 18-22s]\n"Check your email for the complete guide. And if you have ANY questions, just reply to that email. We're here for you. Welcome to the family!"\n[Warm smile, wave]`,
+  hooks: [
+    { line: "You just bought [product]. Here's the one thing you need to do first for the best results.", trigger: "Immediate relevance — the customer just purchased and wants to know how to use it. The 'one thing' simplifies the onboarding.", products: "Any product requiring setup or usage guidance — skincare, tech, SaaS, supplements" },
+    { line: "Welcome! In 60 seconds I'll show you everything you need to know about [product].", trigger: "Time-bound promise reduces the perceived effort. The customer knows this will be quick and valuable.", products: "Products with simple onboarding — consumer goods, apps, subscription services" },
+    { line: "Most people use [product] wrong the first time. Here's how to do it right.", trigger: "The 'wrong way' warning creates urgency to watch. The customer wants to avoid mistakes with their new purchase.", products: "Products with common misuse — skincare application, tech setup, supplement dosing" },
+  ],
+  bestPractices: [
+    { label: "Ideal length", text: "30–60 seconds for quick-start videos, 2–5 minutes for comprehensive onboarding. Start with the quick version; offer the detailed version for customers who want more." },
+    { label: "One step at a time", text: "Don't overwhelm new customers with everything at once. Cover the first critical step in the welcome video, then drip additional tips over the following days." },
+    { label: "Show the outcome", text: "Always preview what success looks like. 'By week 2, you'll notice...' gives customers a goal to work toward and a timeline to measure against." },
+    { label: "Segment by product", text: "Create different onboarding videos for different products. Generic onboarding feels impersonal. Product-specific guidance feels tailored and helpful." },
+    { label: "Timing", text: "Send the onboarding video immediately after purchase (for digital products) or upon delivery confirmation (for physical products). Timing matters — catch them while they're excited." },
+    { label: "Captions", text: "Use step-by-step captions with clear numbering. Include the key tip as a highlighted text overlay. The onboarding should be followable without sound." },
+  ],
+  whenToUse: {
+    stage: "Post-purchase. Onboarding videos are for the critical first 7 days after purchase when churn risk is highest and engagement potential is greatest.",
+    audience: "New customers who just purchased. Segment by product, order value, and customer type (first-time vs. returning) for personalized onboarding experiences.",
+    platforms: "Email (primary — triggered by purchase), in-app (for SaaS), SMS, post-purchase landing pages. Onboarding videos should meet the customer where they are.",
+    pairWith: "Follow onboarding with check-in videos at day 7 and day 14. The onboarding starts the journey; check-ins ensure the customer stays on track.",
+  },
+  ctaLine: "Create onboarding videos that turn new buyers into loyal customers. No filming, no per-product production costs.",
+};
+export default data;

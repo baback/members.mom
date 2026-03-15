@@ -1,0 +1,43 @@
+import type { CreatePageData } from "./_shared";
+const data: CreatePageData = {
+  title: "Create AI Challenge Videos — Viral Format Content",
+  readTime: "7 min",
+  meta: "Create AI challenge videos that tap into viral formats and drive engagement. Includes script framework, hook templates, and best practices for challenge-based content.",
+  intro: "Challenge videos are the engine of viral content on TikTok and Reels. The format — try something for X days, test a product under specific conditions, or attempt a trending challenge — generates massive engagement because it combines entertainment with stakes. Will they succeed? Will the product hold up? The uncertainty keeps viewers watching. For brands, challenge videos are a way to demonstrate product performance under real conditions while riding the wave of trending formats. '30-day challenge,' '24-hour test,' 'one product for a week' — these frameworks turn product demonstrations into entertainment. AI-generated challenge videos let you produce this format without actually running a 30-day experiment, giving you the engagement benefits of challenge content with the speed of AI production.",
+  what: {
+    definition: "A challenge video documents an attempt to achieve a specific goal or test a product under defined conditions — a time limit, a constraint, or a trending format. The structure creates natural stakes and a built-in narrative arc.",
+    reasons: [
+      { label: "Built-in stakes", text: "Challenges have a pass/fail outcome. Will the product survive 24 hours? Will the routine work in 7 days? This uncertainty creates tension that keeps viewers watching until the verdict." },
+      { label: "Trend riding", text: "Challenge formats trend cyclically on social media. Participating in trending challenges gives your content algorithmic boost and cultural relevance. Your product gets exposure through a format people are already searching for." },
+      { label: "Engagement magnet", text: "Challenge videos generate 3x more comments than standard content because viewers want to share their predictions, results, and opinions. This engagement signals quality to algorithms." },
+    ],
+  },
+  framework: [
+    { step: "The Hook", time: "0–3 seconds", what: "State the challenge clearly. What are you testing, for how long, and what's at stake?", examples: ["\"I'm using ONLY [product] for my entire skincare routine for 7 days. No other products. Let's see what happens.\"", "\"Can this $15 product replace my $80 serum? 30-day challenge starts now.\""], why: "Clear constraints ('only this product,' '7 days') create stakes. The price comparison adds a value angle. Both hooks make the viewer need to see the outcome.", mistake: "Vague challenges without clear parameters. 'I'm going to try this product' isn't a challenge. 'Only this product for 7 days' is." },
+    { step: "The Setup", time: "3–8 seconds", what: "Show your starting point and set expectations. What does your skin/routine/situation look like before the challenge?", examples: ["\"Day 1. Here's my skin right now — some texture on my forehead, a few dark spots, and my usual redness. I'm documenting everything. Let's see if this product can handle all of it alone.\""], why: "Documenting the starting point creates a baseline for comparison. Listing specific concerns gives the challenge measurable criteria for success or failure.", mistake: "Not establishing a clear baseline. Without a 'before,' the 'after' has no context." },
+    { step: "The Payoff", time: "8–20 seconds", what: "Share the results at key milestones and the final verdict. Be honest about what worked and what didn't.", examples: ["\"Day 3: texture already feels smoother. Day 5: redness is calming down. Day 7: okay, I'm genuinely impressed. The dark spots aren't gone but the texture and redness? Massive improvement. For one product doing everything? This passed the challenge.\""], why: "Milestone updates create a progression narrative. Honest assessment ('dark spots aren't gone') builds credibility. The final verdict ('passed the challenge') gives the viewer the closure they need.", mistake: "Claiming perfect results. Honest, nuanced verdicts are more believable and more engaging than 'it fixed everything.'" },
+    { step: "The CTA", time: "last 3–5 seconds", what: "Invite viewers to try the challenge themselves.", examples: ["\"Try this challenge yourself and tell me your results. Link in bio.\"", "\"Challenge passed. If you want to test it yourself — link below.\""], why: "Inviting viewers to replicate the challenge creates user-generated content potential and drives purchases. It turns passive viewers into active participants." },
+  ],
+  exampleScript: `[HOOK — 0-3s]\n"7-day challenge: can ONE product replace my entire skincare routine? Let's find out."\n[Hold up single product, determined expression]\n\n[SETUP — 3-8s]\n"Day 1. Here's my skin — texture on my forehead, redness on my cheeks, and a breakout starting on my chin. For the next 7 days, this is the only product touching my face. No cleanser, no toner, just this."\n[Show skin close-up, point to problem areas]\n\n[PAYOFF — 8-18s]\n"Day 3: skin feels softer, redness is down. Day 5: the breakout dried up and the texture is smoothing out. Day 7: look at this. The redness is basically gone, texture is smooth, and my skin looks healthier than it has in months. One product. Seven days. I'm honestly shocked."\n[Show progression, day 7 close-up]\n\n[CTA — 18-22s]\n"Challenge: passed. Try it yourself — 7 days, one product. Link in bio."\n[Hold up product, point to link]`,
+  hooks: [
+    { line: "I'm testing [product] for 30 days straight. Day 1 vs Day 30 — let's see.", trigger: "The 30-day commitment signals thorough testing. The day 1 vs day 30 comparison promises a dramatic reveal.", products: "Any product with cumulative results — skincare, supplements, fitness, hair care" },
+    { line: "Can a $20 product outperform a $100 one? I'm testing both for 2 weeks.", trigger: "Price challenge creates immediate stakes. Everyone wants to know if the budget option can compete.", products: "Budget vs. premium products in any category" },
+    { line: "I replaced my entire routine with ONE product for a week. Here's what happened.", trigger: "The extreme constraint ('one product') creates curiosity about whether it's possible. Minimalism challenges are trending.", products: "Multi-purpose products, all-in-one solutions" },
+  ],
+  bestPractices: [
+    { label: "Ideal length", text: "20–40 seconds for social results videos, 60–180 seconds for full challenge documentation. Social should focus on the verdict; YouTube can show the full journey." },
+    { label: "Clear parameters", text: "Define the challenge rules upfront — duration, constraints, success criteria. Clear rules make the challenge feel legitimate and the results meaningful." },
+    { label: "Milestone updates", text: "Share progress at key points (day 3, day 7, day 14). Milestones create a narrative progression and show that results build over time." },
+    { label: "Honest verdicts", text: "Be honest about what worked and what didn't. A nuanced verdict ('great for texture, okay for dark spots') is more credible than 'it fixed everything.'" },
+    { label: "Replication invite", text: "Invite viewers to try the challenge themselves. This drives purchases and creates potential for user-generated content that extends the campaign." },
+    { label: "Captions", text: "Use day markers ('DAY 1,' 'DAY 7,' 'RESULTS') as visual anchors. Include a 'VERDICT: PASS/FAIL' at the end. The challenge format should be clear for sound-off viewers." },
+  ],
+  whenToUse: {
+    stage: "Mid funnel. Challenge videos work for audiences who are interested in a product but need proof of performance. The challenge format provides that proof in an entertaining way.",
+    audience: "Skeptical but curious consumers who want to see products tested under real conditions. They trust challenge results more than brand claims because the format feels unbiased.",
+    platforms: "TikTok (native challenge format), Instagram Reels, YouTube (full challenge documentation). Challenge content also works well in email campaigns as social proof.",
+    pairWith: "Follow challenge videos with testimonials from viewers who replicated the challenge. This creates a social proof loop that reinforces the original results.",
+  },
+  ctaLine: "Create challenge videos that test your product and prove it works. No 30-day wait, no documentation hassle.",
+};
+export default data;
