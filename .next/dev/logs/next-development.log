@@ -1,0 +1,112 @@
+[31:07:16.484] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/client/components/builtin/global-not-found'
+Require stack:
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-server.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/start-server.js
+[31:07:16.737] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-server.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/start-server.js
+[31:07:17.033] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-server.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/start-server.js
+[31:07:17.129] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-server.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/start-server.js
+[31:07:19.875] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/client/components/builtin/global-not-found'
+Require stack:
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-server.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/start-server.js
+[31:07:21.879] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-server.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/start-server.js
+[31:07:22.043] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-server.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/start-server.js
+[31:07:22.089] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-server.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/start-server.js
+[31:07:22.134] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/client/components/builtin/global-not-found'
+Require stack:
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-server.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/start-server.js
+[31:07:22.164] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-server.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/start-server.js
+[31:07:22.224] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-server.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/start-server.js
+[31:07:22.289] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-server.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/start-server.js
+[31:07:22.623] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/client/components/builtin/global-not-found'
+Require stack:
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-server.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/start-server.js
+[31:07:22.652] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-server.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/start-server.js
+[31:07:22.722] Server  ERROR   ⨯ Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-server.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/start-server.js
+[31:07:22.885] Server  ERROR   Error: Cannot find module 'next/dist/pages/_error'
+Require stack:
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/on-demand-entry-handler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/dev/hot-reloader-turbopack.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-utils/setup-dev-bundler.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/router-server.js
+- /Users/baback/My Drive/Develop/members.mom-v/ai-ugc/node_modules/next/dist/server/lib/start-server.js

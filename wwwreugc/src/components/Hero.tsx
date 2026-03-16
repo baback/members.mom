@@ -16,14 +16,14 @@ const floatingVideos = [
 
 export default function Hero() {
   return (
-    <section className="relative min-h-screen overflow-hidden px-5 md:px-8">
-      <div className="relative mx-auto max-w-7xl h-screen flex items-center justify-center">
-
+    <section className="relative overflow-hidden px-5 md:px-8">
+      {/* Desktop: full viewport centered layout */}
+      <div className="relative mx-auto max-w-7xl min-h-screen hidden md:flex items-center justify-center">
         {/* Floating video cards */}
         {floatingVideos.map((v, i) => (
           <div
             key={i}
-            className={`${v.className} z-0 animate-fade-up-${v.delay} hidden md:block`}
+            className={`${v.className} z-0 animate-fade-up-${v.delay}`}
           >
             <div className="shadow-2xl shadow-black/10 rounded-[1.25rem]">
               <VideoCard showMute={false} />
@@ -31,7 +31,7 @@ export default function Hero() {
           </div>
         ))}
 
-        {/* Center content — sits on top */}
+        {/* Center content */}
         <div className="relative z-10 text-center max-w-6xl mx-auto">
           <div className="animate-fade-up inline-flex items-center gap-2 rounded-full border border-border bg-card px-3.5 py-1 text-xs text-muted shadow-sm mb-8">
             <span className="h-1.5 w-1.5 rounded-full bg-foreground" />
@@ -45,11 +45,11 @@ export default function Hero() {
             </em>
           </h1>
 
-          <p className="animate-fade-up-d2 mt-5 text-base text-muted leading-relaxed md:text-lg text-center">
+          <p className="animate-fade-up-d2 mt-5 text-lg text-muted leading-relaxed text-center">
             AI actors. 50x cheaper than real creators. Ready in minutes, not weeks.
           </p>
 
-          <div className="animate-fade-up-d3 mt-9 flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
+          <div className="animate-fade-up-d3 mt-9 flex flex-row items-center justify-center gap-3">
             <a href="https://studio.reugc.com" className="inline-flex items-center gap-2 rounded-full bg-foreground px-7 py-3 text-sm font-medium text-background transition hover:bg-foreground/85 cursor-pointer">
               Start Creating
               <svg className="size-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
@@ -67,16 +67,53 @@ export default function Hero() {
             </a>
           </div>
         </div>
+      </div>
 
-        {/* Mobile: show 3 videos below content */}
-        <div className="absolute bottom-8 left-0 right-0 flex justify-center gap-3 md:hidden">
-          <div className="w-24 -rotate-3">
+      {/* Mobile: natural flow layout */}
+      <div className="md:hidden flex flex-col items-center pt-28 pb-12">
+        <div className="animate-fade-up inline-flex items-center gap-2 rounded-full border border-border bg-card px-3.5 py-1 text-xs text-muted shadow-sm mb-6">
+          <span className="h-1.5 w-1.5 rounded-full bg-foreground" />
+          Now in public beta
+        </div>
+
+        <h1 className="animate-fade-up-d1 text-[2rem] sm:text-[2.5rem] font-bold leading-[1.1] tracking-tight text-center">
+          UGC videos that{" "}
+          <em className="font-serif italic font-normal" style={{ fontFamily: "var(--font-serif)" }}>
+            convert 10x more
+          </em>
+        </h1>
+
+        <p className="animate-fade-up-d2 mt-4 text-base text-muted leading-relaxed text-center max-w-sm">
+          AI actors. 50x cheaper than real creators. Ready in minutes, not weeks.
+        </p>
+
+        <div className="animate-fade-up-d3 mt-8 flex flex-col items-center gap-3 w-full max-w-xs">
+          <a href="https://studio.reugc.com" className="inline-flex w-full items-center justify-center gap-2 rounded-full bg-foreground px-7 py-3 text-sm font-medium text-background transition hover:bg-foreground/85 cursor-pointer">
+            Start Creating
+            <svg className="size-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M9.813 15.904 9 18.75l-.813-2.846a4.5 4.5 0 0 0-3.09-3.09L2.25 12l2.846-.813a4.5 4.5 0 0 0 3.09-3.09L9 5.25l.813 2.846a4.5 4.5 0 0 0 3.09 3.09L15.75 12l-2.846.813a4.5 4.5 0 0 0-3.09 3.09Z" />
+            </svg>
+          </a>
+          <a href="https://studio.reugc.com" className="inline-flex w-full items-center justify-center gap-2 rounded-full border border-border bg-card px-6 py-3 text-sm font-medium transition hover:bg-card-hover cursor-pointer">
+            Continue with Google
+            <svg className="size-4" viewBox="0 0 24 24">
+              <path d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92a5.06 5.06 0 0 1-2.2 3.32v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.1z" fill="#4285F4"/>
+              <path d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z" fill="#34A853"/>
+              <path d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z" fill="#FBBC05"/>
+              <path d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z" fill="#EA4335"/>
+            </svg>
+          </a>
+        </div>
+
+        {/* Mobile video cards — in flow, not absolute */}
+        <div className="mt-10 flex justify-center gap-3">
+          <div className="w-24 -rotate-3 shadow-2xl shadow-black/10 rounded-[1.25rem] overflow-hidden">
             <VideoCard showMute={false} />
           </div>
-          <div className="w-28 rotate-1">
+          <div className="w-28 rotate-1 shadow-2xl shadow-black/10 rounded-[1.25rem] overflow-hidden">
             <VideoCard showMute={false} />
           </div>
-          <div className="w-24 rotate-4">
+          <div className="w-24 rotate-3 shadow-2xl shadow-black/10 rounded-[1.25rem] overflow-hidden">
             <VideoCard showMute={false} />
           </div>
         </div>
