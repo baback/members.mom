@@ -2,7 +2,12 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import CTA from "@/components/CTA";
 import VideoCard from "@/components/VideoCard";
+import type { Metadata } from "next";
 
+export const metadata: Metadata = {
+  title: "AI UGC Video Use Cases by Industry & Content Type | ReUGC",
+  description: "See how brands in e-commerce, SaaS, beauty, fitness, real estate, and finance use AI-generated UGC videos to scale ad creative and cut costs.",
+};
 const cases = [
   { slug: "ecommerce", name: "E-Commerce", desc: "Product demos, unboxings, and review-style content that drives purchases." },
   { slug: "saas", name: "SaaS & Software", desc: "Feature walkthroughs, onboarding videos, and product explainers." },

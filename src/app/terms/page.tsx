@@ -1,7 +1,12 @@
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import CTA from "@/components/CTA";
+import type { Metadata } from "next";
 
+export const metadata: Metadata = {
+  title: "Terms of Service | ReUGC",
+  description: "ReUGC terms of service. Usage rights, billing, and platform rules.",
+};
 export default function TermsPage() {
   return (
     <main>

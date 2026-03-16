@@ -1,0 +1,41 @@
+# ReUGC
+
+> AI UGC video maker. Create user-generated-style videos with lifelike AI actors — 50x cheaper than hiring creators, ready in under 2 minutes.
+
+## About
+
+ReUGC is an AI-powered platform that generates UGC (user-generated content) style videos using realistic AI actors. Brands use ReUGC to create product demos, testimonials, ad creatives, and social content at scale without hiring human creators.
+
+- Website: https://reugc.com
+- App: https://studio.reugc.com
+- Pricing: Starter $49/mo (10 videos), Pro $99/mo (25 videos), Pro Plus $199/mo (60 videos)
+
+## Key Features
+
+- 100+ AI actors with natural lip-sync, gestures, and expressions
+- 29 languages with native-sounding speech
+- AI script generation
+- Custom brand kits
+- Batch video generation for creative testing
+- Commercial usage rights on all plans
+
+## Use Cases
+
+- UGC-style ads for Meta, TikTok, YouTube, and Google
+- Product demos and reviews
+- Testimonial videos
+- Social content (Reels, Shorts, TikTok)
+- Explainer videos
+- Multilingual video localization
+
+## Content Sections
+
+- /alternative — Comparisons with other AI video tools (Arcads, HeyGen, Synthesia, etc.)
+- /industries — Industry-specific guides (e-commerce, SaaS, beauty, fitness, etc.)
+- /platforms — Platform-specific ad specs and scripts (TikTok, Facebook, Instagram, etc.)
+- /create — Video format guides with script frameworks
+- /glossary — Marketing and AI video terminology
+- /templates — Ready-to-use UGC video script templates
+- /blog — Guides, insights, and strategies
+- /use-cases — Use cases by industry and content type
+- /pricing — Plans and FAQ

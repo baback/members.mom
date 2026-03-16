@@ -3,6 +3,7 @@ import Footer from "@/components/Footer";
 import CTA from "@/components/CTA";
 import VideoCard from "@/components/VideoCard";
 import { notFound } from "next/navigation";
+import type { Metadata } from "next";
 
 const data: Record<string, { name: string; headline: string; sub: string; benefits: string[]; stats: { num: string; label: string }[] }> = {
   ecommerce: {
@@ -201,6 +202,16 @@ const data: Record<string, { name: string; headline: string; sub: string; benefi
 
 export function generateStaticParams() {
   return Object.keys(data).map((slug) => ({ slug }));
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
+  const page = data[slug];
+  if (!page) return {};
+  return {
+    title: `AI UGC Videos for ${page.name} | ReUGC`,
+    description: page.sub,
+  };
 }
 
 export default async function UseCasePage({ params }: { params: Promise<{ slug: string }> }) {

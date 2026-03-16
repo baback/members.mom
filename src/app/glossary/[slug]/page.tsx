@@ -4,9 +4,20 @@ import CTA from "@/components/CTA";
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { pages } from "../_data";
+import type { Metadata } from "next";
 
 export function generateStaticParams() {
   return Object.keys(pages).map((slug) => ({ slug }));
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
+  const page = pages[slug];
+  if (!page) return {};
+  return {
+    title: `${page.h1} | ReUGC`,
+    description: page.meta,
+  };
 }
 
 export default async function GlossaryPage({ params }: { params: Promise<{ slug: string }> }) {

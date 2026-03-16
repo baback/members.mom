@@ -1,7 +1,12 @@
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import CTA from "@/components/CTA";
+import type { Metadata } from "next";
 
+export const metadata: Metadata = {
+  title: "Privacy Policy | ReUGC",
+  description: "ReUGC privacy policy. How we collect, use, and protect your data.",
+};
 export default function PrivacyPage() {
   return (
     <main>

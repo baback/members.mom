@@ -1,6 +1,12 @@
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import CTA from "@/components/CTA";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "ReUGC Blog — AI UGC Tips, Guides & Insights",
+  description: "Learn how to create high-converting UGC videos with AI. Scripts, strategies, and real data from brands scaling with AI-generated content.",
+};
 
 const posts = [
   {
