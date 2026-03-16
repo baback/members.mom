@@ -37,7 +37,7 @@ export default function Navbar() {
     <nav className="fixed inset-x-0 top-0 z-50 glass border-b border-border/60">
       <div className="relative mx-auto flex max-w-6xl items-center justify-between px-5 py-3 md:px-8">
         <a href="/" className="flex items-center">
-          <img src="/logo/svg/logo-full-dark.svg" alt="ReUGC" className="h-4" />
+          <img src="/logo/svg/logo-full-dark.svg" alt="ReUGC" className="h-5" />
         </a>
 
         {/* Center nav — desktop */}
