@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   description:
     "Create UGC videos with AI actors that convert 10x more — at 50x less cost. No creators, no studios, no waiting.",
   icons: {
-    icon: "/logo/png/favicon.png",
+    icon: "/logo/png/favicon.png?v=2",
   },
 };
 
