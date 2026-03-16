@@ -4,6 +4,7 @@ import CTA from "@/components/CTA";
 import { notFound } from "next/navigation";
 import { pages } from "../_data";
 import type { Metadata } from "next";
+import { ogImageUrl } from "@/lib/og";
 
 export function generateStaticParams() {
   return Object.keys(pages).map((slug) => ({ slug }));
@@ -16,6 +17,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `${page.h1} | ReUGC`,
     description: page.meta,
+    openGraph: { images: [{ url: ogImageUrl("Industries", page.h1, page.meta), width: 1200, height: 630 }] },
   };
 }
 

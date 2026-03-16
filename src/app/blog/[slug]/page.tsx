@@ -3,6 +3,7 @@ import Footer from "@/components/Footer";
 import CTA from "@/components/CTA";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
+import { ogImageUrl } from "@/lib/og";
 
 const posts: Record<string, { title: string; date: string; tag: string; readTime: string; content: string[] }> = {
   "ai-ugc-vs-real-creators": {
@@ -111,9 +112,11 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const post = posts[slug];
   if (!post) return {};
+  const desc = post.content[0].slice(0, 160);
   return {
     title: `${post.title} | ReUGC Blog`,
-    description: post.content[0].slice(0, 160),
+    description: desc,
+    openGraph: { images: [{ url: ogImageUrl("Blog", post.title, desc), width: 1200, height: 630 }] },
   };
 }
 

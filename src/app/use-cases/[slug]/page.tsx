@@ -4,6 +4,7 @@ import CTA from "@/components/CTA";
 import VideoCard from "@/components/VideoCard";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
+import { ogImageUrl } from "@/lib/og";
 
 const data: Record<string, { name: string; headline: string; sub: string; benefits: string[]; stats: { num: string; label: string }[] }> = {
   ecommerce: {
@@ -211,6 +212,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   return {
     title: `AI UGC Videos for ${page.name} | ReUGC`,
     description: page.sub,
+    openGraph: { images: [{ url: ogImageUrl("Use Cases", `AI UGC Videos for ${page.name}`, page.sub), width: 1200, height: 630 }] },
   };
 }
 

@@ -3,10 +3,12 @@ import Footer from "@/components/Footer";
 import CTA from "@/components/CTA";
 import VideoCard from "@/components/VideoCard";
 import type { Metadata } from "next";
+import { ogImageUrl } from "@/lib/og";
 
 export const metadata: Metadata = {
   title: "AI UGC Video Use Cases by Industry & Content Type | ReUGC",
   description: "See how brands in e-commerce, SaaS, beauty, fitness, real estate, and finance use AI-generated UGC videos to scale ad creative and cut costs.",
+  openGraph: { images: [{ url: ogImageUrl("Use Cases", "AI UGC Video Use Cases", "See how brands use AI-generated UGC videos to scale ad creative and cut costs."), width: 1200, height: 630 }] },
 };
 const cases = [
   { slug: "ecommerce", name: "E-Commerce", desc: "Product demos, unboxings, and review-style content that drives purchases." },

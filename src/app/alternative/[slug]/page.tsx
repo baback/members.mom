@@ -6,6 +6,7 @@ import { notFound } from "next/navigation";
 import { pages } from "../_data";
 import { FaqAccordion } from "./faq";
 import type { Metadata } from "next";
+import { ogImageUrl } from "@/lib/og";
 
 export function generateStaticParams() {
   return Object.keys(pages).map((slug) => ({ slug }));
@@ -15,9 +16,11 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const { slug } = await params;
   const page = pages[slug];
   if (!page) return {};
+  const title = `${page.h1} | ReUGC`;
   return {
-    title: `${page.h1} | ReUGC`,
+    title,
     description: page.meta,
+    openGraph: { images: [{ url: ogImageUrl("Alternative", page.h1, page.meta), width: 1200, height: 630 }] },
   };
 }
 

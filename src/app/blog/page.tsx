@@ -2,10 +2,12 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import CTA from "@/components/CTA";
 import type { Metadata } from "next";
+import { ogImageUrl } from "@/lib/og";
 
 export const metadata: Metadata = {
   title: "ReUGC Blog — AI UGC Tips, Guides & Insights",
   description: "Learn how to create high-converting UGC videos with AI. Scripts, strategies, and real data from brands scaling with AI-generated content.",
+  openGraph: { images: [{ url: ogImageUrl("Blog", "ReUGC Blog", "AI UGC tips, guides, and insights for brands scaling video content."), width: 1200, height: 630 }] },
 };
 
 const posts = [
