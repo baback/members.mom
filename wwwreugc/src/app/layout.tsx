@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     type: "website",
     siteName: "ReUGC",
     locale: "en_US",
-    images: [{ url: "/og?section=ReUGC&title=ReUGC%20%E2%80%94%20AI%20UGC%20Video%20Maker&description=Create%20UGC%20videos%20with%20AI%20actors%20that%20convert%2010x%20more%20%E2%80%94%20at%2050x%20less%20cost.", width: 1200, height: 630 }],
+    images: [{ url: "/og?section=ReUGC&title=ReUGC%20%E2%80%94%20AI%20UGC%20Video%20Maker&description=Create%20UGC%20videos%20with%20AI%20actors%20that%20convert%2010x%20more%20%E2%80%94%20at%2050x%20less%20cost.&v=2", width: 1200, height: 630 }],
   },
   twitter: {
     card: "summary_large_image",
